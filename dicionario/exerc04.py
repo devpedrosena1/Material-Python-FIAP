@@ -1,5 +1,16 @@
 import os
 
+'''
+crie um dicionario onde a chave é o PIX da pessoa (cpnj/cpf, telefone, email)
+e o valor é um outro dicionario que armazena os dados de uma conta (nome, banco,
+numero da conta). Faça uma aplicação com duas opções no menu: Cadastrar chave pix 
+e consultar chave pix. No cadastra devera ser informado a chave pix e as informações
+do usuario. e na consulta o usuario aplica a chave pix e o sistema retorna as 
+informações completas do usuario. obs: no cadastro, se a chave existir deve retornar
+uma mensagem falando que a chave já está cadastrada, e na consulta, se a chave não
+existir, devera ser relatado tambem o problema. 
+'''
+
 dic = {}
 
 def limpar_tela():
