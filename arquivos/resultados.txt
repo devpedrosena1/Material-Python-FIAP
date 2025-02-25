@@ -1,0 +1,30 @@
+Palmeiras 1 X 2 Botafogo
+Palmeiras 5 X 1 Flamengo
+Palmeiras 1 X 2 Corinthians
+Palmeiras 3 X 0 São Paulo
+Palmeiras 1 X 5 Santos
+Botafogo 0 X 3 Flamengo
+Botafogo 1 X 4 Corinthians
+Botafogo 5 X 5 São Paulo
+Botafogo 4 X 2 Santos
+Flamengo 2 X 3 Corinthians
+Flamengo 5 X 3 São Paulo
+Flamengo 0 X 4 Santos
+Corinthians 1 X 5 São Paulo
+Corinthians 3 X 5 Santos
+São Paulo 0 X 1 Santos
+Botafogo 0 X 5 Palmeiras
+Flamengo 3 X 1 Palmeiras
+Corinthians 4 X 5 Palmeiras
+São Paulo 5 X 0 Palmeiras
+Santos 5 X 0 Palmeiras
+Flamengo 4 X 2 Botafogo
+Corinthians 1 X 4 Botafogo
+São Paulo 4 X 2 Botafogo
+Santos 0 X 0 Botafogo
+Corinthians 3 X 4 Flamengo
+São Paulo 2 X 2 Flamengo
+Santos 3 X 3 Flamengo
+São Paulo 3 X 2 Corinthians
+Santos 1 X 5 Corinthians
+Santos 5 X 2 São Paulo

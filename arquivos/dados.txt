@@ -1,0 +1,2 @@
+na aula de hoje aprendemos a como tratar excecoes
+utilizando a linguagem python, e tambem vimos arquivos
