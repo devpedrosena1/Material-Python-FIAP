@@ -1,2001 +1,2001 @@
-Notebook;Lenovo;Loja 3;28/1/2022;6;2144
-Notebook;Lenovo;Loja 2;19/7/2022;1;2550
-Notebook;Lenovo;Loja 1;24/1/2022;7;1744
-Máquina de lavar;Brastemp;Loja 3;4/12/2022;9;3856
-Smart TV;Phillips;Loja 3;28/4/2022;2;7161
-Máquina de lavar;Eletrolux;Loja 2;18/10/2022;10;4133
-Máquina de lavar;Brastemp;Loja 1;9/7/2022;4;5611
-Smart TV;Phillips;Loja 3;8/9/2022;6;4849
-Smart TV;LG;Loja 1;3/10/2022;6;3203
-Máquina de lavar;Eletrolux;Loja 1;15/5/2022;1;5123
-Celular;Apple;Loja 2;3/2/2022;5;4061
-Máquina de lavar;Brastemp;Loja 1;18/12/2022;7;3510
-Notebook;Lenovo;Loja 3;13/2/2022;10;2126
-Máquina de lavar;Eletrolux;Loja 3;23/3/2022;2;3095
-Smart TV;LG;Loja 2;20/3/2022;1;3524
-Notebook;Lenovo;Loja 2;11/4/2022;10;2245
-Celular;Apple;Loja 2;25/2/2022;4;4792
-Celular;Samsumg;Loja 1;19/8/2022;7;6404
-Celular;Apple;Loja 3;16/5/2022;10;3236
-Máquina de lavar;Brastemp;Loja 2;17/9/2022;8;2248
-Notebook;Asus;Loja 3;8/10/2022;4;1949
-Notebook;Asus;Loja 2;27/7/2022;1;2038
-Notebook;Lenovo;Loja 1;22/6/2022;4;2244
-Celular;Samsumg;Loja 3;9/3/2022;3;4515
-Notebook;Asus;Loja 1;1/8/2022;10;2410
-Smart TV;Phillips;Loja 2;7/3/2022;7;3831
-Smart TV;Phillips;Loja 1;21/8/2022;9;3263
-Máquina de lavar;Brastemp;Loja 3;2/8/2022;8;2202
-Celular;Apple;Loja 1;14/10/2022;2;3857
-Máquina de lavar;Eletrolux;Loja 3;10/11/2022;3;2710
-Celular;Samsumg;Loja 1;29/12/2022;1;5069
-Smart TV;Phillips;Loja 1;19/9/2022;9;3064
-Celular;Samsumg;Loja 2;5/2/2022;9;3933
-Máquina de lavar;Eletrolux;Loja 2;10/11/2022;9;3069
-Notebook;Lenovo;Loja 1;22/12/2022;8;1959
-Máquina de lavar;Brastemp;Loja 1;15/6/2022;2;3620
-Notebook;Lenovo;Loja 2;19/2/2022;3;1870
-Máquina de lavar;Eletrolux;Loja 1;20/1/2022;2;3346
-Máquina de lavar;Brastemp;Loja 1;7/11/2022;1;5836
-Notebook;Asus;Loja 2;26/10/2022;6;2382
-Notebook;Lenovo;Loja 3;25/7/2022;1;2385
-Notebook;Lenovo;Loja 3;17/8/2022;7;2292
-Máquina de lavar;Eletrolux;Loja 2;3/3/2022;10;2181
-Máquina de lavar;Brastemp;Loja 3;22/3/2022;9;3446
-Celular;Apple;Loja 3;24/6/2022;5;4805
-Notebook;Lenovo;Loja 3;11/5/2022;9;2370
-Smart TV;Phillips;Loja 2;29/10/2022;7;6157
-Celular;Apple;Loja 2;9/6/2022;3;6334
-Smart TV;LG;Loja 2;23/3/2022;1;7273
-Smart TV;Phillips;Loja 1;7/3/2022;9;7650
-Smart TV;LG;Loja 1;16/10/2022;2;5870
-Máquina de lavar;Eletrolux;Loja 2;5/5/2022;2;2388
-Máquina de lavar;Eletrolux;Loja 1;12/2/2022;8;3267
-Máquina de lavar;Brastemp;Loja 1;12/10/2022;2;4587
-Notebook;Asus;Loja 1;7/11/2022;10;2348
-Celular;Apple;Loja 2;30/5/2022;7;4222
-Smart TV;LG;Loja 1;12/6/2022;10;3710
-Máquina de lavar;Eletrolux;Loja 2;19/3/2022;1;5423
-Celular;Samsumg;Loja 2;27/1/2022;6;5982
-Smart TV;Phillips;Loja 2;16/6/2022;9;5380
-Smart TV;Phillips;Loja 2;13/8/2022;1;6998
-Smart TV;Phillips;Loja 3;22/4/2022;8;3316
-Notebook;Asus;Loja 3;9/1/2022;2;2571
-Máquina de lavar;Brastemp;Loja 2;10/3/2022;7;4459
-Celular;Apple;Loja 1;14/10/2022;3;6289
-Notebook;Asus;Loja 1;4/9/2022;3;2154
-Smart TV;Phillips;Loja 3;3/5/2022;2;4431
-Notebook;Lenovo;Loja 1;14/3/2022;8;2591
-Máquina de lavar;Eletrolux;Loja 1;14/7/2022;5;5325
-Smart TV;LG;Loja 1;18/10/2022;3;6661
-Notebook;Asus;Loja 2;25/2/2022;7;2018
-Máquina de lavar;Brastemp;Loja 1;26/5/2022;9;4759
-Máquina de lavar;Eletrolux;Loja 2;8/2/2022;8;5078
-Celular;Samsumg;Loja 1;8/7/2022;9;4746
-Notebook;Lenovo;Loja 1;9/6/2022;7;2182
-Notebook;Lenovo;Loja 3;17/4/2022;5;2307
-Máquina de lavar;Brastemp;Loja 3;29/5/2022;7;2321
-Notebook;Lenovo;Loja 1;22/9/2022;9;2493
-Smart TV;LG;Loja 1;22/1/2022;3;4178
-Smart TV;LG;Loja 3;21/11/2022;6;3056
-Notebook;Asus;Loja 1;6/1/2022;7;2179
-Smart TV;LG;Loja 1;13/6/2022;10;4298
-Notebook;Lenovo;Loja 1;26/2/2022;6;2424
-Máquina de lavar;Eletrolux;Loja 1;11/9/2022;3;4179
-Notebook;Asus;Loja 3;7/7/2022;7;1709
-Celular;Apple;Loja 2;15/5/2022;5;4148
-Smart TV;LG;Loja 2;12/4/2022;2;6503
-Celular;Apple;Loja 2;16/3/2022;9;3448
-Notebook;Asus;Loja 1;14/6/2022;10;1702
-Notebook;Lenovo;Loja 2;5/9/2022;4;2474
-Máquina de lavar;Eletrolux;Loja 2;15/8/2022;9;2407
-Notebook;Asus;Loja 3;4/5/2022;1;2335
-Notebook;Asus;Loja 3;4/8/2022;2;2192
-Máquina de lavar;Brastemp;Loja 2;14/4/2022;10;2722
-Máquina de lavar;Eletrolux;Loja 1;9/6/2022;2;3900
-Celular;Apple;Loja 2;30/9/2022;8;5285
-Notebook;Lenovo;Loja 3;6/4/2022;4;1708
-Celular;Samsumg;Loja 2;6/4/2022;3;2574
-Notebook;Lenovo;Loja 1;1/5/2022;3;2155
-Celular;Apple;Loja 3;30/2/2022;6;4984
-Celular;Samsumg;Loja 2;6/7/2022;8;6246
-Máquina de lavar;Brastemp;Loja 3;14/10/2022;4;4340
-Smart TV;Phillips;Loja 1;29/7/2022;5;4565
-Celular;Apple;Loja 3;19/3/2022;10;3377
-Celular;Apple;Loja 3;12/3/2022;4;5291
-Notebook;Asus;Loja 2;25/4/2022;6;1705
-Celular;Samsumg;Loja 2;2/10/2022;8;4682
-Smart TV;Phillips;Loja 3;22/10/2022;4;4081
-Notebook;Asus;Loja 2;13/1/2022;1;2428
-Notebook;Lenovo;Loja 1;18/7/2022;6;2453
-Máquina de lavar;Brastemp;Loja 1;27/2/2022;5;2080
-Máquina de lavar;Brastemp;Loja 2;19/8/2022;2;3584
-Smart TV;LG;Loja 3;27/8/2022;3;6800
-Celular;Samsumg;Loja 1;7/10/2022;5;2613
-Notebook;Lenovo;Loja 3;10/11/2022;3;2206
-Máquina de lavar;Brastemp;Loja 2;20/2/2022;1;5881
-Smart TV;Phillips;Loja 1;6/4/2022;1;3494
-Smart TV;Phillips;Loja 3;20/10/2022;9;3128
-Smart TV;LG;Loja 2;20/4/2022;9;5259
-Celular;Apple;Loja 2;26/1/2022;9;4472
-Smart TV;Phillips;Loja 1;11/12/2022;7;7821
-Notebook;Lenovo;Loja 3;22/10/2022;9;1954
-Smart TV;LG;Loja 1;9/2/2022;8;4557
-Máquina de lavar;Eletrolux;Loja 3;25/7/2022;10;3203
-Notebook;Lenovo;Loja 1;14/4/2022;10;1892
-Notebook;Lenovo;Loja 1;18/9/2022;5;2161
-Notebook;Lenovo;Loja 2;10/5/2022;6;2222
-Smart TV;LG;Loja 1;3/1/2022;9;6919
-Máquina de lavar;Brastemp;Loja 3;15/5/2022;8;2346
-Smart TV;LG;Loja 1;25/12/2022;1;5174
-Celular;Samsumg;Loja 1;8/5/2022;5;3461
-Notebook;Lenovo;Loja 2;4/6/2022;4;2207
-Celular;Apple;Loja 3;6/12/2022;6;5984
-Máquina de lavar;Brastemp;Loja 1;5/10/2022;6;3549
-Smart TV;LG;Loja 1;13/1/2022;9;4390
-Máquina de lavar;Brastemp;Loja 2;17/2/2022;6;2150
-Máquina de lavar;Eletrolux;Loja 2;4/8/2022;4;4460
-Máquina de lavar;Eletrolux;Loja 2;13/2/2022;9;2962
-Máquina de lavar;Eletrolux;Loja 2;13/10/2022;2;3762
-Smart TV;Phillips;Loja 3;24/12/2022;3;4985
-Notebook;Lenovo;Loja 2;29/8/2022;9;2014
-Celular;Samsumg;Loja 1;7/4/2022;3;4821
-Celular;Samsumg;Loja 1;19/2/2022;2;2066
-Smart TV;LG;Loja 2;3/2/2022;3;4879
-Celular;Apple;Loja 1;5/4/2022;10;3337
-Celular;Apple;Loja 3;12/2/2022;6;3902
-Máquina de lavar;Brastemp;Loja 1;13/8/2022;8;5344
-Celular;Apple;Loja 2;17/7/2022;4;3784
-Notebook;Lenovo;Loja 2;22/7/2022;6;2387
-Smart TV;LG;Loja 2;24/9/2022;4;3192
-Celular;Samsumg;Loja 1;13/8/2022;6;5533
-Smart TV;Phillips;Loja 2;26/4/2022;5;4745
-Smart TV;Phillips;Loja 3;22/1/2022;10;7515
-Notebook;Asus;Loja 2;2/11/2022;5;2363
-Máquina de lavar;Eletrolux;Loja 3;26/10/2022;7;2779
-Smart TV;LG;Loja 3;29/7/2022;7;6103
-Celular;Samsumg;Loja 1;28/6/2022;7;4738
-Máquina de lavar;Eletrolux;Loja 3;17/9/2022;4;4856
-Máquina de lavar;Brastemp;Loja 3;11/9/2022;1;2617
-Notebook;Lenovo;Loja 2;29/11/2022;3;2110
-Notebook;Asus;Loja 3;29/10/2022;8;1853
-Máquina de lavar;Eletrolux;Loja 1;23/2/2022;8;5517
-Máquina de lavar;Brastemp;Loja 2;10/4/2022;1;3553
-Celular;Samsumg;Loja 3;11/1/2022;5;3455
-Máquina de lavar;Eletrolux;Loja 1;12/9/2022;7;5035
-Máquina de lavar;Eletrolux;Loja 3;1/5/2022;8;3835
-Notebook;Lenovo;Loja 1;12/10/2022;9;2151
-Smart TV;Phillips;Loja 2;21/10/2022;1;3322
-Smart TV;LG;Loja 3;21/3/2022;2;6585
-Smart TV;LG;Loja 1;12/2/2022;3;6265
-Notebook;Asus;Loja 3;8/8/2022;1;1979
-Notebook;Asus;Loja 2;23/7/2022;10;1903
-Máquina de lavar;Eletrolux;Loja 2;8/1/2022;8;5727
-Smart TV;LG;Loja 1;7/1/2022;8;7905
-Máquina de lavar;Brastemp;Loja 2;27/2/2022;4;4055
-Notebook;Lenovo;Loja 2;7/4/2022;8;1983
-Notebook;Lenovo;Loja 2;20/2/2022;1;2413
-Notebook;Lenovo;Loja 3;24/10/2022;9;1970
-Celular;Samsumg;Loja 1;18/3/2022;10;5958
-Smart TV;LG;Loja 1;15/3/2022;2;6618
-Notebook;Lenovo;Loja 3;3/3/2022;7;2530
-Celular;Samsumg;Loja 1;9/3/2022;6;2067
-Celular;Samsumg;Loja 3;14/8/2022;2;4153
-Celular;Apple;Loja 2;27/6/2022;2;6144
-Celular;Samsumg;Loja 3;26/3/2022;1;3180
-Smart TV;LG;Loja 3;16/5/2022;9;3329
-Celular;Apple;Loja 1;20/7/2022;10;4495
-Celular;Apple;Loja 1;26/5/2022;4;3655
-Notebook;Lenovo;Loja 3;30/5/2022;10;2047
-Celular;Apple;Loja 1;29/3/2022;1;6456
-Máquina de lavar;Brastemp;Loja 3;18/3/2022;4;4362
-Celular;Apple;Loja 2;25/7/2022;4;5867
-Máquina de lavar;Eletrolux;Loja 1;22/12/2022;7;3000
-Notebook;Lenovo;Loja 3;7/3/2022;2;2583
-Máquina de lavar;Brastemp;Loja 2;7/9/2022;10;3640
-Smart TV;Phillips;Loja 2;2/5/2022;1;7682
-Máquina de lavar;Brastemp;Loja 1;1/5/2022;1;3570
-Smart TV;LG;Loja 3;25/12/2022;1;5836
-Máquina de lavar;Brastemp;Loja 1;30/2/2022;9;3324
-Smart TV;Phillips;Loja 3;13/11/2022;4;6882
-Smart TV;LG;Loja 1;11/11/2022;4;3255
-Notebook;Asus;Loja 1;21/2/2022;1;2540
-Máquina de lavar;Eletrolux;Loja 3;22/5/2022;5;4990
-Notebook;Lenovo;Loja 3;13/7/2022;10;1973
-Celular;Samsumg;Loja 2;5/5/2022;7;4366
-Celular;Apple;Loja 2;9/9/2022;2;3655
-Notebook;Asus;Loja 3;10/12/2022;3;1902
-Máquina de lavar;Eletrolux;Loja 2;26/6/2022;8;5694
-Smart TV;Phillips;Loja 2;23/8/2022;8;5937
-Máquina de lavar;Brastemp;Loja 3;25/5/2022;6;4142
-Máquina de lavar;Eletrolux;Loja 2;9/11/2022;1;3560
-Notebook;Lenovo;Loja 3;10/1/2022;5;1707
-Celular;Samsumg;Loja 1;23/8/2022;6;3963
-Notebook;Lenovo;Loja 2;30/7/2022;8;1709
-Smart TV;Phillips;Loja 1;24/1/2022;8;3164
-Máquina de lavar;Brastemp;Loja 1;30/3/2022;6;2071
-Smart TV;Phillips;Loja 3;22/1/2022;10;4341
-Celular;Apple;Loja 1;16/6/2022;5;5532
-Notebook;Lenovo;Loja 2;21/12/2022;8;2479
-Smart TV;Phillips;Loja 2;5/2/2022;10;5975
-Smart TV;Phillips;Loja 1;30/8/2022;7;4275
-Smart TV;LG;Loja 1;25/9/2022;1;3785
-Notebook;Lenovo;Loja 2;4/2/2022;1;2235
-Notebook;Lenovo;Loja 2;30/3/2022;6;2298
-Smart TV;Phillips;Loja 1;24/2/2022;1;5455
-Máquina de lavar;Eletrolux;Loja 2;22/5/2022;1;4534
-Notebook;Asus;Loja 2;15/11/2022;9;2491
-Smart TV;LG;Loja 3;23/9/2022;5;3007
-Notebook;Asus;Loja 3;16/12/2022;3;2299
-Celular;Samsumg;Loja 1;26/5/2022;3;4036
-Notebook;Asus;Loja 3;25/3/2022;3;2517
-Smart TV;Phillips;Loja 2;26/1/2022;10;3133
-Máquina de lavar;Brastemp;Loja 3;25/9/2022;10;3693
-Smart TV;LG;Loja 1;15/5/2022;2;7738
-Máquina de lavar;Brastemp;Loja 1;4/2/2022;4;5664
-Celular;Samsumg;Loja 1;11/8/2022;10;5499
-Máquina de lavar;Brastemp;Loja 3;17/10/2022;6;2481
-Notebook;Asus;Loja 1;13/4/2022;1;2301
-Máquina de lavar;Eletrolux;Loja 2;29/6/2022;3;3138
-Máquina de lavar;Eletrolux;Loja 3;11/10/2022;2;4235
-Celular;Samsumg;Loja 2;28/12/2022;2;6204
-Smart TV;Phillips;Loja 1;7/3/2022;5;3967
-Celular;Samsumg;Loja 3;11/9/2022;1;5161
-Smart TV;LG;Loja 3;8/7/2022;4;6860
-Smart TV;LG;Loja 3;18/7/2022;1;3590
-Smart TV;LG;Loja 1;25/11/2022;7;3817
-Notebook;Lenovo;Loja 2;1/5/2022;5;1956
-Notebook;Lenovo;Loja 3;20/7/2022;7;1947
-Máquina de lavar;Eletrolux;Loja 2;13/2/2022;8;3097
-Smart TV;LG;Loja 1;26/4/2022;7;4243
-Notebook;Asus;Loja 1;24/3/2022;3;2344
-Smart TV;Phillips;Loja 1;1/12/2022;10;4288
-Máquina de lavar;Eletrolux;Loja 2;30/7/2022;1;3470
-Máquina de lavar;Eletrolux;Loja 3;23/7/2022;4;2027
-Máquina de lavar;Eletrolux;Loja 1;15/4/2022;10;5332
-Celular;Apple;Loja 3;26/10/2022;4;3018
-Notebook;Asus;Loja 1;6/1/2022;2;2282
-Notebook;Asus;Loja 1;7/5/2022;5;1737
-Smart TV;Phillips;Loja 1;4/10/2022;4;3202
-Celular;Samsumg;Loja 3;11/7/2022;4;5288
-Smart TV;Phillips;Loja 3;27/11/2022;9;3890
-Máquina de lavar;Eletrolux;Loja 1;11/11/2022;5;4139
-Notebook;Asus;Loja 1;7/4/2022;3;2329
-Máquina de lavar;Brastemp;Loja 1;11/1/2022;7;5768
-Celular;Samsumg;Loja 2;19/6/2022;4;3512
-Smart TV;Phillips;Loja 1;25/6/2022;4;6600
-Notebook;Asus;Loja 1;6/11/2022;5;2355
-Smart TV;Phillips;Loja 3;21/1/2022;8;7871
-Máquina de lavar;Eletrolux;Loja 1;18/12/2022;6;3852
-Notebook;Asus;Loja 2;16/3/2022;2;2582
-Máquina de lavar;Eletrolux;Loja 1;9/5/2022;8;4080
-Máquina de lavar;Brastemp;Loja 3;6/9/2022;2;2925
-Notebook;Asus;Loja 2;6/7/2022;2;2399
-Máquina de lavar;Brastemp;Loja 2;27/8/2022;5;5966
-Máquina de lavar;Eletrolux;Loja 1;22/5/2022;7;3094
-Celular;Samsumg;Loja 1;29/1/2022;7;6585
-Máquina de lavar;Brastemp;Loja 1;24/12/2022;1;5993
-Notebook;Lenovo;Loja 1;28/5/2022;10;2578
-Máquina de lavar;Brastemp;Loja 2;4/7/2022;3;3113
-Notebook;Asus;Loja 3;26/2/2022;6;2254
-Máquina de lavar;Eletrolux;Loja 3;14/2/2022;7;2890
-Smart TV;LG;Loja 3;18/2/2022;7;3566
-Celular;Samsumg;Loja 3;22/10/2022;3;2914
-Notebook;Lenovo;Loja 1;26/3/2022;7;2541
-Smart TV;LG;Loja 1;18/9/2022;2;3298
-Notebook;Lenovo;Loja 3;19/5/2022;6;2473
-Celular;Samsumg;Loja 3;6/2/2022;6;2044
-Smart TV;Phillips;Loja 1;29/2/2022;4;5464
-Celular;Apple;Loja 1;11/3/2022;4;5983
-Notebook;Lenovo;Loja 3;25/1/2022;1;2067
-Notebook;Asus;Loja 1;9/4/2022;9;2164
-Máquina de lavar;Eletrolux;Loja 3;4/6/2022;8;3045
-Máquina de lavar;Eletrolux;Loja 3;18/12/2022;3;2887
-Celular;Apple;Loja 3;20/5/2022;1;3393
-Celular;Apple;Loja 3;4/11/2022;4;6036
-Celular;Samsumg;Loja 3;28/11/2022;7;5262
-Notebook;Asus;Loja 2;30/8/2022;1;2065
-Smart TV;Phillips;Loja 1;30/9/2022;2;4313
-Smart TV;Phillips;Loja 1;3/2/2022;4;7749
-Notebook;Asus;Loja 1;18/4/2022;4;2086
-Notebook;Asus;Loja 2;18/12/2022;7;1939
-Máquina de lavar;Brastemp;Loja 2;20/7/2022;1;2671
-Smart TV;LG;Loja 2;21/8/2022;4;4600
-Máquina de lavar;Eletrolux;Loja 2;8/9/2022;6;2878
-Celular;Apple;Loja 2;6/12/2022;9;2656
-Celular;Apple;Loja 2;17/11/2022;10;5493
-Celular;Apple;Loja 2;3/7/2022;5;4777
-Smart TV;Phillips;Loja 1;9/11/2022;5;6272
-Máquina de lavar;Brastemp;Loja 2;1/7/2022;3;4680
-Smart TV;LG;Loja 1;17/9/2022;10;4114
-Smart TV;Phillips;Loja 1;18/12/2022;5;7664
-Notebook;Asus;Loja 2;18/10/2022;10;2450
-Smart TV;LG;Loja 1;2/8/2022;1;3970
-Notebook;Lenovo;Loja 1;14/10/2022;6;2212
-Celular;Samsumg;Loja 1;30/3/2022;2;3565
-Notebook;Lenovo;Loja 1;25/6/2022;6;2259
-Celular;Apple;Loja 3;12/7/2022;4;3981
-Máquina de lavar;Eletrolux;Loja 3;1/2/2022;2;4015
-Celular;Samsumg;Loja 1;12/1/2022;9;5744
-Celular;Apple;Loja 1;1/4/2022;7;4171
-Notebook;Asus;Loja 1;29/1/2022;1;2122
-Notebook;Asus;Loja 2;22/11/2022;9;2123
-Celular;Samsumg;Loja 1;7/5/2022;2;3264
-Celular;Samsumg;Loja 2;2/10/2022;5;5675
-Máquina de lavar;Eletrolux;Loja 2;10/10/2022;9;4388
-Smart TV;LG;Loja 1;3/10/2022;6;5124
-Máquina de lavar;Eletrolux;Loja 2;14/7/2022;1;3926
-Smart TV;LG;Loja 2;30/7/2022;5;4068
-Máquina de lavar;Brastemp;Loja 3;15/2/2022;8;5923
-Celular;Apple;Loja 2;27/7/2022;7;6485
-Máquina de lavar;Brastemp;Loja 3;13/8/2022;3;5617
-Smart TV;LG;Loja 2;15/4/2022;5;4295
-Celular;Apple;Loja 2;17/7/2022;9;3173
-Celular;Apple;Loja 1;20/11/2022;1;3298
-Máquina de lavar;Brastemp;Loja 2;25/3/2022;2;5137
-Smart TV;LG;Loja 1;19/4/2022;8;6601
-Celular;Samsumg;Loja 1;27/11/2022;7;2963
-Smart TV;LG;Loja 2;13/11/2022;1;4088
-Celular;Apple;Loja 2;4/2/2022;3;5754
-Máquina de lavar;Brastemp;Loja 2;8/6/2022;6;5246
-Celular;Samsumg;Loja 3;14/6/2022;1;4002
-Notebook;Lenovo;Loja 3;29/5/2022;2;1982
-Celular;Samsumg;Loja 2;8/2/2022;5;3457
-Smart TV;LG;Loja 1;24/12/2022;9;4242
-Máquina de lavar;Eletrolux;Loja 1;29/7/2022;2;2044
-Smart TV;Phillips;Loja 3;27/1/2022;3;4534
-Máquina de lavar;Eletrolux;Loja 3;5/2/2022;8;5559
-Máquina de lavar;Brastemp;Loja 3;8/1/2022;2;5409
-Máquina de lavar;Brastemp;Loja 1;24/8/2022;10;4330
-Smart TV;LG;Loja 3;2/11/2022;5;5626
-Celular;Samsumg;Loja 1;8/10/2022;7;5555
-Smart TV;LG;Loja 1;12/6/2022;4;3852
-Smart TV;LG;Loja 1;24/1/2022;8;3543
-Máquina de lavar;Brastemp;Loja 3;22/12/2022;1;3291
-Celular;Samsumg;Loja 3;14/6/2022;2;5915
-Celular;Apple;Loja 2;14/3/2022;1;6966
-Máquina de lavar;Brastemp;Loja 2;2/12/2022;6;5895
-Máquina de lavar;Eletrolux;Loja 2;28/3/2022;8;4181
-Máquina de lavar;Brastemp;Loja 2;19/4/2022;10;3819
-Notebook;Asus;Loja 1;17/6/2022;1;2137
-Celular;Apple;Loja 2;8/1/2022;1;3446
-Smart TV;LG;Loja 2;24/9/2022;10;6997
-Máquina de lavar;Eletrolux;Loja 3;19/4/2022;5;2936
-Celular;Samsumg;Loja 1;1/8/2022;2;2924
-Celular;Apple;Loja 2;14/1/2022;4;5591
-Smart TV;LG;Loja 3;1/5/2022;10;7737
-Máquina de lavar;Brastemp;Loja 3;3/4/2022;8;3871
-Celular;Samsumg;Loja 1;12/12/2022;7;2889
-Celular;Samsumg;Loja 1;15/5/2022;7;3119
-Celular;Samsumg;Loja 2;13/3/2022;10;5736
-Smart TV;Phillips;Loja 3;1/5/2022;3;7730
-Celular;Samsumg;Loja 1;28/9/2022;8;6148
-Notebook;Lenovo;Loja 2;2/2/2022;5;2112
-Smart TV;Phillips;Loja 2;19/11/2022;8;5359
-Smart TV;Phillips;Loja 2;25/3/2022;8;4349
-Notebook;Lenovo;Loja 2;3/2/2022;1;2418
-Smart TV;LG;Loja 1;13/5/2022;3;3121
-Máquina de lavar;Brastemp;Loja 1;10/11/2022;3;5630
-Máquina de lavar;Eletrolux;Loja 3;6/8/2022;6;4067
-Notebook;Lenovo;Loja 2;20/1/2022;6;1876
-Celular;Apple;Loja 1;4/12/2022;10;4004
-Notebook;Lenovo;Loja 3;26/4/2022;10;2153
-Celular;Samsumg;Loja 2;26/12/2022;7;2674
-Smart TV;LG;Loja 1;18/12/2022;5;7107
-Smart TV;LG;Loja 2;15/10/2022;7;4061
-Celular;Samsumg;Loja 1;20/12/2022;4;5348
-Máquina de lavar;Brastemp;Loja 2;6/6/2022;6;2727
-Notebook;Asus;Loja 1;26/7/2022;1;2231
-Smart TV;LG;Loja 1;16/3/2022;5;6480
-Máquina de lavar;Brastemp;Loja 1;30/3/2022;6;2179
-Notebook;Asus;Loja 3;15/4/2022;1;2524
-Notebook;Lenovo;Loja 1;12/10/2022;2;2067
-Smart TV;Phillips;Loja 1;15/7/2022;10;6238
-Smart TV;Phillips;Loja 2;6/8/2022;10;7210
-Máquina de lavar;Eletrolux;Loja 1;8/5/2022;6;5581
-Máquina de lavar;Brastemp;Loja 3;28/1/2022;1;4592
-Notebook;Asus;Loja 1;17/12/2022;9;2523
-Máquina de lavar;Eletrolux;Loja 1;5/7/2022;1;5476
-Máquina de lavar;Brastemp;Loja 3;4/7/2022;4;3920
-Celular;Apple;Loja 3;6/3/2022;3;2555
-Notebook;Lenovo;Loja 3;3/3/2022;3;1733
-Celular;Apple;Loja 2;28/6/2022;3;2836
-Notebook;Lenovo;Loja 3;21/8/2022;6;2346
-Smart TV;LG;Loja 3;11/7/2022;6;4059
-Notebook;Asus;Loja 1;13/11/2022;6;1903
-Celular;Apple;Loja 2;8/10/2022;1;3393
-Notebook;Lenovo;Loja 1;26/9/2022;9;1870
-Máquina de lavar;Brastemp;Loja 1;2/5/2022;7;4536
-Celular;Apple;Loja 3;4/6/2022;4;2176
-Notebook;Asus;Loja 1;26/10/2022;1;2368
-Celular;Samsumg;Loja 3;27/10/2022;4;4622
-Máquina de lavar;Brastemp;Loja 2;9/5/2022;1;2936
-Celular;Apple;Loja 2;27/6/2022;5;4075
-Celular;Samsumg;Loja 3;10/6/2022;9;5972
-Máquina de lavar;Eletrolux;Loja 2;27/6/2022;10;3776
-Smart TV;Phillips;Loja 1;22/10/2022;10;6423
-Celular;Samsumg;Loja 2;15/3/2022;3;6072
-Máquina de lavar;Eletrolux;Loja 1;10/4/2022;6;3640
-Celular;Samsumg;Loja 1;9/8/2022;3;3770
-Máquina de lavar;Eletrolux;Loja 3;7/4/2022;1;4806
-Smart TV;Phillips;Loja 1;21/7/2022;10;6396
-Celular;Apple;Loja 2;16/4/2022;9;3263
-Smart TV;Phillips;Loja 3;3/11/2022;4;4098
-Celular;Samsumg;Loja 3;8/10/2022;8;4171
-Smart TV;Phillips;Loja 2;3/11/2022;2;6686
-Celular;Apple;Loja 1;23/8/2022;8;2670
-Máquina de lavar;Brastemp;Loja 1;11/3/2022;5;5650
-Notebook;Asus;Loja 3;27/5/2022;4;2485
-Notebook;Asus;Loja 1;13/5/2022;9;2132
-Notebook;Asus;Loja 2;26/1/2022;6;1820
-Celular;Apple;Loja 1;12/10/2022;2;5540
-Máquina de lavar;Brastemp;Loja 2;2/12/2022;4;3333
-Máquina de lavar;Brastemp;Loja 2;7/12/2022;10;3252
-Notebook;Asus;Loja 2;16/1/2022;4;1898
-Notebook;Lenovo;Loja 2;8/4/2022;4;1766
-Smart TV;LG;Loja 2;5/3/2022;1;4800
-Celular;Samsumg;Loja 1;18/7/2022;7;5095
-Celular;Apple;Loja 2;25/4/2022;2;6395
-Notebook;Asus;Loja 3;6/12/2022;4;2174
-Smart TV;LG;Loja 3;6/7/2022;8;7408
-Notebook;Lenovo;Loja 3;16/9/2022;3;2381
-Máquina de lavar;Brastemp;Loja 2;8/12/2022;2;5887
-Smart TV;LG;Loja 3;27/12/2022;8;7243
-Notebook;Asus;Loja 1;6/8/2022;9;2493
-Notebook;Lenovo;Loja 3;8/6/2022;7;2230
-Máquina de lavar;Eletrolux;Loja 1;20/11/2022;3;2315
-Smart TV;LG;Loja 3;2/12/2022;10;3540
-Máquina de lavar;Eletrolux;Loja 3;8/2/2022;1;2966
-Smart TV;Phillips;Loja 1;28/8/2022;5;6438
-Celular;Samsumg;Loja 3;23/11/2022;9;4634
-Máquina de lavar;Brastemp;Loja 3;22/10/2022;2;3505
-Máquina de lavar;Brastemp;Loja 2;13/1/2022;9;3491
-Celular;Apple;Loja 3;21/6/2022;7;2783
-Smart TV;Phillips;Loja 1;24/4/2022;5;7940
-Máquina de lavar;Eletrolux;Loja 3;15/12/2022;7;5957
-Máquina de lavar;Eletrolux;Loja 1;11/12/2022;9;4302
-Notebook;Asus;Loja 2;11/11/2022;9;2307
-Notebook;Asus;Loja 1;10/12/2022;10;2040
-Celular;Samsumg;Loja 2;20/12/2022;3;6181
-Celular;Apple;Loja 1;5/11/2022;10;2802
-Celular;Samsumg;Loja 2;27/3/2022;4;5121
-Celular;Samsumg;Loja 1;7/2/2022;2;2927
-Celular;Apple;Loja 3;4/7/2022;10;3462
-Notebook;Lenovo;Loja 3;21/4/2022;5;1866
-Celular;Apple;Loja 2;3/5/2022;1;6022
-Máquina de lavar;Eletrolux;Loja 1;25/4/2022;1;4815
-Smart TV;LG;Loja 2;25/8/2022;1;3290
-Smart TV;Phillips;Loja 3;17/9/2022;9;7609
-Máquina de lavar;Brastemp;Loja 2;24/7/2022;8;2646
-Smart TV;LG;Loja 1;12/12/2022;6;6554
-Notebook;Asus;Loja 1;24/3/2022;4;2248
-Celular;Samsumg;Loja 3;22/3/2022;7;5737
-Máquina de lavar;Eletrolux;Loja 3;13/3/2022;2;5466
-Notebook;Asus;Loja 2;22/11/2022;5;2319
-Smart TV;LG;Loja 2;26/10/2022;9;5584
-Notebook;Lenovo;Loja 3;16/12/2022;8;1891
-Notebook;Asus;Loja 1;19/5/2022;1;2153
-Notebook;Asus;Loja 2;27/8/2022;2;2502
-Máquina de lavar;Eletrolux;Loja 3;28/2/2022;8;3971
-Máquina de lavar;Eletrolux;Loja 3;8/4/2022;10;4173
-Máquina de lavar;Eletrolux;Loja 2;8/1/2022;4;4570
-Smart TV;LG;Loja 2;16/1/2022;5;3113
-Máquina de lavar;Eletrolux;Loja 1;13/10/2022;5;2010
-Notebook;Asus;Loja 2;16/5/2022;7;1813
-Notebook;Lenovo;Loja 3;27/11/2022;2;1775
-Celular;Apple;Loja 1;11/12/2022;6;4108
-Máquina de lavar;Brastemp;Loja 2;9/2/2022;9;5072
-Smart TV;LG;Loja 1;25/11/2022;10;6752
-Máquina de lavar;Eletrolux;Loja 3;20/6/2022;10;4586
-Smart TV;LG;Loja 1;4/1/2022;8;3492
-Smart TV;Phillips;Loja 1;14/12/2022;7;4130
-Notebook;Asus;Loja 2;24/2/2022;1;2371
-Notebook;Lenovo;Loja 1;17/6/2022;9;2469
-Smart TV;Phillips;Loja 1;8/3/2022;9;7315
-Máquina de lavar;Eletrolux;Loja 3;24/9/2022;10;3546
-Máquina de lavar;Brastemp;Loja 1;17/9/2022;3;2413
-Celular;Samsumg;Loja 2;26/5/2022;2;6626
-Smart TV;Phillips;Loja 2;23/6/2022;3;4027
-Smart TV;Phillips;Loja 1;21/1/2022;4;4002
-Máquina de lavar;Eletrolux;Loja 3;10/9/2022;1;3307
-Smart TV;LG;Loja 1;25/12/2022;6;4172
-Smart TV;LG;Loja 3;12/6/2022;10;7069
-Máquina de lavar;Eletrolux;Loja 2;13/12/2022;6;3644
-Máquina de lavar;Eletrolux;Loja 1;28/5/2022;8;3184
-Celular;Samsumg;Loja 2;13/7/2022;9;2624
-Notebook;Asus;Loja 2;17/2/2022;9;1941
-Notebook;Asus;Loja 3;3/9/2022;3;2059
-Celular;Samsumg;Loja 3;8/6/2022;9;4098
-Máquina de lavar;Brastemp;Loja 2;14/1/2022;1;5230
-Notebook;Lenovo;Loja 1;6/7/2022;6;2223
-Notebook;Asus;Loja 2;15/8/2022;10;2036
-Notebook;Asus;Loja 2;25/8/2022;6;1882
-Smart TV;Phillips;Loja 1;3/9/2022;9;5432
-Smart TV;Phillips;Loja 2;25/11/2022;10;3944
-Notebook;Asus;Loja 3;13/4/2022;1;2363
-Smart TV;Phillips;Loja 3;29/7/2022;8;5039
-Notebook;Lenovo;Loja 2;30/2/2022;10;2272
-Smart TV;LG;Loja 1;24/5/2022;9;7197
-Notebook;Asus;Loja 2;30/6/2022;6;1960
-Máquina de lavar;Brastemp;Loja 1;23/3/2022;2;5402
-Máquina de lavar;Brastemp;Loja 1;11/9/2022;3;3052
-Notebook;Lenovo;Loja 3;5/10/2022;10;2389
-Celular;Apple;Loja 1;8/7/2022;8;6592
-Celular;Samsumg;Loja 1;14/3/2022;5;3891
-Notebook;Lenovo;Loja 2;23/3/2022;5;1713
-Celular;Apple;Loja 3;11/8/2022;5;4702
-Notebook;Lenovo;Loja 2;9/5/2022;1;2136
-Smart TV;Phillips;Loja 1;20/10/2022;10;7206
-Celular;Apple;Loja 3;13/9/2022;4;6043
-Máquina de lavar;Eletrolux;Loja 2;6/7/2022;7;2803
-Smart TV;Phillips;Loja 1;21/9/2022;6;6514
-Smart TV;Phillips;Loja 3;7/1/2022;7;7137
-Smart TV;Phillips;Loja 1;7/2/2022;6;3352
-Smart TV;LG;Loja 2;29/6/2022;5;3686
-Celular;Apple;Loja 2;26/4/2022;4;4789
-Notebook;Asus;Loja 3;25/10/2022;3;2505
-Máquina de lavar;Eletrolux;Loja 3;25/2/2022;5;5219
-Celular;Apple;Loja 3;13/7/2022;6;2860
-Celular;Apple;Loja 1;27/3/2022;7;4454
-Notebook;Lenovo;Loja 2;15/2/2022;9;2186
-Smart TV;Phillips;Loja 3;3/11/2022;1;5626
-Notebook;Asus;Loja 2;20/10/2022;9;1743
-Notebook;Lenovo;Loja 3;10/8/2022;4;2329
-Celular;Samsumg;Loja 1;25/9/2022;4;4563
-Celular;Samsumg;Loja 3;22/4/2022;9;2697
-Notebook;Asus;Loja 1;30/8/2022;4;2379
-Notebook;Asus;Loja 3;7/9/2022;8;2055
-Celular;Apple;Loja 1;8/5/2022;2;6237
-Notebook;Asus;Loja 1;17/2/2022;1;2148
-Celular;Apple;Loja 1;3/6/2022;10;2276
-Smart TV;LG;Loja 1;11/7/2022;8;3969
-Smart TV;LG;Loja 3;21/7/2022;6;6673
-Notebook;Asus;Loja 2;5/8/2022;7;2186
-Notebook;Lenovo;Loja 2;20/4/2022;9;2228
-Smart TV;Phillips;Loja 1;26/11/2022;5;4470
-Notebook;Lenovo;Loja 2;1/12/2022;3;1706
-Máquina de lavar;Brastemp;Loja 3;14/5/2022;10;5399
-Celular;Samsumg;Loja 2;6/4/2022;3;6860
-Máquina de lavar;Eletrolux;Loja 1;28/4/2022;10;3159
-Smart TV;LG;Loja 3;17/11/2022;1;4954
-Smart TV;Phillips;Loja 1;20/6/2022;4;4291
-Smart TV;LG;Loja 1;30/9/2022;10;5812
-Máquina de lavar;Eletrolux;Loja 3;21/10/2022;2;3069
-Celular;Samsumg;Loja 3;20/12/2022;8;3762
-Celular;Samsumg;Loja 3;19/7/2022;2;3242
-Smart TV;LG;Loja 1;10/2/2022;4;5938
-Celular;Samsumg;Loja 2;30/7/2022;2;6215
-Celular;Apple;Loja 1;11/2/2022;4;4654
-Máquina de lavar;Eletrolux;Loja 2;17/10/2022;8;5802
-Máquina de lavar;Brastemp;Loja 1;13/5/2022;5;2854
-Celular;Samsumg;Loja 1;21/5/2022;2;3576
-Máquina de lavar;Eletrolux;Loja 1;14/8/2022;5;4604
-Celular;Apple;Loja 2;17/12/2022;2;2274
-Celular;Samsumg;Loja 1;6/6/2022;9;6543
-Smart TV;LG;Loja 2;3/2/2022;2;7676
-Máquina de lavar;Brastemp;Loja 3;8/12/2022;10;5889
-Smart TV;Phillips;Loja 1;11/5/2022;2;6329
-Máquina de lavar;Brastemp;Loja 3;22/8/2022;4;5930
-Celular;Samsumg;Loja 3;9/10/2022;3;2433
-Celular;Apple;Loja 3;12/6/2022;9;4714
-Smart TV;LG;Loja 3;11/6/2022;8;6594
-Notebook;Lenovo;Loja 3;20/5/2022;3;2562
-Notebook;Lenovo;Loja 2;9/1/2022;8;2384
-Notebook;Asus;Loja 1;21/8/2022;2;1822
-Máquina de lavar;Eletrolux;Loja 1;21/9/2022;10;2129
-Notebook;Asus;Loja 1;2/5/2022;2;2388
-Máquina de lavar;Eletrolux;Loja 3;14/11/2022;1;2266
-Smart TV;LG;Loja 3;7/7/2022;6;7959
-Máquina de lavar;Eletrolux;Loja 1;8/4/2022;6;2274
-Celular;Apple;Loja 1;2/12/2022;6;3537
-Notebook;Lenovo;Loja 1;27/12/2022;9;2527
-Máquina de lavar;Eletrolux;Loja 1;24/6/2022;1;5549
-Smart TV;Phillips;Loja 1;3/7/2022;8;6970
-Máquina de lavar;Eletrolux;Loja 1;5/7/2022;2;4166
-Smart TV;LG;Loja 2;23/9/2022;8;4296
-Máquina de lavar;Brastemp;Loja 2;11/10/2022;7;3274
-Smart TV;LG;Loja 2;18/10/2022;2;4666
-Máquina de lavar;Eletrolux;Loja 1;4/9/2022;10;3443
-Celular;Samsumg;Loja 1;3/5/2022;3;4836
-Máquina de lavar;Eletrolux;Loja 3;18/1/2022;7;2987
-Máquina de lavar;Brastemp;Loja 1;15/12/2022;8;3316
-Notebook;Lenovo;Loja 1;25/2/2022;3;1771
-Máquina de lavar;Eletrolux;Loja 3;19/5/2022;2;2747
-Celular;Apple;Loja 1;6/12/2022;8;6354
-Celular;Apple;Loja 2;11/10/2022;9;4200
-Celular;Apple;Loja 3;26/7/2022;7;6584
-Celular;Samsumg;Loja 2;21/6/2022;6;3255
-Máquina de lavar;Brastemp;Loja 3;26/11/2022;10;4707
-Smart TV;Phillips;Loja 2;4/1/2022;1;4623
-Smart TV;Phillips;Loja 2;27/7/2022;2;6478
-Smart TV;LG;Loja 1;25/3/2022;2;4647
-Máquina de lavar;Brastemp;Loja 3;26/2/2022;6;3695
-Máquina de lavar;Brastemp;Loja 3;9/3/2022;4;4047
-Máquina de lavar;Eletrolux;Loja 1;10/2/2022;7;3445
-Smart TV;LG;Loja 3;4/1/2022;4;7118
-Notebook;Asus;Loja 3;3/12/2022;1;2597
-Máquina de lavar;Eletrolux;Loja 3;26/4/2022;2;3917
-Celular;Apple;Loja 2;27/1/2022;8;4029
-Smart TV;Phillips;Loja 1;11/1/2022;5;6632
-Notebook;Lenovo;Loja 1;24/7/2022;2;1933
-Notebook;Lenovo;Loja 2;22/1/2022;2;1917
-Smart TV;LG;Loja 3;28/12/2022;3;5003
-Celular;Apple;Loja 2;13/2/2022;4;3579
-Smart TV;LG;Loja 1;2/10/2022;4;6243
-Máquina de lavar;Brastemp;Loja 2;2/9/2022;3;4428
-Celular;Apple;Loja 1;18/10/2022;4;3192
-Notebook;Asus;Loja 1;9/12/2022;10;2253
-Smart TV;LG;Loja 2;9/3/2022;5;7238
-Smart TV;LG;Loja 3;5/8/2022;7;3246
-Notebook;Asus;Loja 3;23/11/2022;1;1768
-Smart TV;LG;Loja 2;6/7/2022;3;4664
-Notebook;Lenovo;Loja 2;15/3/2022;9;2054
-Celular;Apple;Loja 3;4/1/2022;3;3827
-Máquina de lavar;Eletrolux;Loja 3;30/10/2022;10;4677
-Notebook;Asus;Loja 2;23/2/2022;1;2329
-Máquina de lavar;Eletrolux;Loja 3;2/12/2022;6;3439
-Máquina de lavar;Brastemp;Loja 2;10/7/2022;6;2778
-Smart TV;LG;Loja 2;20/7/2022;5;6408
-Smart TV;Phillips;Loja 1;5/8/2022;8;6743
-Máquina de lavar;Eletrolux;Loja 1;20/9/2022;10;2864
-Smart TV;Phillips;Loja 1;24/10/2022;8;4005
-Celular;Apple;Loja 2;5/10/2022;5;4800
-Máquina de lavar;Brastemp;Loja 2;26/5/2022;1;3963
-Máquina de lavar;Brastemp;Loja 3;25/10/2022;10;2674
-Máquina de lavar;Brastemp;Loja 1;28/8/2022;3;3241
-Máquina de lavar;Brastemp;Loja 2;21/7/2022;4;2567
-Smart TV;Phillips;Loja 3;15/11/2022;8;4635
-Celular;Apple;Loja 1;19/4/2022;7;6245
-Smart TV;Phillips;Loja 3;13/4/2022;3;5579
-Notebook;Asus;Loja 1;15/4/2022;6;2192
-Celular;Apple;Loja 2;17/3/2022;8;3660
-Máquina de lavar;Eletrolux;Loja 3;15/5/2022;2;2795
-Notebook;Lenovo;Loja 1;16/1/2022;3;1746
-Notebook;Asus;Loja 2;21/1/2022;6;1909
-Smart TV;Phillips;Loja 3;15/8/2022;7;5591
-Notebook;Asus;Loja 1;26/3/2022;10;2552
-Smart TV;LG;Loja 3;5/4/2022;4;5543
-Celular;Apple;Loja 2;12/5/2022;2;6792
-Smart TV;LG;Loja 3;14/10/2022;5;4454
-Celular;Samsumg;Loja 1;17/5/2022;3;6173
-Smart TV;Phillips;Loja 2;20/10/2022;5;3088
-Celular;Apple;Loja 3;10/8/2022;4;6372
-Máquina de lavar;Eletrolux;Loja 1;20/1/2022;3;3123
-Máquina de lavar;Brastemp;Loja 1;10/5/2022;2;4818
-Smart TV;Phillips;Loja 1;12/7/2022;2;6146
-Máquina de lavar;Eletrolux;Loja 2;1/2/2022;8;2747
-Celular;Samsumg;Loja 2;26/11/2022;9;3154
-Máquina de lavar;Brastemp;Loja 1;2/3/2022;10;3111
-Smart TV;Phillips;Loja 2;22/8/2022;3;4454
-Smart TV;LG;Loja 3;15/1/2022;6;6569
-Celular;Samsumg;Loja 1;27/2/2022;6;4362
-Celular;Samsumg;Loja 3;10/7/2022;4;5165
-Smart TV;LG;Loja 1;27/2/2022;10;6106
-Máquina de lavar;Eletrolux;Loja 1;1/3/2022;4;5318
-Celular;Samsumg;Loja 3;27/4/2022;5;3750
-Notebook;Lenovo;Loja 3;21/8/2022;1;2156
-Máquina de lavar;Eletrolux;Loja 2;4/11/2022;5;5104
-Celular;Apple;Loja 3;26/7/2022;5;3783
-Máquina de lavar;Brastemp;Loja 3;1/3/2022;3;2251
-Máquina de lavar;Brastemp;Loja 1;18/12/2022;6;4216
-Máquina de lavar;Eletrolux;Loja 2;1/1/2022;6;2412
-Smart TV;LG;Loja 3;16/6/2022;6;7158
-Celular;Samsumg;Loja 3;26/3/2022;8;5659
-Máquina de lavar;Eletrolux;Loja 3;21/6/2022;5;3124
-Notebook;Asus;Loja 1;1/1/2022;10;2015
-Notebook;Lenovo;Loja 2;20/7/2022;8;2536
-Máquina de lavar;Brastemp;Loja 2;30/4/2022;3;5290
-Celular;Apple;Loja 1;20/5/2022;1;5112
-Máquina de lavar;Eletrolux;Loja 2;11/9/2022;10;5586
-Celular;Samsumg;Loja 3;17/12/2022;9;3357
-Celular;Samsumg;Loja 2;22/8/2022;6;3103
-Celular;Apple;Loja 3;6/2/2022;2;4208
-Smart TV;Phillips;Loja 3;28/3/2022;9;3047
-Notebook;Lenovo;Loja 3;7/2/2022;4;2219
-Notebook;Lenovo;Loja 2;19/12/2022;7;2139
-Smart TV;LG;Loja 2;16/10/2022;9;6460
-Notebook;Lenovo;Loja 3;30/5/2022;6;2589
-Smart TV;LG;Loja 2;5/1/2022;9;3030
-Smart TV;LG;Loja 3;8/10/2022;10;3549
-Notebook;Asus;Loja 1;17/8/2022;2;2373
-Máquina de lavar;Brastemp;Loja 1;28/3/2022;7;2810
-Smart TV;LG;Loja 1;2/3/2022;3;4024
-Celular;Samsumg;Loja 3;22/5/2022;1;5913
-Notebook;Lenovo;Loja 2;15/12/2022;10;2388
-Máquina de lavar;Eletrolux;Loja 2;29/5/2022;2;5519
-Máquina de lavar;Brastemp;Loja 2;20/11/2022;8;4131
-Smart TV;LG;Loja 2;27/4/2022;2;6353
-Smart TV;LG;Loja 3;25/9/2022;3;4868
-Celular;Samsumg;Loja 1;22/7/2022;6;4405
-Notebook;Asus;Loja 2;4/5/2022;10;2163
-Notebook;Lenovo;Loja 2;16/12/2022;10;2460
-Notebook;Asus;Loja 1;18/3/2022;2;1704
-Notebook;Lenovo;Loja 2;20/5/2022;8;2397
-Notebook;Asus;Loja 3;2/11/2022;6;1919
-Celular;Apple;Loja 1;11/4/2022;1;5190
-Máquina de lavar;Eletrolux;Loja 2;4/4/2022;5;5184
-Celular;Samsumg;Loja 3;18/8/2022;1;3913
-Smart TV;Phillips;Loja 2;28/4/2022;4;5702
-Smart TV;Phillips;Loja 1;4/10/2022;9;7358
-Smart TV;Phillips;Loja 2;10/6/2022;9;3697
-Máquina de lavar;Brastemp;Loja 1;7/6/2022;5;4602
-Celular;Apple;Loja 3;14/6/2022;6;5331
-Celular;Samsumg;Loja 3;25/7/2022;5;2961
-Máquina de lavar;Brastemp;Loja 1;11/10/2022;10;2662
-Notebook;Lenovo;Loja 2;5/11/2022;5;2593
-Notebook;Lenovo;Loja 2;26/2/2022;10;1975
-Máquina de lavar;Brastemp;Loja 3;28/1/2022;9;4762
-Notebook;Asus;Loja 1;25/11/2022;9;2549
-Smart TV;LG;Loja 1;6/5/2022;3;7752
-Máquina de lavar;Brastemp;Loja 3;5/9/2022;9;2574
-Celular;Apple;Loja 2;23/6/2022;10;3328
-Celular;Apple;Loja 2;13/6/2022;4;6382
-Máquina de lavar;Eletrolux;Loja 2;17/5/2022;7;5687
-Máquina de lavar;Brastemp;Loja 1;28/5/2022;7;4570
-Celular;Samsumg;Loja 2;27/10/2022;9;4126
-Smart TV;Phillips;Loja 2;24/5/2022;9;3265
-Celular;Samsumg;Loja 1;19/10/2022;10;2444
-Máquina de lavar;Brastemp;Loja 2;8/2/2022;6;5910
-Notebook;Asus;Loja 3;4/6/2022;1;2343
-Notebook;Asus;Loja 1;2/6/2022;7;1792
-Notebook;Asus;Loja 2;19/6/2022;4;2108
-Máquina de lavar;Brastemp;Loja 2;26/10/2022;5;5345
-Smart TV;Phillips;Loja 1;29/2/2022;2;5231
-Notebook;Lenovo;Loja 3;24/3/2022;5;2560
-Smart TV;LG;Loja 2;14/3/2022;2;4225
-Máquina de lavar;Brastemp;Loja 1;20/6/2022;4;4037
-Notebook;Asus;Loja 3;17/11/2022;3;2342
-Smart TV;LG;Loja 3;11/10/2022;9;5337
-Celular;Apple;Loja 2;28/6/2022;1;2544
-Celular;Apple;Loja 2;9/4/2022;10;3523
-Celular;Apple;Loja 1;9/1/2022;5;5953
-Celular;Apple;Loja 2;1/11/2022;9;5750
-Máquina de lavar;Eletrolux;Loja 3;22/6/2022;1;4778
-Smart TV;LG;Loja 2;15/7/2022;5;5376
-Notebook;Asus;Loja 3;18/6/2022;2;2078
-Máquina de lavar;Brastemp;Loja 3;7/5/2022;1;2014
-Máquina de lavar;Eletrolux;Loja 1;21/5/2022;9;2462
-Notebook;Lenovo;Loja 1;15/5/2022;9;1895
-Notebook;Asus;Loja 3;7/8/2022;8;2094
-Celular;Apple;Loja 2;29/7/2022;5;6077
-Notebook;Asus;Loja 3;29/5/2022;9;2004
-Máquina de lavar;Brastemp;Loja 1;23/3/2022;10;5714
-Notebook;Asus;Loja 2;11/6/2022;2;2243
-Celular;Samsumg;Loja 1;16/5/2022;4;6119
-Máquina de lavar;Eletrolux;Loja 3;22/1/2022;6;3524
-Smart TV;Phillips;Loja 3;16/12/2022;2;3828
-Celular;Samsumg;Loja 2;15/12/2022;1;5176
-Notebook;Lenovo;Loja 3;5/6/2022;1;2502
-Notebook;Lenovo;Loja 1;11/6/2022;1;2577
-Celular;Samsumg;Loja 3;18/10/2022;7;3700
-Máquina de lavar;Eletrolux;Loja 1;3/9/2022;10;2983
-Celular;Samsumg;Loja 2;12/8/2022;6;5589
-Celular;Apple;Loja 1;22/12/2022;5;3260
-Smart TV;Phillips;Loja 3;1/12/2022;3;4837
-Smart TV;Phillips;Loja 1;23/8/2022;10;4054
-Notebook;Asus;Loja 1;23/9/2022;10;1788
-Celular;Apple;Loja 2;14/4/2022;4;3166
-Máquina de lavar;Eletrolux;Loja 2;12/9/2022;6;2651
-Máquina de lavar;Brastemp;Loja 3;28/1/2022;4;4416
-Máquina de lavar;Brastemp;Loja 2;17/9/2022;6;5336
-Celular;Samsumg;Loja 3;30/10/2022;1;2778
-Celular;Samsumg;Loja 3;22/2/2022;8;5057
-Smart TV;LG;Loja 2;23/9/2022;5;6473
-Smart TV;Phillips;Loja 2;19/3/2022;9;5091
-Notebook;Lenovo;Loja 2;11/2/2022;6;1847
-Smart TV;LG;Loja 2;3/2/2022;2;6322
-Smart TV;LG;Loja 1;20/6/2022;3;3390
-Máquina de lavar;Brastemp;Loja 3;22/9/2022;3;2793
-Máquina de lavar;Brastemp;Loja 2;23/3/2022;6;5248
-Máquina de lavar;Brastemp;Loja 1;3/9/2022;9;2015
-Celular;Apple;Loja 1;28/8/2022;3;3700
-Máquina de lavar;Eletrolux;Loja 2;22/11/2022;2;2274
-Notebook;Asus;Loja 3;12/11/2022;2;1781
-Notebook;Asus;Loja 1;20/12/2022;2;2088
-Celular;Samsumg;Loja 3;18/3/2022;3;3924
-Smart TV;Phillips;Loja 3;17/10/2022;5;7666
-Smart TV;LG;Loja 2;30/6/2022;10;5418
-Notebook;Lenovo;Loja 2;30/3/2022;10;2550
-Máquina de lavar;Brastemp;Loja 2;21/6/2022;5;5239
-Notebook;Asus;Loja 2;24/12/2022;7;1782
-Máquina de lavar;Brastemp;Loja 3;16/7/2022;8;3011
-Máquina de lavar;Eletrolux;Loja 1;14/5/2022;9;4219
-Máquina de lavar;Brastemp;Loja 2;17/2/2022;7;4709
-Máquina de lavar;Brastemp;Loja 1;22/2/2022;3;2716
-Celular;Samsumg;Loja 3;8/4/2022;3;3329
-Celular;Samsumg;Loja 3;25/5/2022;5;5671
-Notebook;Lenovo;Loja 2;18/1/2022;3;1789
-Celular;Samsumg;Loja 2;23/3/2022;9;4220
-Smart TV;LG;Loja 3;28/1/2022;9;7627
-Smart TV;Phillips;Loja 1;13/7/2022;6;7017
-Máquina de lavar;Brastemp;Loja 2;3/11/2022;5;4514
-Máquina de lavar;Brastemp;Loja 3;19/5/2022;8;5282
-Máquina de lavar;Eletrolux;Loja 1;13/12/2022;5;2950
-Smart TV;LG;Loja 1;21/8/2022;1;5463
-Máquina de lavar;Brastemp;Loja 1;21/9/2022;3;3333
-Notebook;Asus;Loja 2;29/11/2022;3;2389
-Smart TV;Phillips;Loja 1;8/5/2022;7;4681
-Celular;Samsumg;Loja 3;17/5/2022;10;5215
-Smart TV;Phillips;Loja 3;7/7/2022;3;4927
-Notebook;Asus;Loja 3;4/1/2022;7;2223
-Notebook;Asus;Loja 3;18/9/2022;10;1795
-Notebook;Lenovo;Loja 1;22/7/2022;1;2494
-Celular;Samsumg;Loja 3;3/4/2022;1;2671
-Máquina de lavar;Brastemp;Loja 1;19/12/2022;7;4507
-Smart TV;Phillips;Loja 1;10/1/2022;2;7084
-Máquina de lavar;Brastemp;Loja 2;11/2/2022;1;5669
-Máquina de lavar;Eletrolux;Loja 1;9/9/2022;3;5409
-Máquina de lavar;Eletrolux;Loja 3;4/4/2022;8;3993
-Smart TV;Phillips;Loja 1;19/9/2022;4;3271
-Celular;Samsumg;Loja 2;29/6/2022;10;2482
-Notebook;Lenovo;Loja 2;15/3/2022;8;2066
-Smart TV;Phillips;Loja 1;26/4/2022;6;3595
-Celular;Samsumg;Loja 2;4/10/2022;3;3790
-Smart TV;LG;Loja 2;4/6/2022;9;7600
-Notebook;Asus;Loja 2;12/4/2022;10;2589
-Máquina de lavar;Eletrolux;Loja 1;29/6/2022;1;3652
-Celular;Samsumg;Loja 2;22/4/2022;7;5237
-Celular;Apple;Loja 1;3/7/2022;2;5758
-Celular;Samsumg;Loja 1;21/10/2022;10;4977
-Celular;Samsumg;Loja 3;13/7/2022;2;6431
-Notebook;Lenovo;Loja 1;15/12/2022;1;2354
-Smart TV;Phillips;Loja 1;8/7/2022;5;4343
-Máquina de lavar;Brastemp;Loja 3;23/4/2022;1;2444
-Smart TV;Phillips;Loja 2;2/6/2022;8;5474
-Smart TV;LG;Loja 2;8/9/2022;2;4209
-Smart TV;LG;Loja 2;20/6/2022;7;5507
-Smart TV;LG;Loja 3;9/7/2022;5;5795
-Notebook;Asus;Loja 2;11/4/2022;2;2329
-Máquina de lavar;Eletrolux;Loja 2;28/12/2022;2;4165
-Celular;Samsumg;Loja 2;22/8/2022;5;3137
-Notebook;Asus;Loja 2;19/11/2022;10;2387
-Smart TV;LG;Loja 1;5/3/2022;4;5953
-Celular;Samsumg;Loja 2;25/5/2022;3;3414
-Celular;Apple;Loja 3;21/3/2022;8;4928
-Notebook;Lenovo;Loja 2;23/10/2022;5;1976
-Smart TV;LG;Loja 3;24/8/2022;10;3553
-Smart TV;Phillips;Loja 3;3/1/2022;2;7139
-Notebook;Lenovo;Loja 3;21/6/2022;8;2255
-Notebook;Lenovo;Loja 1;6/8/2022;10;2464
-Smart TV;LG;Loja 2;26/7/2022;9;6630
-Notebook;Lenovo;Loja 3;5/9/2022;7;2336
-Máquina de lavar;Brastemp;Loja 2;8/3/2022;7;2477
-Máquina de lavar;Eletrolux;Loja 2;9/8/2022;3;5464
-Celular;Apple;Loja 2;21/12/2022;9;6221
-Smart TV;LG;Loja 3;5/3/2022;8;7288
-Smart TV;LG;Loja 2;8/8/2022;3;3564
-Notebook;Lenovo;Loja 2;4/12/2022;7;2035
-Smart TV;Phillips;Loja 3;20/9/2022;10;5162
-Smart TV;LG;Loja 2;5/7/2022;6;5702
-Smart TV;LG;Loja 1;20/9/2022;9;4741
-Smart TV;Phillips;Loja 2;6/12/2022;4;4589
-Smart TV;Phillips;Loja 2;23/1/2022;9;6324
-Notebook;Lenovo;Loja 3;4/11/2022;2;2029
-Notebook;Asus;Loja 1;25/2/2022;9;1721
-Máquina de lavar;Brastemp;Loja 3;15/9/2022;7;4005
-Celular;Samsumg;Loja 1;23/3/2022;8;6705
-Smart TV;LG;Loja 3;10/6/2022;6;5751
-Smart TV;LG;Loja 3;30/12/2022;7;5814
-Notebook;Lenovo;Loja 3;19/10/2022;3;2040
-Celular;Apple;Loja 1;30/6/2022;8;5676
-Celular;Apple;Loja 1;10/10/2022;10;4381
-Máquina de lavar;Eletrolux;Loja 1;26/2/2022;9;4416
-Máquina de lavar;Eletrolux;Loja 1;13/7/2022;2;5553
-Smart TV;LG;Loja 3;17/9/2022;10;3329
-Celular;Apple;Loja 1;2/9/2022;4;4541
-Celular;Apple;Loja 3;1/8/2022;1;4471
-Smart TV;Phillips;Loja 2;4/10/2022;10;4866
-Máquina de lavar;Eletrolux;Loja 2;14/10/2022;7;3050
-Smart TV;LG;Loja 3;21/5/2022;1;3025
-Celular;Samsumg;Loja 2;9/10/2022;3;5266
-Máquina de lavar;Brastemp;Loja 3;8/12/2022;9;4906
-Máquina de lavar;Eletrolux;Loja 3;11/10/2022;2;2417
-Notebook;Lenovo;Loja 3;15/1/2022;5;2113
-Notebook;Asus;Loja 2;28/12/2022;9;2388
-Celular;Samsumg;Loja 1;3/9/2022;1;5907
-Notebook;Asus;Loja 1;3/8/2022;9;2569
-Celular;Samsumg;Loja 3;9/4/2022;9;3702
-Máquina de lavar;Eletrolux;Loja 1;16/4/2022;4;3711
-Máquina de lavar;Brastemp;Loja 3;16/1/2022;5;3124
-Smart TV;Phillips;Loja 2;18/11/2022;4;4601
-Máquina de lavar;Brastemp;Loja 1;25/9/2022;3;4247
-Celular;Apple;Loja 2;19/2/2022;6;2980
-Máquina de lavar;Eletrolux;Loja 3;26/7/2022;1;2664
-Celular;Apple;Loja 1;16/11/2022;3;5927
-Celular;Samsumg;Loja 3;23/11/2022;4;5005
-Celular;Samsumg;Loja 2;7/8/2022;7;3243
-Smart TV;LG;Loja 2;1/12/2022;3;7243
-Notebook;Asus;Loja 1;3/7/2022;8;2088
-Notebook;Lenovo;Loja 2;2/4/2022;8;1876
-Celular;Samsumg;Loja 1;13/8/2022;7;6706
-Máquina de lavar;Eletrolux;Loja 2;9/4/2022;5;2778
-Smart TV;LG;Loja 3;10/7/2022;3;6719
-Smart TV;LG;Loja 1;30/7/2022;1;6285
-Smart TV;LG;Loja 1;30/2/2022;1;6917
-Celular;Samsumg;Loja 1;15/12/2022;7;3345
-Celular;Apple;Loja 3;29/4/2022;7;4889
-Celular;Apple;Loja 3;24/12/2022;4;4016
-Notebook;Lenovo;Loja 3;1/11/2022;2;2247
-Máquina de lavar;Brastemp;Loja 2;16/4/2022;6;4082
-Notebook;Lenovo;Loja 3;23/6/2022;9;1940
-Máquina de lavar;Eletrolux;Loja 2;22/9/2022;5;4212
-Celular;Samsumg;Loja 2;18/8/2022;9;3275
-Máquina de lavar;Brastemp;Loja 1;16/9/2022;9;5496
-Notebook;Lenovo;Loja 1;14/2/2022;9;1902
-Máquina de lavar;Brastemp;Loja 1;26/10/2022;10;4030
-Smart TV;LG;Loja 1;9/10/2022;8;6183
-Notebook;Asus;Loja 2;2/3/2022;9;1879
-Máquina de lavar;Eletrolux;Loja 1;25/4/2022;10;4054
-Smart TV;Phillips;Loja 2;2/6/2022;8;7288
-Notebook;Lenovo;Loja 3;22/10/2022;4;2408
-Celular;Samsumg;Loja 1;3/4/2022;10;5865
-Notebook;Asus;Loja 2;5/5/2022;8;1754
-Celular;Samsumg;Loja 3;17/10/2022;8;6666
-Notebook;Lenovo;Loja 1;23/10/2022;7;2460
-Celular;Apple;Loja 3;14/12/2022;10;6985
-Celular;Apple;Loja 1;14/1/2022;5;4875
-Notebook;Asus;Loja 1;27/9/2022;3;1803
-Smart TV;Phillips;Loja 2;5/12/2022;1;7526
-Celular;Apple;Loja 3;17/7/2022;5;4131
-Celular;Samsumg;Loja 1;5/6/2022;2;3392
-Máquina de lavar;Brastemp;Loja 3;28/4/2022;9;2503
-Smart TV;LG;Loja 1;24/5/2022;8;5102
-Máquina de lavar;Eletrolux;Loja 3;8/8/2022;3;4344
-Celular;Samsumg;Loja 3;5/2/2022;7;2921
-Celular;Apple;Loja 2;5/10/2022;1;6730
-Celular;Samsumg;Loja 2;21/11/2022;4;2218
-Smart TV;Phillips;Loja 1;11/10/2022;1;5323
-Smart TV;LG;Loja 2;2/6/2022;3;6024
-Celular;Samsumg;Loja 1;19/5/2022;10;6090
-Celular;Samsumg;Loja 3;21/9/2022;2;4726
-Máquina de lavar;Eletrolux;Loja 2;5/3/2022;1;3444
-Máquina de lavar;Eletrolux;Loja 2;13/6/2022;4;3004
-Máquina de lavar;Brastemp;Loja 1;19/3/2022;6;2113
-Notebook;Lenovo;Loja 1;16/8/2022;5;2549
-Celular;Apple;Loja 1;30/6/2022;1;3794
-Notebook;Asus;Loja 3;24/2/2022;7;2214
-Máquina de lavar;Brastemp;Loja 3;10/9/2022;4;5334
-Celular;Apple;Loja 1;2/7/2022;3;2660
-Máquina de lavar;Eletrolux;Loja 2;19/9/2022;3;3170
-Celular;Samsumg;Loja 3;3/5/2022;6;3282
-Smart TV;LG;Loja 1;9/2/2022;3;6089
-Celular;Apple;Loja 2;27/10/2022;6;5302
-Notebook;Asus;Loja 1;7/4/2022;6;2053
-Celular;Samsumg;Loja 3;10/10/2022;9;5272
-Celular;Samsumg;Loja 1;1/10/2022;6;5665
-Celular;Apple;Loja 3;28/6/2022;2;2523
-Notebook;Asus;Loja 2;15/12/2022;2;2059
-Celular;Samsumg;Loja 3;5/11/2022;5;2179
-Máquina de lavar;Brastemp;Loja 3;9/7/2022;7;2738
-Notebook;Lenovo;Loja 1;29/3/2022;1;1735
-Máquina de lavar;Eletrolux;Loja 3;18/8/2022;3;4166
-Notebook;Lenovo;Loja 1;17/12/2022;6;2121
-Celular;Samsumg;Loja 2;30/10/2022;10;4768
-Smart TV;Phillips;Loja 2;16/4/2022;1;7872
-Máquina de lavar;Eletrolux;Loja 1;15/5/2022;6;4612
-Máquina de lavar;Eletrolux;Loja 2;3/6/2022;10;2803
-Notebook;Asus;Loja 3;11/3/2022;2;1962
-Máquina de lavar;Brastemp;Loja 2;9/4/2022;3;5882
-Celular;Apple;Loja 1;2/10/2022;2;5960
-Smart TV;Phillips;Loja 3;9/1/2022;1;7266
-Notebook;Asus;Loja 2;21/12/2022;1;1809
-Smart TV;LG;Loja 2;12/3/2022;7;7447
-Celular;Apple;Loja 1;25/2/2022;9;6660
-Notebook;Asus;Loja 3;22/12/2022;3;2020
-Smart TV;Phillips;Loja 1;11/5/2022;6;3907
-Notebook;Asus;Loja 1;5/1/2022;1;1913
-Smart TV;Phillips;Loja 2;19/5/2022;6;6148
-Máquina de lavar;Brastemp;Loja 2;14/1/2022;6;4852
-Celular;Apple;Loja 2;29/1/2022;5;5710
-Máquina de lavar;Brastemp;Loja 1;11/11/2022;10;4261
-Máquina de lavar;Eletrolux;Loja 2;3/10/2022;10;3777
-Smart TV;LG;Loja 3;23/2/2022;3;5466
-Celular;Apple;Loja 1;10/8/2022;5;4075
-Notebook;Lenovo;Loja 3;7/4/2022;8;2443
-Máquina de lavar;Brastemp;Loja 1;30/12/2022;5;3459
-Máquina de lavar;Brastemp;Loja 3;5/5/2022;8;4171
-Celular;Samsumg;Loja 1;18/10/2022;1;5132
-Notebook;Asus;Loja 3;9/5/2022;1;2121
-Celular;Apple;Loja 3;2/9/2022;7;6514
-Notebook;Lenovo;Loja 3;19/4/2022;3;1948
-Máquina de lavar;Brastemp;Loja 1;11/11/2022;3;5714
-Celular;Samsumg;Loja 1;21/1/2022;7;3176
-Máquina de lavar;Eletrolux;Loja 2;18/8/2022;9;3279
-Máquina de lavar;Brastemp;Loja 1;20/3/2022;5;5477
-Celular;Apple;Loja 3;8/2/2022;8;2156
-Máquina de lavar;Eletrolux;Loja 2;14/7/2022;2;4327
-Celular;Apple;Loja 1;5/3/2022;10;2510
-Máquina de lavar;Eletrolux;Loja 1;7/12/2022;7;4233
-Celular;Samsumg;Loja 2;25/5/2022;2;2102
-Máquina de lavar;Eletrolux;Loja 3;27/10/2022;8;2644
-Smart TV;Phillips;Loja 2;25/10/2022;9;3395
-Notebook;Asus;Loja 3;18/11/2022;7;1713
-Smart TV;LG;Loja 3;16/6/2022;8;6101
-Máquina de lavar;Brastemp;Loja 1;11/4/2022;10;4184
-Máquina de lavar;Brastemp;Loja 2;27/7/2022;3;2552
-Celular;Apple;Loja 3;1/5/2022;3;4255
-Smart TV;LG;Loja 3;27/8/2022;8;6276
-Celular;Apple;Loja 2;25/12/2022;2;6017
-Celular;Apple;Loja 3;4/12/2022;10;4144
-Notebook;Lenovo;Loja 2;10/12/2022;7;2589
-Notebook;Lenovo;Loja 1;27/4/2022;10;1786
-Máquina de lavar;Eletrolux;Loja 2;5/7/2022;8;2521
-Notebook;Asus;Loja 1;11/4/2022;3;2433
-Máquina de lavar;Eletrolux;Loja 1;28/9/2022;3;2962
-Máquina de lavar;Brastemp;Loja 1;2/11/2022;1;3684
-Smart TV;Phillips;Loja 1;7/11/2022;3;6816
-Celular;Apple;Loja 3;18/12/2022;3;5370
-Notebook;Lenovo;Loja 3;18/5/2022;2;2121
-Máquina de lavar;Eletrolux;Loja 3;30/3/2022;5;3343
-Notebook;Lenovo;Loja 3;25/2/2022;8;1704
-Notebook;Lenovo;Loja 1;16/11/2022;7;2509
-Smart TV;Phillips;Loja 2;24/1/2022;6;6436
-Smart TV;Phillips;Loja 3;24/12/2022;7;3328
-Máquina de lavar;Brastemp;Loja 2;29/9/2022;10;2706
-Smart TV;Phillips;Loja 3;30/7/2022;9;7108
-Celular;Apple;Loja 1;11/2/2022;4;3342
-Máquina de lavar;Eletrolux;Loja 3;22/5/2022;2;4778
-Celular;Samsumg;Loja 2;28/5/2022;8;6480
-Máquina de lavar;Eletrolux;Loja 3;2/12/2022;9;3998
-Celular;Samsumg;Loja 3;1/10/2022;9;4955
-Smart TV;Phillips;Loja 1;4/3/2022;10;3758
-Smart TV;Phillips;Loja 1;23/3/2022;3;5867
-Celular;Apple;Loja 1;7/6/2022;9;6934
-Celular;Apple;Loja 2;1/2/2022;8;4114
-Smart TV;Phillips;Loja 1;13/4/2022;10;6578
-Máquina de lavar;Brastemp;Loja 3;20/3/2022;3;2414
-Máquina de lavar;Brastemp;Loja 1;16/1/2022;1;3684
-Celular;Apple;Loja 2;10/9/2022;1;3240
-Notebook;Lenovo;Loja 1;27/1/2022;9;2301
-Máquina de lavar;Eletrolux;Loja 1;5/9/2022;5;5388
-Smart TV;Phillips;Loja 1;1/1/2022;3;3141
-Celular;Apple;Loja 1;13/11/2022;2;6481
-Máquina de lavar;Eletrolux;Loja 2;2/11/2022;5;5005
-Notebook;Asus;Loja 1;11/10/2022;5;2396
-Notebook;Asus;Loja 1;8/1/2022;7;1979
-Notebook;Asus;Loja 3;19/11/2022;5;1967
-Celular;Apple;Loja 2;27/7/2022;7;5716
-Smart TV;LG;Loja 2;17/7/2022;10;3162
-Máquina de lavar;Eletrolux;Loja 1;23/6/2022;4;2436
-Máquina de lavar;Eletrolux;Loja 3;18/8/2022;1;2467
-Celular;Apple;Loja 2;19/10/2022;3;5847
-Máquina de lavar;Eletrolux;Loja 2;10/11/2022;1;4793
-Smart TV;Phillips;Loja 2;4/10/2022;3;4898
-Máquina de lavar;Eletrolux;Loja 3;6/5/2022;4;4710
-Notebook;Asus;Loja 3;7/5/2022;4;2364
-Notebook;Lenovo;Loja 3;13/4/2022;2;2454
-Smart TV;LG;Loja 1;6/3/2022;9;6048
-Máquina de lavar;Eletrolux;Loja 3;15/10/2022;4;4822
-Celular;Apple;Loja 3;14/3/2022;1;6422
-Máquina de lavar;Eletrolux;Loja 3;30/6/2022;10;5588
-Máquina de lavar;Eletrolux;Loja 2;17/10/2022;5;3566
-Máquina de lavar;Eletrolux;Loja 1;13/2/2022;6;2897
-Smart TV;LG;Loja 1;16/7/2022;7;3539
-Notebook;Lenovo;Loja 1;2/12/2022;5;1964
-Notebook;Asus;Loja 2;21/11/2022;3;2026
-Smart TV;Phillips;Loja 2;6/9/2022;1;3608
-Celular;Apple;Loja 2;11/1/2022;5;4385
-Smart TV;Phillips;Loja 2;21/11/2022;9;5647
-Notebook;Asus;Loja 2;17/11/2022;3;2320
-Smart TV;LG;Loja 1;1/2/2022;3;3923
-Smart TV;Phillips;Loja 3;27/7/2022;10;5312
-Notebook;Lenovo;Loja 1;21/4/2022;4;2185
-Smart TV;Phillips;Loja 2;6/3/2022;5;7116
-Celular;Apple;Loja 2;14/2/2022;5;5531
-Notebook;Lenovo;Loja 3;1/6/2022;7;1930
-Smart TV;Phillips;Loja 2;27/6/2022;2;3322
-Smart TV;LG;Loja 2;8/9/2022;10;5455
-Notebook;Lenovo;Loja 1;7/8/2022;1;1831
-Celular;Samsumg;Loja 1;26/8/2022;3;6250
-Smart TV;Phillips;Loja 3;17/9/2022;10;3383
-Smart TV;LG;Loja 2;6/9/2022;5;4145
-Máquina de lavar;Brastemp;Loja 2;27/10/2022;4;3479
-Notebook;Lenovo;Loja 3;8/11/2022;2;2154
-Smart TV;LG;Loja 2;28/6/2022;6;4449
-Notebook;Lenovo;Loja 3;13/5/2022;3;2072
-Celular;Apple;Loja 1;3/11/2022;8;6748
-Celular;Samsumg;Loja 2;2/8/2022;9;2662
-Celular;Apple;Loja 1;25/3/2022;4;4616
-Smart TV;Phillips;Loja 1;9/2/2022;6;6105
-Máquina de lavar;Brastemp;Loja 1;20/7/2022;7;2055
-Smart TV;LG;Loja 3;4/6/2022;8;6497
-Smart TV;Phillips;Loja 3;23/4/2022;2;5958
-Máquina de lavar;Eletrolux;Loja 3;2/5/2022;3;2290
-Máquina de lavar;Brastemp;Loja 3;22/12/2022;8;3668
-Máquina de lavar;Eletrolux;Loja 2;23/3/2022;1;3230
-Máquina de lavar;Eletrolux;Loja 1;7/4/2022;8;5954
-Smart TV;LG;Loja 2;3/11/2022;10;5459
-Notebook;Lenovo;Loja 3;26/2/2022;8;2554
-Celular;Samsumg;Loja 3;16/11/2022;9;2520
-Celular;Samsumg;Loja 2;26/1/2022;7;6828
-Máquina de lavar;Eletrolux;Loja 3;30/9/2022;2;5974
-Máquina de lavar;Brastemp;Loja 2;15/2/2022;6;3537
-Notebook;Asus;Loja 2;19/8/2022;7;2125
-Smart TV;LG;Loja 1;9/11/2022;4;7237
-Smart TV;Phillips;Loja 1;11/2/2022;8;5329
-Máquina de lavar;Brastemp;Loja 1;22/11/2022;10;4720
-Celular;Samsumg;Loja 2;24/4/2022;3;3105
-Máquina de lavar;Eletrolux;Loja 2;15/6/2022;3;4489
-Smart TV;Phillips;Loja 1;30/12/2022;8;6334
-Notebook;Lenovo;Loja 2;23/11/2022;1;2112
-Máquina de lavar;Brastemp;Loja 2;4/9/2022;1;2728
-Celular;Samsumg;Loja 1;13/5/2022;6;5305
-Máquina de lavar;Eletrolux;Loja 1;4/3/2022;4;3701
-Smart TV;Phillips;Loja 2;27/10/2022;10;4444
-Notebook;Lenovo;Loja 1;22/12/2022;5;1812
-Celular;Apple;Loja 1;23/10/2022;5;4465
-Notebook;Lenovo;Loja 3;2/10/2022;3;1903
-Smart TV;Phillips;Loja 2;25/5/2022;5;6887
-Celular;Apple;Loja 1;30/12/2022;3;5085
-Smart TV;LG;Loja 2;28/12/2022;2;5167
-Celular;Samsumg;Loja 1;11/2/2022;5;3179
-Smart TV;Phillips;Loja 3;1/9/2022;10;6100
-Notebook;Asus;Loja 2;6/4/2022;5;2577
-Notebook;Lenovo;Loja 3;9/4/2022;4;2011
-Celular;Samsumg;Loja 1;20/1/2022;2;2491
-Notebook;Asus;Loja 3;27/8/2022;6;2223
-Notebook;Lenovo;Loja 3;16/3/2022;6;2266
-Notebook;Asus;Loja 1;7/9/2022;6;2541
-Máquina de lavar;Brastemp;Loja 2;1/8/2022;10;2021
-Máquina de lavar;Eletrolux;Loja 3;26/9/2022;2;3723
-Máquina de lavar;Brastemp;Loja 1;13/7/2022;7;2875
-Máquina de lavar;Eletrolux;Loja 1;22/8/2022;6;5424
-Celular;Samsumg;Loja 1;6/2/2022;3;4348
-Máquina de lavar;Eletrolux;Loja 2;28/6/2022;10;4540
-Smart TV;Phillips;Loja 2;20/5/2022;1;7344
-Notebook;Lenovo;Loja 3;16/12/2022;9;2504
-Smart TV;Phillips;Loja 1;12/6/2022;5;3302
-Smart TV;Phillips;Loja 1;20/6/2022;5;4679
-Celular;Apple;Loja 2;7/4/2022;10;3305
-Notebook;Lenovo;Loja 3;28/6/2022;2;2375
-Celular;Samsumg;Loja 2;9/7/2022;10;5517
-Notebook;Asus;Loja 3;27/6/2022;1;2398
-Notebook;Lenovo;Loja 1;26/8/2022;5;2372
-Celular;Apple;Loja 3;2/4/2022;4;2219
-Celular;Apple;Loja 1;1/5/2022;6;3979
-Máquina de lavar;Eletrolux;Loja 3;6/12/2022;10;2267
-Máquina de lavar;Brastemp;Loja 1;7/4/2022;8;4213
-Notebook;Lenovo;Loja 2;20/10/2022;9;2159
-Smart TV;Phillips;Loja 3;16/9/2022;1;6628
-Smart TV;LG;Loja 3;21/9/2022;9;6225
-Notebook;Asus;Loja 1;10/4/2022;8;2072
-Celular;Apple;Loja 2;25/12/2022;10;3826
-Smart TV;Phillips;Loja 3;12/6/2022;2;3867
-Máquina de lavar;Eletrolux;Loja 2;4/2/2022;2;3017
-Máquina de lavar;Eletrolux;Loja 1;10/7/2022;5;2671
-Smart TV;Phillips;Loja 1;2/12/2022;7;7543
-Celular;Apple;Loja 1;13/1/2022;6;5796
-Smart TV;Phillips;Loja 1;16/5/2022;7;7476
-Máquina de lavar;Brastemp;Loja 1;7/11/2022;4;2768
-Smart TV;Phillips;Loja 2;16/10/2022;10;4280
-Máquina de lavar;Eletrolux;Loja 3;6/6/2022;9;2631
-Celular;Samsumg;Loja 3;28/10/2022;10;4504
-Celular;Samsumg;Loja 2;9/7/2022;3;4531
-Celular;Samsumg;Loja 2;23/7/2022;4;5259
-Smart TV;Phillips;Loja 2;26/5/2022;8;5008
-Smart TV;Phillips;Loja 2;14/2/2022;9;4869
-Celular;Apple;Loja 3;3/10/2022;5;3609
-Celular;Samsumg;Loja 2;5/6/2022;1;2079
-Máquina de lavar;Eletrolux;Loja 2;3/8/2022;5;4810
-Máquina de lavar;Brastemp;Loja 1;24/4/2022;2;3893
-Notebook;Asus;Loja 3;15/7/2022;6;2206
-Celular;Samsumg;Loja 2;16/7/2022;9;3976
-Smart TV;Phillips;Loja 3;21/6/2022;8;4123
-Smart TV;Phillips;Loja 1;2/7/2022;1;5624
-Smart TV;LG;Loja 2;3/2/2022;8;4891
-Máquina de lavar;Brastemp;Loja 2;13/5/2022;8;4855
-Máquina de lavar;Eletrolux;Loja 3;20/5/2022;6;4145
-Smart TV;LG;Loja 2;6/4/2022;1;3938
-Smart TV;LG;Loja 3;3/3/2022;8;7455
-Celular;Samsumg;Loja 2;2/9/2022;9;4795
-Celular;Apple;Loja 1;12/10/2022;4;2196
-Smart TV;LG;Loja 1;22/10/2022;8;7836
-Smart TV;Phillips;Loja 3;6/1/2022;6;6618
-Smart TV;LG;Loja 3;26/11/2022;5;3898
-Máquina de lavar;Eletrolux;Loja 1;28/4/2022;5;4158
-Smart TV;LG;Loja 2;12/8/2022;3;5924
-Notebook;Asus;Loja 3;5/1/2022;10;1836
-Smart TV;Phillips;Loja 2;6/10/2022;1;7471
-Máquina de lavar;Eletrolux;Loja 3;11/2/2022;10;5131
-Celular;Samsumg;Loja 1;14/1/2022;1;4409
-Máquina de lavar;Eletrolux;Loja 3;4/1/2022;5;5310
-Máquina de lavar;Eletrolux;Loja 2;9/10/2022;9;5739
-Máquina de lavar;Eletrolux;Loja 2;16/7/2022;1;2066
-Smart TV;LG;Loja 2;12/12/2022;4;5168
-Máquina de lavar;Eletrolux;Loja 2;8/3/2022;6;2872
-Celular;Samsumg;Loja 3;20/1/2022;10;6244
-Máquina de lavar;Eletrolux;Loja 3;12/3/2022;2;4752
-Máquina de lavar;Brastemp;Loja 3;1/11/2022;1;5448
-Smart TV;Phillips;Loja 2;7/8/2022;5;7100
-Celular;Apple;Loja 3;27/4/2022;6;3045
-Notebook;Asus;Loja 1;9/1/2022;10;2480
-Máquina de lavar;Eletrolux;Loja 3;13/9/2022;7;4340
-Notebook;Asus;Loja 2;25/10/2022;5;2470
-Máquina de lavar;Brastemp;Loja 3;23/7/2022;8;5342
-Notebook;Asus;Loja 1;22/4/2022;9;1817
-Celular;Apple;Loja 2;20/3/2022;2;4263
-Máquina de lavar;Brastemp;Loja 1;1/6/2022;2;4957
-Máquina de lavar;Brastemp;Loja 3;12/5/2022;9;5244
-Smart TV;Phillips;Loja 3;17/12/2022;2;4440
-Notebook;Asus;Loja 3;11/4/2022;9;2585
-Máquina de lavar;Eletrolux;Loja 3;24/6/2022;8;5645
-Máquina de lavar;Brastemp;Loja 1;9/1/2022;9;4234
-Máquina de lavar;Eletrolux;Loja 2;23/12/2022;8;3403
-Celular;Apple;Loja 2;18/9/2022;8;3177
-Smart TV;LG;Loja 2;22/8/2022;1;4474
-Máquina de lavar;Eletrolux;Loja 3;8/12/2022;7;3219
-Notebook;Lenovo;Loja 2;5/4/2022;7;1793
-Celular;Apple;Loja 1;2/9/2022;2;4419
-Máquina de lavar;Eletrolux;Loja 3;23/6/2022;5;5578
-Celular;Apple;Loja 2;6/4/2022;2;6542
-Máquina de lavar;Eletrolux;Loja 3;14/5/2022;6;3686
-Smart TV;Phillips;Loja 3;15/3/2022;8;5146
-Smart TV;Phillips;Loja 2;7/11/2022;1;6193
-Smart TV;LG;Loja 2;19/3/2022;8;3312
-Notebook;Lenovo;Loja 2;17/9/2022;8;2506
-Notebook;Asus;Loja 2;8/7/2022;4;2516
-Celular;Apple;Loja 1;20/2/2022;10;5262
-Smart TV;LG;Loja 3;3/7/2022;3;6322
-Smart TV;LG;Loja 2;21/6/2022;4;7521
-Celular;Apple;Loja 3;20/12/2022;10;3543
-Notebook;Asus;Loja 1;14/8/2022;9;2282
-Smart TV;Phillips;Loja 1;21/11/2022;4;5910
-Smart TV;LG;Loja 3;7/7/2022;2;5906
-Smart TV;LG;Loja 1;19/8/2022;8;4517
-Smart TV;Phillips;Loja 1;17/6/2022;4;7200
-Notebook;Lenovo;Loja 3;18/12/2022;10;1941
-Celular;Samsumg;Loja 3;7/3/2022;3;4168
-Máquina de lavar;Brastemp;Loja 3;20/6/2022;2;5648
-Celular;Samsumg;Loja 1;7/4/2022;9;5887
-Celular;Samsumg;Loja 2;25/11/2022;4;3092
-Celular;Samsumg;Loja 3;30/2/2022;7;6169
-Celular;Samsumg;Loja 3;23/10/2022;8;2806
-Celular;Samsumg;Loja 1;1/2/2022;7;6218
-Máquina de lavar;Brastemp;Loja 1;1/5/2022;8;3722
-Notebook;Lenovo;Loja 3;4/7/2022;1;2124
-Smart TV;LG;Loja 2;5/12/2022;10;6684
-Notebook;Asus;Loja 2;6/11/2022;2;2551
-Celular;Samsumg;Loja 1;22/9/2022;7;2125
-Máquina de lavar;Brastemp;Loja 3;20/8/2022;6;2222
-Smart TV;LG;Loja 3;14/12/2022;7;7654
-Celular;Samsumg;Loja 2;22/9/2022;10;5643
-Smart TV;LG;Loja 1;7/10/2022;2;6263
-Notebook;Lenovo;Loja 2;20/11/2022;6;1750
-Notebook;Lenovo;Loja 3;24/1/2022;2;1868
-Notebook;Lenovo;Loja 3;30/2/2022;7;2408
-Smart TV;LG;Loja 1;22/4/2022;7;7192
-Máquina de lavar;Eletrolux;Loja 3;10/1/2022;6;4009
-Celular;Apple;Loja 3;22/3/2022;7;5316
-Máquina de lavar;Brastemp;Loja 3;10/4/2022;7;4181
-Smart TV;LG;Loja 1;17/12/2022;8;4339
-Máquina de lavar;Eletrolux;Loja 3;4/12/2022;10;3804
-Máquina de lavar;Brastemp;Loja 3;21/9/2022;1;2313
-Celular;Apple;Loja 1;28/11/2022;10;2940
-Máquina de lavar;Brastemp;Loja 1;25/5/2022;3;4546
-Notebook;Asus;Loja 3;30/12/2022;5;1772
-Máquina de lavar;Brastemp;Loja 3;27/9/2022;6;3799
-Máquina de lavar;Brastemp;Loja 2;18/11/2022;2;4296
-Máquina de lavar;Brastemp;Loja 1;26/9/2022;8;3377
-Máquina de lavar;Eletrolux;Loja 3;16/3/2022;9;5036
-Celular;Samsumg;Loja 2;5/11/2022;8;6949
-Máquina de lavar;Eletrolux;Loja 3;3/12/2022;3;2557
-Notebook;Lenovo;Loja 2;3/11/2022;9;1831
-Máquina de lavar;Brastemp;Loja 3;4/10/2022;7;4693
-Notebook;Lenovo;Loja 2;25/6/2022;5;2312
-Celular;Samsumg;Loja 3;23/2/2022;9;2951
-Notebook;Lenovo;Loja 1;22/11/2022;4;2540
-Máquina de lavar;Eletrolux;Loja 1;25/1/2022;8;5325
-Máquina de lavar;Eletrolux;Loja 3;18/6/2022;8;5223
-Máquina de lavar;Eletrolux;Loja 3;10/12/2022;10;2175
-Máquina de lavar;Brastemp;Loja 3;4/7/2022;1;5397
-Celular;Apple;Loja 3;24/2/2022;6;4343
-Smart TV;Phillips;Loja 3;13/7/2022;3;3285
-Celular;Apple;Loja 1;18/9/2022;9;5706
-Smart TV;Phillips;Loja 1;1/4/2022;10;5485
-Máquina de lavar;Brastemp;Loja 3;5/8/2022;1;5413
-Smart TV;Phillips;Loja 1;10/11/2022;2;3077
-Máquina de lavar;Eletrolux;Loja 2;24/8/2022;6;3046
-Celular;Apple;Loja 2;6/10/2022;4;2918
-Máquina de lavar;Eletrolux;Loja 2;2/9/2022;8;5643
-Máquina de lavar;Eletrolux;Loja 1;30/11/2022;1;5960
-Celular;Apple;Loja 3;3/6/2022;5;4913
-Máquina de lavar;Brastemp;Loja 3;15/6/2022;4;5213
-Celular;Samsumg;Loja 2;3/10/2022;4;2451
-Celular;Apple;Loja 3;8/12/2022;5;5727
-Notebook;Lenovo;Loja 1;27/7/2022;8;2292
-Máquina de lavar;Brastemp;Loja 2;7/9/2022;4;2605
-Celular;Samsumg;Loja 3;19/7/2022;10;4002
-Celular;Apple;Loja 1;24/11/2022;10;5175
-Smart TV;Phillips;Loja 1;7/11/2022;5;3740
-Máquina de lavar;Eletrolux;Loja 3;27/3/2022;8;3574
-Notebook;Lenovo;Loja 1;3/6/2022;8;2138
-Celular;Apple;Loja 3;5/1/2022;10;6648
-Máquina de lavar;Brastemp;Loja 3;22/2/2022;2;3776
-Notebook;Lenovo;Loja 3;23/10/2022;6;2010
-Máquina de lavar;Brastemp;Loja 2;20/5/2022;3;3385
-Celular;Samsumg;Loja 2;28/3/2022;9;4371
-Celular;Apple;Loja 3;24/7/2022;6;4562
-Celular;Samsumg;Loja 3;8/6/2022;5;6386
-Notebook;Asus;Loja 2;12/11/2022;5;2021
-Máquina de lavar;Brastemp;Loja 1;11/12/2022;8;4454
-Máquina de lavar;Brastemp;Loja 3;9/6/2022;5;3136
-Smart TV;LG;Loja 2;21/6/2022;2;4896
-Notebook;Lenovo;Loja 2;26/5/2022;1;2446
-Notebook;Lenovo;Loja 2;14/2/2022;1;2144
-Máquina de lavar;Eletrolux;Loja 2;24/10/2022;1;2146
-Notebook;Lenovo;Loja 2;18/6/2022;5;2378
-Notebook;Lenovo;Loja 3;5/8/2022;5;1718
-Máquina de lavar;Eletrolux;Loja 3;7/9/2022;9;3084
-Celular;Samsumg;Loja 2;18/1/2022;2;6914
-Celular;Apple;Loja 1;30/11/2022;6;3819
-Máquina de lavar;Eletrolux;Loja 3;6/3/2022;9;5698
-Notebook;Lenovo;Loja 2;15/3/2022;6;2281
-Notebook;Lenovo;Loja 1;30/4/2022;10;1886
-Celular;Samsumg;Loja 3;25/7/2022;5;3488
-Máquina de lavar;Brastemp;Loja 1;9/5/2022;8;3523
-Máquina de lavar;Eletrolux;Loja 2;8/8/2022;4;5070
-Celular;Apple;Loja 2;3/12/2022;10;5960
-Máquina de lavar;Eletrolux;Loja 1;18/1/2022;6;3917
-Notebook;Asus;Loja 3;6/12/2022;1;2470
-Celular;Samsumg;Loja 2;24/6/2022;5;3519
-Máquina de lavar;Brastemp;Loja 2;4/6/2022;4;3759
-Smart TV;Phillips;Loja 3;3/1/2022;6;6638
-Notebook;Asus;Loja 3;26/8/2022;5;1734
-Celular;Samsumg;Loja 2;25/4/2022;5;6689
-Celular;Samsumg;Loja 1;16/8/2022;2;5152
-Smart TV;Phillips;Loja 3;24/8/2022;1;5228
-Notebook;Asus;Loja 2;26/4/2022;9;2491
-Celular;Apple;Loja 2;8/10/2022;6;6806
-Smart TV;Phillips;Loja 1;30/8/2022;8;3438
-Notebook;Lenovo;Loja 1;2/5/2022;6;1929
-Smart TV;LG;Loja 3;13/7/2022;1;3774
-Notebook;Asus;Loja 3;10/8/2022;6;2213
-Notebook;Lenovo;Loja 2;19/8/2022;7;1783
-Celular;Samsumg;Loja 2;21/4/2022;5;4641
-Celular;Apple;Loja 3;23/8/2022;4;5011
-Máquina de lavar;Eletrolux;Loja 1;23/5/2022;9;5297
-Celular;Samsumg;Loja 2;2/1/2022;3;5760
-Smart TV;Phillips;Loja 1;30/10/2022;7;4967
-Smart TV;Phillips;Loja 3;6/10/2022;6;4542
-Celular;Apple;Loja 3;10/2/2022;1;4016
-Notebook;Asus;Loja 2;3/11/2022;10;2194
-Máquina de lavar;Eletrolux;Loja 3;2/12/2022;9;2942
-Celular;Apple;Loja 2;24/11/2022;4;6679
-Smart TV;LG;Loja 1;11/10/2022;6;4077
-Celular;Apple;Loja 3;7/3/2022;9;5782
-Celular;Apple;Loja 3;9/11/2022;5;4324
-Celular;Samsumg;Loja 1;17/11/2022;3;3447
-Notebook;Asus;Loja 1;9/1/2022;10;2557
-Notebook;Asus;Loja 2;13/9/2022;7;1707
-Máquina de lavar;Brastemp;Loja 2;29/12/2022;9;3492
-Celular;Apple;Loja 3;15/8/2022;7;6396
-Smart TV;Phillips;Loja 3;28/12/2022;1;7047
-Máquina de lavar;Eletrolux;Loja 2;7/8/2022;8;5727
-Celular;Samsumg;Loja 1;2/7/2022;7;4485
-Notebook;Asus;Loja 3;3/7/2022;8;1984
-Máquina de lavar;Brastemp;Loja 2;11/5/2022;1;2731
-Notebook;Lenovo;Loja 2;9/12/2022;2;2281
-Celular;Apple;Loja 1;25/6/2022;10;3369
-Notebook;Lenovo;Loja 2;29/5/2022;4;2575
-Notebook;Asus;Loja 2;2/11/2022;3;2015
-Celular;Samsumg;Loja 1;18/7/2022;10;6228
-Smart TV;Phillips;Loja 3;19/5/2022;9;5064
-Máquina de lavar;Eletrolux;Loja 2;10/1/2022;9;5243
-Smart TV;Phillips;Loja 1;27/10/2022;3;7937
-Celular;Samsumg;Loja 1;11/8/2022;3;7000
-Smart TV;Phillips;Loja 1;27/5/2022;7;4935
-Celular;Samsumg;Loja 1;29/6/2022;6;5829
-Smart TV;Phillips;Loja 3;16/4/2022;3;5895
-Celular;Samsumg;Loja 1;28/3/2022;9;3867
-Máquina de lavar;Eletrolux;Loja 1;22/10/2022;7;4216
-Smart TV;LG;Loja 2;11/5/2022;1;4948
-Celular;Apple;Loja 1;6/4/2022;10;3266
-Notebook;Lenovo;Loja 3;28/7/2022;4;2364
-Smart TV;LG;Loja 1;6/8/2022;6;5787
-Notebook;Lenovo;Loja 3;16/1/2022;4;1724
-Smart TV;LG;Loja 3;28/3/2022;8;7882
-Smart TV;LG;Loja 2;9/6/2022;1;7830
-Smart TV;LG;Loja 2;18/11/2022;3;6833
-Smart TV;Phillips;Loja 3;29/12/2022;8;5789
-Smart TV;Phillips;Loja 1;9/12/2022;4;5697
-Notebook;Asus;Loja 3;10/12/2022;9;2153
-Máquina de lavar;Brastemp;Loja 1;29/12/2022;7;2473
-Notebook;Asus;Loja 3;6/8/2022;10;2310
-Máquina de lavar;Brastemp;Loja 2;14/3/2022;5;5354
-Smart TV;Phillips;Loja 2;16/7/2022;2;3727
-Smart TV;Phillips;Loja 2;20/8/2022;8;7568
-Smart TV;LG;Loja 1;22/10/2022;10;5839
-Smart TV;Phillips;Loja 1;9/1/2022;8;3954
-Smart TV;LG;Loja 1;1/12/2022;4;4434
-Smart TV;LG;Loja 2;10/12/2022;7;3678
-Celular;Samsumg;Loja 2;29/10/2022;8;4675
-Celular;Apple;Loja 2;21/6/2022;10;5480
-Smart TV;LG;Loja 2;12/7/2022;1;4990
-Notebook;Asus;Loja 1;26/11/2022;10;2375
-Smart TV;LG;Loja 3;1/4/2022;4;7646
-Smart TV;LG;Loja 1;4/3/2022;2;3944
-Máquina de lavar;Eletrolux;Loja 3;4/2/2022;6;3791
-Celular;Samsumg;Loja 2;11/8/2022;1;4351
-Máquina de lavar;Brastemp;Loja 2;7/1/2022;3;5227
-Celular;Samsumg;Loja 1;22/9/2022;1;6470
-Notebook;Asus;Loja 1;17/8/2022;10;2223
-Smart TV;Phillips;Loja 2;17/3/2022;2;4019
-Celular;Samsumg;Loja 3;2/2/2022;3;2435
-Celular;Apple;Loja 1;17/3/2022;6;5737
-Celular;Apple;Loja 2;25/6/2022;9;5292
-Máquina de lavar;Brastemp;Loja 2;6/2/2022;2;5996
-Máquina de lavar;Brastemp;Loja 1;3/6/2022;4;3137
-Notebook;Lenovo;Loja 3;25/7/2022;8;1712
-Máquina de lavar;Brastemp;Loja 2;4/9/2022;1;3128
-Smart TV;Phillips;Loja 2;28/9/2022;7;6040
-Notebook;Asus;Loja 1;7/9/2022;6;1847
-Smart TV;LG;Loja 3;19/5/2022;8;6786
-Smart TV;Phillips;Loja 3;16/4/2022;3;6514
-Máquina de lavar;Brastemp;Loja 2;9/12/2022;3;4552
-Smart TV;LG;Loja 3;29/7/2022;1;6503
-Celular;Samsumg;Loja 2;11/8/2022;5;4802
-Máquina de lavar;Brastemp;Loja 1;3/9/2022;5;5566
-Máquina de lavar;Eletrolux;Loja 1;25/5/2022;2;5148
-Smart TV;Phillips;Loja 2;30/7/2022;8;6015
-Smart TV;Phillips;Loja 1;17/2/2022;9;3913
-Notebook;Lenovo;Loja 2;17/8/2022;6;1709
-Máquina de lavar;Eletrolux;Loja 2;4/8/2022;9;4233
-Notebook;Lenovo;Loja 3;14/7/2022;8;2243
-Máquina de lavar;Brastemp;Loja 1;8/4/2022;3;5513
-Celular;Apple;Loja 1;18/9/2022;4;5482
-Smart TV;Phillips;Loja 3;2/11/2022;4;6645
-Notebook;Lenovo;Loja 2;21/5/2022;3;2355
-Celular;Apple;Loja 3;5/5/2022;6;6793
-Notebook;Asus;Loja 2;28/10/2022;2;2216
-Notebook;Asus;Loja 3;1/4/2022;4;2422
-Celular;Samsumg;Loja 3;11/6/2022;10;3679
-Celular;Apple;Loja 1;7/10/2022;8;5497
-Máquina de lavar;Brastemp;Loja 3;4/1/2022;2;3138
-Notebook;Lenovo;Loja 3;17/5/2022;9;2400
-Notebook;Asus;Loja 3;16/2/2022;5;2535
-Celular;Apple;Loja 3;10/7/2022;10;3248
-Máquina de lavar;Eletrolux;Loja 2;26/4/2022;1;4045
-Máquina de lavar;Brastemp;Loja 3;4/10/2022;10;4002
-Máquina de lavar;Eletrolux;Loja 3;29/12/2022;1;5862
-Máquina de lavar;Brastemp;Loja 2;16/4/2022;10;5781
-Smart TV;LG;Loja 3;19/6/2022;2;6658
-Máquina de lavar;Brastemp;Loja 1;20/10/2022;7;5128
-Máquina de lavar;Eletrolux;Loja 3;3/3/2022;7;4311
-Celular;Samsumg;Loja 1;24/11/2022;10;4013
-Notebook;Lenovo;Loja 2;14/1/2022;9;2150
-Celular;Samsumg;Loja 1;12/10/2022;10;4003
-Celular;Apple;Loja 1;24/12/2022;2;3517
-Celular;Samsumg;Loja 3;13/10/2022;7;2002
-Smart TV;LG;Loja 2;8/10/2022;1;6343
-Notebook;Lenovo;Loja 2;29/9/2022;4;2151
-Celular;Samsumg;Loja 1;1/6/2022;10;3550
-Notebook;Asus;Loja 1;24/5/2022;9;1943
-Celular;Apple;Loja 2;23/4/2022;4;4613
-Máquina de lavar;Brastemp;Loja 1;23/11/2022;4;4812
-Máquina de lavar;Brastemp;Loja 3;1/7/2022;4;4107
-Smart TV;Phillips;Loja 2;14/4/2022;10;6965
-Smart TV;Phillips;Loja 1;12/8/2022;5;3107
-Smart TV;Phillips;Loja 3;21/8/2022;5;5454
-Máquina de lavar;Brastemp;Loja 1;9/5/2022;5;3910
-Celular;Samsumg;Loja 3;25/1/2022;2;3544
-Smart TV;Phillips;Loja 1;15/3/2022;8;4012
-Notebook;Asus;Loja 1;17/4/2022;2;2300
-Smart TV;Phillips;Loja 2;14/9/2022;1;6541
-Notebook;Asus;Loja 3;16/1/2022;6;2222
-Máquina de lavar;Brastemp;Loja 2;9/4/2022;7;2738
-Celular;Apple;Loja 3;13/5/2022;8;4423
-Máquina de lavar;Brastemp;Loja 3;2/9/2022;3;5418
-Smart TV;Phillips;Loja 1;29/8/2022;7;6309
-Celular;Samsumg;Loja 2;16/8/2022;10;6855
-Máquina de lavar;Eletrolux;Loja 3;9/5/2022;2;4793
-Smart TV;Phillips;Loja 1;3/1/2022;3;6948
-Notebook;Lenovo;Loja 1;15/12/2022;8;1814
-Celular;Apple;Loja 3;22/8/2022;4;2490
-Máquina de lavar;Eletrolux;Loja 2;23/3/2022;2;3720
-Notebook;Lenovo;Loja 3;17/1/2022;1;1970
-Notebook;Lenovo;Loja 3;1/3/2022;8;2090
-Máquina de lavar;Eletrolux;Loja 3;21/1/2022;1;5847
-Notebook;Lenovo;Loja 2;16/12/2022;9;1721
-Máquina de lavar;Brastemp;Loja 2;2/1/2022;6;4175
-Smart TV;LG;Loja 2;16/2/2022;6;5631
-Smart TV;LG;Loja 3;21/8/2022;5;7474
-Notebook;Asus;Loja 1;7/8/2022;2;2474
-Notebook;Lenovo;Loja 1;6/6/2022;4;2037
-Smart TV;LG;Loja 1;14/6/2022;9;5131
-Smart TV;Phillips;Loja 1;18/4/2022;2;3066
-Smart TV;Phillips;Loja 3;24/12/2022;1;3926
-Notebook;Asus;Loja 1;14/12/2022;1;2067
-Notebook;Lenovo;Loja 1;26/3/2022;8;1863
-Celular;Apple;Loja 2;13/10/2022;8;6075
-Celular;Samsumg;Loja 3;7/6/2022;7;6327
-Máquina de lavar;Brastemp;Loja 3;19/8/2022;5;2754
-Celular;Apple;Loja 2;16/9/2022;5;4346
-Máquina de lavar;Eletrolux;Loja 1;27/2/2022;8;3450
-Celular;Samsumg;Loja 1;8/7/2022;1;3235
-Celular;Apple;Loja 1;8/8/2022;2;6398
-Smart TV;LG;Loja 1;26/4/2022;2;7928
-Notebook;Asus;Loja 3;14/9/2022;1;2384
-Celular;Apple;Loja 3;4/4/2022;7;6104
-Smart TV;LG;Loja 2;13/4/2022;10;7904
-Smart TV;LG;Loja 2;25/9/2022;4;5066
-Máquina de lavar;Eletrolux;Loja 3;21/11/2022;4;5477
-Smart TV;LG;Loja 1;5/6/2022;8;5424
-Celular;Samsumg;Loja 3;8/6/2022;9;2080
-Celular;Samsumg;Loja 2;7/11/2022;5;5422
-Notebook;Asus;Loja 2;15/6/2022;5;2531
-Smart TV;Phillips;Loja 1;22/5/2022;5;6089
-Máquina de lavar;Brastemp;Loja 1;22/10/2022;6;5347
-Smart TV;LG;Loja 2;8/9/2022;5;4248
-Smart TV;Phillips;Loja 2;21/12/2022;10;6817
-Notebook;Asus;Loja 1;16/11/2022;3;2160
-Máquina de lavar;Brastemp;Loja 3;4/11/2022;2;2082
-Máquina de lavar;Eletrolux;Loja 3;14/4/2022;8;3325
-Celular;Samsumg;Loja 3;24/8/2022;7;5250
-Celular;Samsumg;Loja 3;4/10/2022;9;5236
-Notebook;Asus;Loja 1;26/12/2022;2;1791
-Smart TV;LG;Loja 3;29/8/2022;7;4468
-Celular;Samsumg;Loja 3;5/3/2022;2;6828
-Máquina de lavar;Eletrolux;Loja 2;17/3/2022;4;3906
-Máquina de lavar;Eletrolux;Loja 1;24/6/2022;6;3512
-Máquina de lavar;Eletrolux;Loja 2;13/11/2022;3;4631
-Celular;Samsumg;Loja 2;10/10/2022;10;5640
-Notebook;Lenovo;Loja 2;19/5/2022;5;1834
-Celular;Samsumg;Loja 1;18/4/2022;8;5613
-Máquina de lavar;Brastemp;Loja 3;2/8/2022;2;3531
-Celular;Samsumg;Loja 2;2/4/2022;4;4333
-Celular;Apple;Loja 3;13/12/2022;9;3139
-Celular;Samsumg;Loja 3;26/12/2022;2;2129
-Notebook;Lenovo;Loja 3;4/4/2022;8;2442
-Máquina de lavar;Brastemp;Loja 3;3/5/2022;3;4654
-Notebook;Asus;Loja 3;13/1/2022;2;1813
-Máquina de lavar;Eletrolux;Loja 1;21/5/2022;7;3916
-Máquina de lavar;Brastemp;Loja 1;4/3/2022;5;3675
-Celular;Samsumg;Loja 3;21/7/2022;10;5099
-Máquina de lavar;Brastemp;Loja 3;15/12/2022;5;3632
-Smart TV;LG;Loja 3;28/8/2022;1;4811
-Máquina de lavar;Brastemp;Loja 1;19/3/2022;3;3242
-Celular;Apple;Loja 1;16/1/2022;1;5800
-Notebook;Lenovo;Loja 3;7/12/2022;10;1815
-Notebook;Lenovo;Loja 3;8/12/2022;4;2110
-Máquina de lavar;Brastemp;Loja 1;7/10/2022;5;3272
-Celular;Apple;Loja 1;29/1/2022;9;6568
-Notebook;Asus;Loja 1;5/7/2022;7;2409
-Smart TV;LG;Loja 1;17/12/2022;3;7461
-Celular;Samsumg;Loja 2;9/9/2022;10;3710
-Smart TV;LG;Loja 1;3/8/2022;5;3898
-Smart TV;LG;Loja 1;13/4/2022;4;5839
-Notebook;Asus;Loja 2;6/3/2022;6;1798
-Smart TV;LG;Loja 2;3/11/2022;6;3978
-Smart TV;LG;Loja 3;19/1/2022;6;4762
-Smart TV;Phillips;Loja 2;16/11/2022;8;7062
-Notebook;Lenovo;Loja 3;5/8/2022;8;2031
-Máquina de lavar;Brastemp;Loja 2;19/10/2022;1;4123
-Celular;Apple;Loja 2;26/10/2022;10;5026
-Notebook;Lenovo;Loja 1;9/2/2022;4;1780
-Máquina de lavar;Eletrolux;Loja 1;20/7/2022;2;5818
-Smart TV;LG;Loja 3;19/2/2022;9;5152
-Máquina de lavar;Brastemp;Loja 3;19/7/2022;3;2620
-Smart TV;Phillips;Loja 1;20/1/2022;9;7907
-Máquina de lavar;Brastemp;Loja 2;26/1/2022;6;4308
-Smart TV;Phillips;Loja 2;1/5/2022;9;3277
-Celular;Samsumg;Loja 3;8/9/2022;9;5528
-Celular;Apple;Loja 2;30/6/2022;1;4310
-Notebook;Asus;Loja 1;1/4/2022;6;2128
-Notebook;Asus;Loja 2;5/5/2022;7;1795
-Notebook;Asus;Loja 1;9/9/2022;1;2532
-Notebook;Lenovo;Loja 3;16/8/2022;4;2403
-Notebook;Asus;Loja 1;9/1/2022;3;2366
-Smart TV;Phillips;Loja 2;1/1/2022;2;5504
-Notebook;Lenovo;Loja 2;27/9/2022;8;2236
-Smart TV;Phillips;Loja 1;5/3/2022;8;5271
-Máquina de lavar;Eletrolux;Loja 1;22/2/2022;2;2218
-Máquina de lavar;Eletrolux;Loja 1;8/11/2022;3;2790
-Celular;Samsumg;Loja 2;7/9/2022;2;5393
-Celular;Apple;Loja 2;18/10/2022;5;5404
-Máquina de lavar;Brastemp;Loja 2;21/7/2022;2;4182
-Notebook;Lenovo;Loja 2;3/3/2022;3;2278
-Smart TV;LG;Loja 1;16/8/2022;4;4518
-Celular;Samsumg;Loja 1;24/7/2022;8;2180
-Celular;Apple;Loja 2;26/4/2022;10;4709
-Celular;Apple;Loja 3;18/11/2022;4;5488
-Celular;Samsumg;Loja 1;29/1/2022;1;6833
-Máquina de lavar;Eletrolux;Loja 2;17/4/2022;5;3613
-Celular;Apple;Loja 3;11/9/2022;10;6071
-Smart TV;LG;Loja 3;29/9/2022;7;4620
-Máquina de lavar;Eletrolux;Loja 3;5/5/2022;3;5422
-Celular;Apple;Loja 1;18/4/2022;2;5849
-Notebook;Lenovo;Loja 1;1/5/2022;5;2224
-Celular;Samsumg;Loja 1;11/3/2022;8;6975
-Celular;Apple;Loja 2;21/4/2022;10;3904
-Notebook;Asus;Loja 2;4/10/2022;10;1821
-Smart TV;Phillips;Loja 2;4/10/2022;2;7039
-Celular;Apple;Loja 3;13/10/2022;2;6533
-Celular;Apple;Loja 2;20/12/2022;8;5184
-Celular;Apple;Loja 3;23/2/2022;3;5489
-Celular;Samsumg;Loja 1;6/11/2022;2;6253
-Smart TV;LG;Loja 3;10/6/2022;2;4100
-Notebook;Asus;Loja 3;20/5/2022;10;2240
-Smart TV;LG;Loja 3;24/12/2022;6;4869
-Celular;Samsumg;Loja 2;2/9/2022;6;3605
-Notebook;Asus;Loja 3;4/10/2022;4;2556
-Máquina de lavar;Brastemp;Loja 1;22/11/2022;1;4629
-Máquina de lavar;Brastemp;Loja 3;3/3/2022;6;3108
-Notebook;Asus;Loja 2;4/11/2022;4;2284
-Celular;Samsumg;Loja 2;16/6/2022;5;4281
-Notebook;Asus;Loja 3;4/1/2022;10;2357
-Notebook;Lenovo;Loja 1;11/11/2022;3;2173
-Celular;Samsumg;Loja 2;22/3/2022;2;2375
-Smart TV;Phillips;Loja 3;11/2/2022;4;6900
-Smart TV;LG;Loja 2;23/11/2022;5;5967
-Máquina de lavar;Brastemp;Loja 2;15/10/2022;7;3306
-Smart TV;LG;Loja 3;4/7/2022;4;5304
-Notebook;Asus;Loja 3;4/7/2022;9;2166
-Notebook;Lenovo;Loja 1;25/2/2022;5;2281
-Celular;Apple;Loja 3;19/9/2022;5;2532
-Máquina de lavar;Eletrolux;Loja 3;27/3/2022;5;2375
-Máquina de lavar;Brastemp;Loja 1;9/10/2022;8;5002
-Notebook;Asus;Loja 2;10/4/2022;4;1976
-Máquina de lavar;Brastemp;Loja 1;22/4/2022;9;2810
-Celular;Samsumg;Loja 3;22/11/2022;8;3128
-Notebook;Asus;Loja 2;30/3/2022;9;1702
-Smart TV;LG;Loja 3;6/8/2022;2;6797
-Máquina de lavar;Eletrolux;Loja 3;8/1/2022;10;2931
-Notebook;Asus;Loja 3;19/8/2022;3;1714
-Celular;Samsumg;Loja 3;28/1/2022;4;6789
-Notebook;Lenovo;Loja 3;28/2/2022;7;1865
-Máquina de lavar;Eletrolux;Loja 3;19/5/2022;8;2462
-Máquina de lavar;Brastemp;Loja 3;15/1/2022;3;3121
-Smart TV;Phillips;Loja 2;4/10/2022;7;7491
-Máquina de lavar;Brastemp;Loja 1;5/11/2022;3;3178
-Celular;Apple;Loja 2;11/7/2022;1;4330
-Máquina de lavar;Eletrolux;Loja 2;11/5/2022;9;4865
-Máquina de lavar;Brastemp;Loja 2;18/2/2022;6;4076
-Notebook;Lenovo;Loja 3;25/8/2022;1;1712
-Smart TV;Phillips;Loja 1;29/10/2022;6;5907
-Smart TV;LG;Loja 1;10/1/2022;10;4609
-Celular;Samsumg;Loja 3;14/7/2022;2;2448
-Smart TV;Phillips;Loja 2;6/7/2022;6;7244
-Celular;Apple;Loja 2;12/7/2022;3;4842
-Celular;Apple;Loja 2;29/3/2022;3;4061
-Celular;Samsumg;Loja 1;16/11/2022;10;5520
-Smart TV;Phillips;Loja 2;5/9/2022;10;7756
-Celular;Apple;Loja 3;2/7/2022;4;3136
-Celular;Samsumg;Loja 3;16/5/2022;6;4451
-Notebook;Lenovo;Loja 3;24/2/2022;7;2051
-Máquina de lavar;Brastemp;Loja 3;20/3/2022;3;5299
-Smart TV;LG;Loja 3;5/6/2022;4;5224
-Notebook;Lenovo;Loja 2;29/12/2022;9;2263
-Notebook;Asus;Loja 1;23/6/2022;1;2320
-Máquina de lavar;Brastemp;Loja 1;30/5/2022;3;4327
-Notebook;Asus;Loja 2;27/7/2022;10;1726
-Celular;Apple;Loja 2;23/2/2022;6;6506
-Notebook;Lenovo;Loja 3;27/6/2022;8;1957
-Notebook;Lenovo;Loja 1;14/6/2022;6;2038
-Smart TV;Phillips;Loja 1;18/6/2022;9;7591
-Notebook;Asus;Loja 1;1/7/2022;7;2060
-Celular;Apple;Loja 1;26/3/2022;10;6889
-Celular;Apple;Loja 1;28/3/2022;9;2045
-Smart TV;Phillips;Loja 2;18/12/2022;7;3728
-Máquina de lavar;Eletrolux;Loja 1;10/4/2022;6;4974
-Smart TV;Phillips;Loja 1;12/6/2022;9;7955
-Celular;Samsumg;Loja 1;6/10/2022;1;3500
-Notebook;Lenovo;Loja 1;9/9/2022;2;1936
-Máquina de lavar;Brastemp;Loja 2;22/7/2022;1;5740
-Notebook;Lenovo;Loja 3;13/9/2022;1;2144
-Notebook;Lenovo;Loja 2;29/3/2022;5;2055
-Máquina de lavar;Eletrolux;Loja 3;15/4/2022;3;5116
-Máquina de lavar;Eletrolux;Loja 3;19/1/2022;6;5696
-Notebook;Asus;Loja 2;2/8/2022;8;2580
-Notebook;Asus;Loja 1;19/6/2022;1;2517
-Celular;Apple;Loja 1;15/10/2022;4;2085
-Celular;Apple;Loja 2;5/9/2022;9;5190
-Smart TV;Phillips;Loja 1;6/2/2022;10;3067
-Celular;Samsumg;Loja 1;8/10/2022;6;4498
-Máquina de lavar;Eletrolux;Loja 3;2/12/2022;6;3256
-Celular;Apple;Loja 1;18/7/2022;10;4670
-Smart TV;LG;Loja 1;11/1/2022;10;4608
-Celular;Apple;Loja 2;17/12/2022;3;2728
-Smart TV;Phillips;Loja 3;6/10/2022;2;5251
-Celular;Apple;Loja 2;19/8/2022;6;2483
-Máquina de lavar;Brastemp;Loja 3;24/7/2022;8;4951
-Celular;Samsumg;Loja 2;25/6/2022;10;4897
-Notebook;Lenovo;Loja 1;11/4/2022;7;2357
-Notebook;Asus;Loja 2;17/1/2022;1;2317
-Notebook;Lenovo;Loja 1;7/7/2022;9;2161
-Notebook;Asus;Loja 2;30/5/2022;10;2551
-Smart TV;Phillips;Loja 3;14/4/2022;7;5407
-Máquina de lavar;Eletrolux;Loja 3;14/9/2022;6;3037
-Máquina de lavar;Eletrolux;Loja 2;9/7/2022;5;5614
-Máquina de lavar;Eletrolux;Loja 2;28/9/2022;1;4861
-Notebook;Lenovo;Loja 2;19/2/2022;2;1958
-Notebook;Asus;Loja 2;1/2/2022;8;2528
-Máquina de lavar;Eletrolux;Loja 1;3/9/2022;10;3371
-Smart TV;Phillips;Loja 3;9/4/2022;4;7886
-Celular;Apple;Loja 2;1/3/2022;1;3169
-Notebook;Lenovo;Loja 2;12/9/2022;4;2306
-Máquina de lavar;Eletrolux;Loja 1;9/11/2022;3;3991
-Smart TV;Phillips;Loja 3;22/10/2022;3;3964
-Máquina de lavar;Eletrolux;Loja 2;4/8/2022;9;5640
-Smart TV;LG;Loja 2;20/12/2022;7;4848
-Máquina de lavar;Eletrolux;Loja 2;25/10/2022;8;4441
-Notebook;Lenovo;Loja 2;15/5/2022;2;2233
-Máquina de lavar;Brastemp;Loja 2;4/8/2022;5;2281
-Celular;Apple;Loja 2;17/4/2022;4;2967
-Notebook;Lenovo;Loja 1;25/2/2022;4;2261
-Notebook;Lenovo;Loja 1;3/1/2022;8;1722
-Celular;Apple;Loja 3;20/11/2022;9;3388
-Máquina de lavar;Eletrolux;Loja 3;3/2/2022;3;4993
-Notebook;Asus;Loja 3;28/2/2022;9;1723
-Máquina de lavar;Brastemp;Loja 2;8/4/2022;8;3131
-Smart TV;Phillips;Loja 2;8/6/2022;4;5578
-Celular;Apple;Loja 1;1/8/2022;3;4307
-Máquina de lavar;Eletrolux;Loja 3;10/5/2022;3;4821
-Máquina de lavar;Brastemp;Loja 2;20/2/2022;4;2340
-Celular;Apple;Loja 2;8/3/2022;4;2545
-Notebook;Asus;Loja 1;3/2/2022;10;2441
-Celular;Apple;Loja 2;15/3/2022;1;6168
-Smart TV;LG;Loja 3;13/2/2022;1;3437
-Máquina de lavar;Brastemp;Loja 3;12/4/2022;9;3762
-Celular;Apple;Loja 2;24/5/2022;5;6881
-Celular;Apple;Loja 1;25/3/2022;2;6828
-Máquina de lavar;Brastemp;Loja 1;7/1/2022;4;5336
-Notebook;Lenovo;Loja 3;18/5/2022;7;2147
-Máquina de lavar;Eletrolux;Loja 2;11/3/2022;8;3877
-Smart TV;LG;Loja 2;2/9/2022;8;4940
-Máquina de lavar;Brastemp;Loja 1;26/5/2022;9;5238
-Celular;Apple;Loja 2;13/9/2022;5;2990
-Celular;Apple;Loja 2;13/11/2022;4;4035
-Máquina de lavar;Brastemp;Loja 1;16/11/2022;4;5744
-Smart TV;Phillips;Loja 2;30/6/2022;3;5603
-Notebook;Asus;Loja 3;25/3/2022;3;1837
-Celular;Samsumg;Loja 1;17/5/2022;4;6973
-Máquina de lavar;Eletrolux;Loja 2;7/1/2022;7;2922
-Notebook;Asus;Loja 2;29/4/2022;2;1936
-Smart TV;LG;Loja 2;30/11/2022;9;3748
-Máquina de lavar;Brastemp;Loja 1;17/12/2022;3;3233
-Notebook;Asus;Loja 1;15/10/2022;6;2427
-Notebook;Lenovo;Loja 2;30/6/2022;8;2575
-Notebook;Asus;Loja 1;1/9/2022;9;2154
-Celular;Samsumg;Loja 1;9/3/2022;6;2580
-Smart TV;LG;Loja 1;10/6/2022;6;3926
-Smart TV;Phillips;Loja 2;4/2/2022;2;6828
-Notebook;Asus;Loja 1;11/5/2022;7;2542
-Máquina de lavar;Brastemp;Loja 1;10/6/2022;3;3186
-Smart TV;Phillips;Loja 2;3/9/2022;6;5317
-Smart TV;Phillips;Loja 1;20/8/2022;8;5828
-Máquina de lavar;Brastemp;Loja 3;14/4/2022;4;3674
-Máquina de lavar;Brastemp;Loja 2;13/1/2022;1;5981
-Máquina de lavar;Eletrolux;Loja 1;24/3/2022;1;2067
-Notebook;Lenovo;Loja 2;4/2/2022;7;2132
-Celular;Apple;Loja 2;30/2/2022;8;2847
-Notebook;Lenovo;Loja 2;28/6/2022;1;1965
-Notebook;Asus;Loja 3;1/11/2022;6;1714
-Smart TV;Phillips;Loja 1;22/3/2022;1;4145
-Celular;Samsumg;Loja 2;19/7/2022;10;5614
-Notebook;Asus;Loja 3;4/5/2022;9;2517
-Smart TV;LG;Loja 2;11/9/2022;3;4261
-Celular;Apple;Loja 3;9/8/2022;6;6887
-Celular;Samsumg;Loja 1;8/9/2022;6;6627
-Notebook;Asus;Loja 2;13/6/2022;5;2375
-Smart TV;LG;Loja 1;11/6/2022;8;6144
-Smart TV;LG;Loja 1;18/6/2022;5;6221
-Notebook;Lenovo;Loja 3;26/1/2022;1;2463
-Smart TV;LG;Loja 2;23/3/2022;2;3490
-Smart TV;LG;Loja 3;22/8/2022;9;4935
-Máquina de lavar;Eletrolux;Loja 1;24/3/2022;3;5413
-Smart TV;Phillips;Loja 2;20/10/2022;4;3811
-Celular;Apple;Loja 3;29/10/2022;4;2517
-Celular;Samsumg;Loja 2;27/5/2022;4;4975
-Notebook;Lenovo;Loja 2;10/7/2022;5;2523
-Celular;Samsumg;Loja 1;17/1/2022;4;6925
-Máquina de lavar;Eletrolux;Loja 1;17/10/2022;4;5189
-Smart TV;Phillips;Loja 3;4/12/2022;5;7588
-Máquina de lavar;Brastemp;Loja 2;7/5/2022;3;3309
-Máquina de lavar;Brastemp;Loja 2;4/2/2022;10;4070
-Notebook;Lenovo;Loja 1;14/9/2022;1;2350
-Celular;Apple;Loja 2;1/9/2022;1;2545
-Máquina de lavar;Brastemp;Loja 2;25/10/2022;8;5519
-Máquina de lavar;Eletrolux;Loja 1;4/9/2022;3;5215
-Máquina de lavar;Eletrolux;Loja 1;9/8/2022;4;4158
-Smart TV;LG;Loja 3;10/3/2022;3;3783
-Máquina de lavar;Eletrolux;Loja 1;23/7/2022;6;4796
-Smart TV;LG;Loja 3;28/8/2022;1;7623
-Celular;Samsumg;Loja 1;11/1/2022;4;2788
-Notebook;Lenovo;Loja 2;4/5/2022;5;1867
-Máquina de lavar;Eletrolux;Loja 2;17/4/2022;4;4579
-Máquina de lavar;Eletrolux;Loja 1;15/12/2022;10;2357
-Celular;Apple;Loja 3;17/8/2022;10;3161
-Notebook;Asus;Loja 1;18/3/2022;3;2585
-Máquina de lavar;Eletrolux;Loja 1;10/1/2022;4;2347
-Máquina de lavar;Eletrolux;Loja 1;2/5/2022;3;2105
-Smart TV;Phillips;Loja 1;9/6/2022;1;4139
-Celular;Samsumg;Loja 2;3/10/2022;6;6826
-Máquina de lavar;Eletrolux;Loja 3;11/2/2022;2;5896
-Máquina de lavar;Eletrolux;Loja 1;12/8/2022;10;3012
-Smart TV;Phillips;Loja 2;26/8/2022;8;4235
-Smart TV;Phillips;Loja 3;14/2/2022;1;4313
-Máquina de lavar;Eletrolux;Loja 3;18/11/2022;1;3153
-Máquina de lavar;Brastemp;Loja 1;20/10/2022;5;3344
-Máquina de lavar;Eletrolux;Loja 3;10/7/2022;10;3622
-Smart TV;Phillips;Loja 2;20/9/2022;9;3179
-Notebook;Asus;Loja 3;12/5/2022;8;1960
-Notebook;Lenovo;Loja 1;8/2/2022;5;2597
-Celular;Apple;Loja 1;13/3/2022;5;4010
-Máquina de lavar;Brastemp;Loja 1;5/9/2022;6;5596
-Máquina de lavar;Eletrolux;Loja 2;2/2/2022;3;4394
-Máquina de lavar;Eletrolux;Loja 2;14/4/2022;8;3257
-Máquina de lavar;Eletrolux;Loja 3;22/3/2022;5;2518
-Smart TV;LG;Loja 1;25/9/2022;9;5351
-Máquina de lavar;Brastemp;Loja 1;9/9/2022;10;5121
-Smart TV;Phillips;Loja 2;27/11/2022;10;7777
-Celular;Apple;Loja 2;13/9/2022;8;2048
-Celular;Apple;Loja 2;18/7/2022;10;4269
-Celular;Samsumg;Loja 2;28/6/2022;10;2789
-Celular;Apple;Loja 3;23/4/2022;9;6489
-Notebook;Asus;Loja 2;20/9/2022;4;1998
-Celular;Apple;Loja 2;14/6/2022;6;5122
-Máquina de lavar;Eletrolux;Loja 1;19/11/2022;6;2641
-Smart TV;LG;Loja 2;27/2/2022;5;6502
-Máquina de lavar;Eletrolux;Loja 3;18/4/2022;6;2588
-Notebook;Asus;Loja 2;3/11/2022;2;2288
-Máquina de lavar;Eletrolux;Loja 2;23/6/2022;8;4827
-Celular;Apple;Loja 3;15/2/2022;3;6201
-Máquina de lavar;Brastemp;Loja 3;8/8/2022;2;3255
-Smart TV;LG;Loja 2;26/10/2022;1;7293
-Smart TV;Phillips;Loja 1;14/10/2022;7;6860
-Smart TV;Phillips;Loja 2;27/9/2022;5;3446
-Smart TV;Phillips;Loja 3;17/6/2022;8;4722
-Smart TV;LG;Loja 1;12/9/2022;10;5317
-Máquina de lavar;Eletrolux;Loja 1;26/8/2022;8;5237
-Celular;Samsumg;Loja 2;26/6/2022;1;3115
-Máquina de lavar;Brastemp;Loja 1;6/12/2022;5;5929
-Smart TV;LG;Loja 2;12/9/2022;6;6533
-Máquina de lavar;Eletrolux;Loja 1;21/5/2022;10;3940
-Celular;Apple;Loja 2;29/1/2022;3;6147
-Smart TV;Phillips;Loja 3;18/12/2022;3;5648
-Celular;Samsumg;Loja 3;14/9/2022;5;6080
-Smart TV;Phillips;Loja 1;3/12/2022;9;4250
-Notebook;Lenovo;Loja 3;3/11/2022;4;2329
-Máquina de lavar;Brastemp;Loja 3;21/4/2022;5;5959
-Máquina de lavar;Brastemp;Loja 1;3/1/2022;6;2297
-Notebook;Lenovo;Loja 2;7/4/2022;8;2552
-Smart TV;Phillips;Loja 1;20/6/2022;7;4698
-Smart TV;LG;Loja 1;1/8/2022;3;7160
-Celular;Samsumg;Loja 1;10/3/2022;1;5119
-Notebook;Lenovo;Loja 2;24/9/2022;9;1738
-Celular;Samsumg;Loja 2;20/10/2022;2;4375
-Máquina de lavar;Brastemp;Loja 3;13/1/2022;10;3901
-Smart TV;LG;Loja 2;17/9/2022;10;6275
-Máquina de lavar;Eletrolux;Loja 3;26/10/2022;9;2171
-Máquina de lavar;Brastemp;Loja 2;11/9/2022;8;3140
-Notebook;Asus;Loja 1;2/11/2022;5;1901
-Celular;Apple;Loja 2;25/2/2022;5;5423
-Celular;Samsumg;Loja 2;1/7/2022;2;2703
-Notebook;Lenovo;Loja 3;21/12/2022;6;2011
-Máquina de lavar;Brastemp;Loja 2;9/1/2022;5;2744
-Celular;Apple;Loja 1;19/8/2022;5;4658
-Smart TV;Phillips;Loja 3;11/8/2022;3;7011
-Celular;Apple;Loja 1;3/3/2022;7;5853
-Smart TV;LG;Loja 3;29/2/2022;7;6777
-Máquina de lavar;Eletrolux;Loja 3;2/4/2022;6;5985
-Máquina de lavar;Eletrolux;Loja 2;19/10/2022;2;5273
-Smart TV;Phillips;Loja 3;20/10/2022;3;5157
-Notebook;Lenovo;Loja 3;5/8/2022;4;2332
-Máquina de lavar;Brastemp;Loja 1;7/9/2022;1;3998
-Notebook;Asus;Loja 3;19/7/2022;5;1730
-Notebook;Lenovo;Loja 2;21/5/2022;4;2183
-Celular;Apple;Loja 2;6/6/2022;5;2198
-Smart TV;LG;Loja 1;9/10/2022;6;5187
-Smart TV;Phillips;Loja 3;5/10/2022;3;6641
-Notebook;Lenovo;Loja 1;10/10/2022;3;1851
-Máquina de lavar;Brastemp;Loja 1;25/2/2022;9;3748
-Notebook;Asus;Loja 2;3/10/2022;6;2455
-Máquina de lavar;Brastemp;Loja 2;7/1/2022;1;5286
-Notebook;Lenovo;Loja 2;27/9/2022;8;2124
-Smart TV;LG;Loja 3;4/11/2022;9;7721
-Máquina de lavar;Eletrolux;Loja 1;27/8/2022;4;5765
-Máquina de lavar;Eletrolux;Loja 2;8/4/2022;1;4532
-Smart TV;LG;Loja 1;24/7/2022;3;4858
-Notebook;Lenovo;Loja 1;30/5/2022;2;2469
-Máquina de lavar;Eletrolux;Loja 1;6/4/2022;2;3096
-Celular;Samsumg;Loja 2;1/2/2022;5;3380
-Celular;Samsumg;Loja 2;23/5/2022;2;2062
-Notebook;Asus;Loja 3;18/2/2022;1;2255
-Smart TV;Phillips;Loja 3;9/10/2022;1;3944
-Notebook;Asus;Loja 1;22/6/2022;9;1732
-Smart TV;LG;Loja 3;14/3/2022;7;6091
-Smart TV;LG;Loja 1;21/2/2022;10;3807
-Smart TV;Phillips;Loja 2;1/4/2022;8;7706
-Máquina de lavar;Eletrolux;Loja 2;18/6/2022;4;2934
-Máquina de lavar;Eletrolux;Loja 1;3/12/2022;8;2319
-Notebook;Asus;Loja 2;1/7/2022;8;2508
-Máquina de lavar;Eletrolux;Loja 1;14/6/2022;3;2988
-Smart TV;Phillips;Loja 1;14/11/2022;1;7990
-Celular;Apple;Loja 2;22/1/2022;10;6890
-Máquina de lavar;Brastemp;Loja 3;8/4/2022;2;2825
-Celular;Apple;Loja 2;18/11/2022;5;3743
-Notebook;Lenovo;Loja 3;9/5/2022;7;2316
-Celular;Samsumg;Loja 2;11/11/2022;10;4543
-Smart TV;LG;Loja 1;21/2/2022;8;3032
-Celular;Samsumg;Loja 2;1/10/2022;6;5708
-Smart TV;LG;Loja 1;22/11/2022;8;6668
-Máquina de lavar;Brastemp;Loja 2;21/12/2022;2;4491
-Celular;Apple;Loja 1;20/8/2022;9;4167
-Notebook;Lenovo;Loja 1;2/2/2022;5;2341
-Smart TV;Phillips;Loja 1;29/1/2022;8;3404
-Smart TV;LG;Loja 3;26/12/2022;2;5197
-Celular;Apple;Loja 1;17/12/2022;2;3505
-Máquina de lavar;Eletrolux;Loja 3;8/8/2022;10;4352
-Máquina de lavar;Eletrolux;Loja 2;7/11/2022;4;4967
-Smart TV;Phillips;Loja 3;27/4/2022;3;3848
-Notebook;Lenovo;Loja 3;30/6/2022;7;1962
-Celular;Apple;Loja 2;1/1/2022;10;4813
-Smart TV;LG;Loja 2;22/11/2022;4;5205
-Máquina de lavar;Eletrolux;Loja 2;4/3/2022;7;2316
-Notebook;Lenovo;Loja 3;24/5/2022;5;2418
-Celular;Apple;Loja 1;4/1/2022;8;4345
-Smart TV;LG;Loja 1;30/9/2022;2;5470
-Celular;Samsumg;Loja 1;5/2/2022;1;4286
-Máquina de lavar;Brastemp;Loja 1;4/11/2022;4;5142
-Celular;Samsumg;Loja 1;13/5/2022;3;5631
-Celular;Samsumg;Loja 3;28/12/2022;1;2016
-Celular;Apple;Loja 3;9/5/2022;5;3635
-Máquina de lavar;Brastemp;Loja 3;17/1/2022;5;3700
-Smart TV;LG;Loja 2;27/1/2022;8;4738
-Celular;Samsumg;Loja 1;3/10/2022;3;6200
-Smart TV;Phillips;Loja 3;12/2/2022;7;7183
-Celular;Samsumg;Loja 3;10/10/2022;4;6951
-Celular;Apple;Loja 2;4/5/2022;1;5393
-Máquina de lavar;Brastemp;Loja 1;3/8/2022;6;2213
-Celular;Samsumg;Loja 1;15/10/2022;3;2602
-Celular;Samsumg;Loja 2;4/3/2022;10;4697
-Smart TV;Phillips;Loja 3;11/2/2022;8;5181
-Máquina de lavar;Brastemp;Loja 1;13/1/2022;9;3804
-Máquina de lavar;Brastemp;Loja 1;2/7/2022;4;5538
-Notebook;Asus;Loja 3;23/4/2022;1;1766
-Máquina de lavar;Eletrolux;Loja 3;3/9/2022;9;4294
-Celular;Samsumg;Loja 1;26/9/2022;6;2900
-Smart TV;LG;Loja 2;14/12/2022;6;3312
-Smart TV;LG;Loja 3;18/1/2022;1;3729
-Máquina de lavar;Brastemp;Loja 1;2/6/2022;3;5618
-Smart TV;LG;Loja 1;11/10/2022;1;3663
-Notebook;Lenovo;Loja 2;20/3/2022;5;2363
-Máquina de lavar;Eletrolux;Loja 2;22/6/2022;3;2793
-Celular;Apple;Loja 1;15/11/2022;2;4600
-Máquina de lavar;Eletrolux;Loja 2;8/6/2022;8;5376
-Máquina de lavar;Eletrolux;Loja 1;23/6/2022;3;5809
-Notebook;Lenovo;Loja 2;21/2/2022;5;2228
-Notebook;Lenovo;Loja 3;20/1/2022;2;1892
-Smart TV;LG;Loja 3;12/4/2022;1;7572
-Máquina de lavar;Eletrolux;Loja 1;2/8/2022;4;3736
-Celular;Samsumg;Loja 1;4/1/2022;5;2310
-Notebook;Lenovo;Loja 1;4/1/2022;10;2100
-Notebook;Asus;Loja 2;23/1/2022;3;2134
-Notebook;Lenovo;Loja 3;11/3/2022;5;2492
-Notebook;Asus;Loja 2;30/8/2022;7;1870
-Smart TV;LG;Loja 2;19/4/2022;10;3923
-Notebook;Lenovo;Loja 2;22/4/2022;1;1977
-Smart TV;LG;Loja 2;4/8/2022;9;4409
-Máquina de lavar;Brastemp;Loja 1;9/9/2022;9;2029
-Máquina de lavar;Brastemp;Loja 1;24/11/2022;2;4720
-Celular;Apple;Loja 3;12/2/2022;8;3706
-Máquina de lavar;Eletrolux;Loja 3;2/12/2022;6;5167
-Notebook;Lenovo;Loja 2;19/1/2022;1;1945
-Notebook;Asus;Loja 2;24/1/2022;9;2237
-Máquina de lavar;Eletrolux;Loja 2;30/5/2022;3;5897
-Notebook;Asus;Loja 1;26/1/2022;9;2027
-Celular;Samsumg;Loja 1;2/10/2022;7;2139
-Máquina de lavar;Eletrolux;Loja 2;15/8/2022;7;5749
-Smart TV;LG;Loja 2;27/5/2022;5;3407
-Máquina de lavar;Eletrolux;Loja 1;30/10/2022;8;3018
-Máquina de lavar;Eletrolux;Loja 3;7/4/2022;8;5541
-Notebook;Asus;Loja 1;3/9/2022;2;2549
-Smart TV;LG;Loja 3;14/5/2022;2;6993
-Celular;Apple;Loja 2;22/10/2022;10;2265
-Celular;Samsumg;Loja 2;30/4/2022;5;4440
-Smart TV;Phillips;Loja 2;20/9/2022;3;6900
-Notebook;Asus;Loja 1;1/2/2022;2;1930
-Smart TV;LG;Loja 1;26/6/2022;7;6482
-Notebook;Lenovo;Loja 1;21/3/2022;4;1858
-Celular;Samsumg;Loja 1;25/10/2022;7;6621
-O faturamento foi de R$44,303,376
+Celular;Samsumg;Loja 1;2/9/2022;7;3364
+Celular;Apple;Loja 1;4/11/2022;6;3820
+Máquina de lavar;Brastemp;Loja 2;29/4/2022;6;3654
+Smart TV;Phillips;Loja 3;7/2/2022;8;7596
+Máquina de lavar;Eletrolux;Loja 1;28/3/2022;9;2886
+Notebook;Lenovo;Loja 1;16/9/2022;2;2418
+Celular;Apple;Loja 3;24/3/2022;4;5907
+Notebook;Lenovo;Loja 1;29/9/2022;9;2495
+Notebook;Asus;Loja 2;21/9/2022;1;2088
+Smart TV;Phillips;Loja 1;25/10/2022;8;4564
+Smart TV;Phillips;Loja 1;8/7/2022;5;7066
+Celular;Samsumg;Loja 2;18/7/2022;3;2648
+Máquina de lavar;Eletrolux;Loja 2;10/9/2022;4;3684
+Smart TV;Phillips;Loja 1;28/10/2022;3;7921
+Máquina de lavar;Brastemp;Loja 2;1/10/2022;3;5834
+Celular;Samsumg;Loja 1;30/1/2022;2;3633
+Celular;Apple;Loja 3;17/4/2022;4;2195
+Notebook;Asus;Loja 2;22/2/2022;9;2514
+Máquina de lavar;Brastemp;Loja 2;19/12/2022;4;4847
+Celular;Apple;Loja 3;9/1/2022;3;2491
+Notebook;Lenovo;Loja 3;7/9/2022;3;2265
+Celular;Samsumg;Loja 3;24/8/2022;3;2691
+Máquina de lavar;Brastemp;Loja 1;14/4/2022;5;2406
+Smart TV;Phillips;Loja 3;27/12/2022;2;6750
+Celular;Apple;Loja 3;9/3/2022;7;4228
+Máquina de lavar;Brastemp;Loja 2;12/5/2022;9;3049
+Notebook;Lenovo;Loja 3;25/5/2022;4;2077
+Notebook;Asus;Loja 1;29/6/2022;10;2432
+Notebook;Asus;Loja 3;19/7/2022;6;1728
+Máquina de lavar;Eletrolux;Loja 3;1/5/2022;1;5700
+Celular;Samsumg;Loja 3;18/11/2022;2;3082
+Notebook;Asus;Loja 2;30/12/2022;8;2328
+Máquina de lavar;Brastemp;Loja 1;30/8/2022;4;5772
+Notebook;Asus;Loja 3;6/11/2022;6;1823
+Máquina de lavar;Brastemp;Loja 1;13/5/2022;4;4861
+Notebook;Asus;Loja 3;10/3/2022;10;1795
+Smart TV;LG;Loja 1;4/3/2022;1;7996
+Máquina de lavar;Eletrolux;Loja 1;4/1/2022;6;4084
+Notebook;Lenovo;Loja 3;10/8/2022;3;2174
+Máquina de lavar;Brastemp;Loja 3;10/9/2022;10;5632
+Máquina de lavar;Brastemp;Loja 3;1/7/2022;9;4562
+Celular;Apple;Loja 2;2/3/2022;5;3147
+Celular;Samsumg;Loja 2;28/4/2022;7;2018
+Smart TV;Phillips;Loja 1;1/2/2022;2;5897
+Notebook;Lenovo;Loja 3;19/5/2022;1;2538
+Celular;Samsumg;Loja 3;19/4/2022;8;2816
+Máquina de lavar;Eletrolux;Loja 2;2/4/2022;9;2358
+Smart TV;LG;Loja 3;19/10/2022;9;5500
+Smart TV;Phillips;Loja 3;10/9/2022;4;3493
+Celular;Samsumg;Loja 1;14/9/2022;1;6154
+Máquina de lavar;Brastemp;Loja 1;28/5/2022;1;4988
+Notebook;Asus;Loja 1;19/7/2022;3;1905
+Celular;Samsumg;Loja 2;21/1/2022;9;4693
+Máquina de lavar;Brastemp;Loja 3;9/6/2022;5;4925
+Notebook;Lenovo;Loja 1;19/7/2022;10;2331
+Notebook;Lenovo;Loja 3;28/10/2022;5;2326
+Máquina de lavar;Eletrolux;Loja 3;9/12/2022;4;4292
+Smart TV;Phillips;Loja 3;11/4/2022;4;4614
+Notebook;Lenovo;Loja 3;18/12/2022;7;2364
+Máquina de lavar;Brastemp;Loja 1;28/2/2022;4;5202
+Notebook;Asus;Loja 1;22/7/2022;10;2171
+Notebook;Asus;Loja 2;30/7/2022;4;1898
+Máquina de lavar;Eletrolux;Loja 2;15/10/2022;3;5734
+Smart TV;LG;Loja 3;28/2/2022;1;5257
+Notebook;Lenovo;Loja 2;7/12/2022;10;2046
+Smart TV;Phillips;Loja 2;20/8/2022;6;3439
+Smart TV;LG;Loja 1;6/2/2022;1;6641
+Notebook;Lenovo;Loja 3;11/5/2022;1;2198
+Smart TV;LG;Loja 3;30/11/2022;4;6824
+Smart TV;LG;Loja 3;14/8/2022;10;4710
+Celular;Apple;Loja 3;18/11/2022;9;5306
+Smart TV;LG;Loja 1;10/12/2022;2;5991
+Celular;Samsumg;Loja 1;3/12/2022;1;2326
+Celular;Samsumg;Loja 3;15/5/2022;2;3273
+Celular;Samsumg;Loja 3;29/8/2022;9;6280
+Notebook;Asus;Loja 3;27/12/2022;2;2415
+Notebook;Asus;Loja 3;28/6/2022;6;1907
+Notebook;Asus;Loja 3;3/8/2022;4;2599
+Notebook;Asus;Loja 1;6/10/2022;10;2137
+Celular;Apple;Loja 3;4/12/2022;8;2594
+Smart TV;LG;Loja 3;10/7/2022;8;5954
+Smart TV;LG;Loja 1;24/8/2022;5;4242
+Máquina de lavar;Eletrolux;Loja 1;22/6/2022;10;4334
+Notebook;Asus;Loja 1;3/11/2022;2;2170
+Notebook;Asus;Loja 2;20/8/2022;4;1904
+Máquina de lavar;Eletrolux;Loja 1;9/6/2022;3;3358
+Smart TV;LG;Loja 2;1/3/2022;1;3006
+Máquina de lavar;Eletrolux;Loja 3;19/6/2022;2;2079
+Celular;Apple;Loja 3;2/8/2022;7;3821
+Smart TV;Phillips;Loja 1;7/9/2022;7;6776
+Máquina de lavar;Eletrolux;Loja 2;14/6/2022;2;4927
+Celular;Samsumg;Loja 3;26/5/2022;8;2349
+Celular;Apple;Loja 1;19/9/2022;9;5427
+Notebook;Asus;Loja 3;24/1/2022;7;1977
+Celular;Apple;Loja 2;20/3/2022;9;2435
+Notebook;Lenovo;Loja 1;25/8/2022;7;2235
+Notebook;Asus;Loja 2;14/12/2022;10;2554
+Smart TV;Phillips;Loja 3;17/9/2022;2;3902
+Smart TV;Phillips;Loja 3;1/2/2022;7;4997
+Máquina de lavar;Eletrolux;Loja 1;30/8/2022;6;2859
+Máquina de lavar;Eletrolux;Loja 2;17/8/2022;1;3673
+Celular;Apple;Loja 3;25/5/2022;10;6194
+Celular;Apple;Loja 1;30/10/2022;3;4168
+Smart TV;Phillips;Loja 3;12/2/2022;10;7719
+Notebook;Asus;Loja 1;17/12/2022;8;2322
+Máquina de lavar;Brastemp;Loja 2;15/6/2022;8;3947
+Notebook;Lenovo;Loja 3;7/4/2022;8;2208
+Notebook;Lenovo;Loja 1;15/11/2022;7;1947
+Smart TV;LG;Loja 3;24/7/2022;10;5723
+Celular;Samsumg;Loja 1;23/6/2022;9;3570
+Smart TV;Phillips;Loja 3;26/10/2022;2;5499
+Celular;Samsumg;Loja 3;22/7/2022;5;3746
+Máquina de lavar;Brastemp;Loja 1;28/7/2022;7;3494
+Notebook;Lenovo;Loja 1;10/10/2022;6;2393
+Notebook;Lenovo;Loja 2;7/4/2022;4;2108
+Notebook;Lenovo;Loja 3;4/4/2022;8;2584
+Smart TV;LG;Loja 3;12/9/2022;6;4322
+Celular;Apple;Loja 2;14/5/2022;8;5718
+Máquina de lavar;Eletrolux;Loja 1;18/9/2022;3;2550
+Smart TV;LG;Loja 1;25/9/2022;2;6434
+Smart TV;LG;Loja 2;14/12/2022;2;7119
+Máquina de lavar;Eletrolux;Loja 1;26/10/2022;2;4196
+Máquina de lavar;Brastemp;Loja 1;6/7/2022;7;3709
+Celular;Samsumg;Loja 2;6/10/2022;4;5240
+Smart TV;LG;Loja 2;28/9/2022;10;7315
+Celular;Samsumg;Loja 1;20/5/2022;3;6330
+Smart TV;LG;Loja 1;1/9/2022;6;3214
+Celular;Apple;Loja 1;29/4/2022;8;6093
+Notebook;Asus;Loja 3;4/12/2022;4;2185
+Máquina de lavar;Eletrolux;Loja 1;28/3/2022;4;2561
+Smart TV;Phillips;Loja 3;26/8/2022;6;6544
+Notebook;Asus;Loja 3;23/10/2022;3;2135
+Smart TV;LG;Loja 1;16/9/2022;2;3500
+Smart TV;Phillips;Loja 1;9/7/2022;5;4909
+Notebook;Asus;Loja 1;27/3/2022;9;2414
+Máquina de lavar;Brastemp;Loja 1;26/8/2022;10;3161
+Notebook;Asus;Loja 2;18/10/2022;5;1915
+Máquina de lavar;Brastemp;Loja 2;22/6/2022;2;5508
+Smart TV;LG;Loja 2;29/12/2022;1;3461
+Máquina de lavar;Brastemp;Loja 1;20/9/2022;8;3956
+Celular;Samsumg;Loja 3;7/2/2022;4;4157
+Máquina de lavar;Brastemp;Loja 1;2/4/2022;10;2977
+Celular;Apple;Loja 2;2/8/2022;3;5176
+Smart TV;LG;Loja 2;21/2/2022;9;3796
+Smart TV;LG;Loja 2;7/5/2022;2;7455
+Smart TV;Phillips;Loja 1;17/8/2022;3;4019
+Máquina de lavar;Eletrolux;Loja 1;17/4/2022;2;3818
+Smart TV;Phillips;Loja 2;26/4/2022;3;4528
+Máquina de lavar;Eletrolux;Loja 2;4/12/2022;3;5791
+Celular;Samsumg;Loja 1;30/8/2022;8;6874
+Máquina de lavar;Brastemp;Loja 2;1/12/2022;3;3502
+Máquina de lavar;Eletrolux;Loja 2;18/3/2022;8;3057
+Smart TV;LG;Loja 1;29/7/2022;7;4030
+Celular;Samsumg;Loja 2;13/10/2022;3;4458
+Celular;Apple;Loja 1;12/9/2022;9;4141
+Smart TV;LG;Loja 1;18/1/2022;2;7488
+Notebook;Asus;Loja 2;30/3/2022;3;2173
+Máquina de lavar;Eletrolux;Loja 3;24/4/2022;6;3263
+Notebook;Lenovo;Loja 2;20/10/2022;2;2125
+Celular;Apple;Loja 1;6/6/2022;2;4549
+Smart TV;LG;Loja 1;10/7/2022;4;5682
+Máquina de lavar;Brastemp;Loja 2;21/9/2022;6;5933
+Máquina de lavar;Eletrolux;Loja 2;27/2/2022;2;4322
+Notebook;Lenovo;Loja 3;16/6/2022;8;2560
+Celular;Samsumg;Loja 2;13/12/2022;9;6664
+Notebook;Lenovo;Loja 3;27/4/2022;1;2303
+Smart TV;LG;Loja 3;22/4/2022;2;6814
+Celular;Samsumg;Loja 2;12/11/2022;6;3665
+Smart TV;LG;Loja 3;1/11/2022;6;3103
+Máquina de lavar;Eletrolux;Loja 1;9/9/2022;1;4908
+Máquina de lavar;Eletrolux;Loja 1;25/9/2022;8;4706
+Celular;Samsumg;Loja 2;18/5/2022;7;2344
+Celular;Samsumg;Loja 1;11/9/2022;10;2310
+Notebook;Asus;Loja 3;22/5/2022;5;2567
+Smart TV;Phillips;Loja 2;8/7/2022;1;4083
+Notebook;Asus;Loja 3;1/7/2022;4;2089
+Máquina de lavar;Brastemp;Loja 2;30/7/2022;6;5805
+Celular;Samsumg;Loja 2;22/3/2022;8;6617
+Celular;Samsumg;Loja 1;30/3/2022;5;4058
+Smart TV;LG;Loja 3;11/11/2022;4;3794
+Celular;Samsumg;Loja 1;23/2/2022;3;4057
+Máquina de lavar;Eletrolux;Loja 3;16/3/2022;9;2601
+Celular;Apple;Loja 2;17/8/2022;10;4261
+Notebook;Asus;Loja 2;30/11/2022;4;1963
+Notebook;Asus;Loja 1;12/1/2022;2;2137
+Notebook;Lenovo;Loja 2;20/7/2022;9;2515
+Celular;Apple;Loja 2;17/7/2022;6;5780
+Notebook;Asus;Loja 1;1/9/2022;6;2521
+Celular;Samsumg;Loja 2;17/1/2022;10;3731
+Celular;Apple;Loja 3;13/1/2022;4;4402
+Máquina de lavar;Eletrolux;Loja 2;26/3/2022;10;3526
+Celular;Samsumg;Loja 3;27/10/2022;10;3639
+Celular;Apple;Loja 1;29/6/2022;2;3514
+Celular;Apple;Loja 2;14/9/2022;2;6984
+Notebook;Asus;Loja 2;15/5/2022;9;1887
+Notebook;Lenovo;Loja 3;17/9/2022;9;1740
+Máquina de lavar;Brastemp;Loja 2;11/3/2022;7;4140
+Notebook;Lenovo;Loja 1;22/1/2022;1;1729
+Máquina de lavar;Eletrolux;Loja 3;1/9/2022;4;3079
+Celular;Samsumg;Loja 2;24/9/2022;3;6357
+Smart TV;Phillips;Loja 1;18/5/2022;5;3959
+Smart TV;Phillips;Loja 3;11/4/2022;9;4879
+Notebook;Asus;Loja 1;12/10/2022;6;2044
+Smart TV;Phillips;Loja 2;9/11/2022;4;3132
+Máquina de lavar;Eletrolux;Loja 1;29/10/2022;2;2011
+Máquina de lavar;Brastemp;Loja 2;28/1/2022;2;5726
+Celular;Samsumg;Loja 2;2/8/2022;5;6830
+Celular;Apple;Loja 3;6/4/2022;1;3884
+Máquina de lavar;Brastemp;Loja 2;29/1/2022;9;2653
+Celular;Apple;Loja 1;30/9/2022;7;5381
+Celular;Apple;Loja 2;20/1/2022;3;6128
+Celular;Apple;Loja 2;23/12/2022;2;6578
+Notebook;Asus;Loja 2;23/12/2022;9;2180
+Celular;Samsumg;Loja 1;17/10/2022;4;5948
+Smart TV;Phillips;Loja 3;12/1/2022;1;5058
+Celular;Samsumg;Loja 3;5/9/2022;8;2704
+Notebook;Lenovo;Loja 2;19/1/2022;5;2307
+Smart TV;Phillips;Loja 3;12/4/2022;4;7399
+Máquina de lavar;Brastemp;Loja 1;18/4/2022;7;2618
+Celular;Samsumg;Loja 1;7/3/2022;3;2153
+Notebook;Lenovo;Loja 2;17/12/2022;2;1789
+Celular;Samsumg;Loja 2;20/11/2022;1;5034
+Smart TV;LG;Loja 2;7/10/2022;3;5988
+Máquina de lavar;Brastemp;Loja 1;26/3/2022;7;2096
+Celular;Apple;Loja 2;20/12/2022;7;6603
+Máquina de lavar;Brastemp;Loja 1;12/6/2022;9;5622
+Máquina de lavar;Brastemp;Loja 1;21/5/2022;7;4836
+Celular;Samsumg;Loja 1;14/2/2022;10;5725
+Notebook;Lenovo;Loja 3;4/7/2022;10;2262
+Celular;Samsumg;Loja 1;17/7/2022;6;3162
+Smart TV;Phillips;Loja 2;18/11/2022;1;4189
+Smart TV;Phillips;Loja 3;8/4/2022;9;6544
+Smart TV;LG;Loja 3;10/8/2022;2;5310
+Notebook;Lenovo;Loja 3;15/6/2022;5;2581
+Celular;Apple;Loja 3;5/12/2022;8;4070
+Smart TV;LG;Loja 2;15/10/2022;5;7226
+Notebook;Lenovo;Loja 2;11/12/2022;2;2329
+Celular;Samsumg;Loja 1;21/3/2022;3;4471
+Smart TV;LG;Loja 1;29/12/2022;3;5852
+Celular;Samsumg;Loja 3;14/5/2022;1;3173
+Smart TV;LG;Loja 2;21/4/2022;2;6118
+Smart TV;LG;Loja 3;12/10/2022;10;4321
+Máquina de lavar;Brastemp;Loja 1;19/11/2022;7;2317
+Smart TV;Phillips;Loja 2;30/4/2022;9;6527
+Notebook;Lenovo;Loja 1;1/2/2022;3;1728
+Notebook;Asus;Loja 3;29/11/2022;6;1927
+Máquina de lavar;Brastemp;Loja 2;16/4/2022;2;4937
+Smart TV;LG;Loja 3;11/9/2022;4;7885
+Notebook;Asus;Loja 2;19/9/2022;7;2312
+Smart TV;Phillips;Loja 2;28/2/2022;1;3402
+Smart TV;LG;Loja 1;8/10/2022;8;6237
+Máquina de lavar;Brastemp;Loja 3;8/8/2022;7;5126
+Smart TV;LG;Loja 3;17/6/2022;2;5203
+Máquina de lavar;Brastemp;Loja 1;9/7/2022;2;4734
+Máquina de lavar;Eletrolux;Loja 2;10/10/2022;5;5136
+Smart TV;Phillips;Loja 1;19/2/2022;9;3195
+Notebook;Lenovo;Loja 3;28/5/2022;8;2026
+Celular;Apple;Loja 1;9/7/2022;7;5577
+Máquina de lavar;Eletrolux;Loja 3;11/10/2022;9;2690
+Máquina de lavar;Brastemp;Loja 2;23/9/2022;6;2859
+Notebook;Lenovo;Loja 2;17/11/2022;4;2235
+Notebook;Lenovo;Loja 1;1/6/2022;10;2503
+Celular;Samsumg;Loja 3;11/5/2022;10;4415
+Celular;Apple;Loja 2;14/11/2022;7;5749
+Smart TV;Phillips;Loja 3;22/11/2022;3;6684
+Máquina de lavar;Brastemp;Loja 2;4/4/2022;3;5955
+Celular;Samsumg;Loja 3;2/12/2022;7;2209
+Notebook;Asus;Loja 1;5/3/2022;2;2172
+Notebook;Lenovo;Loja 2;20/11/2022;5;2435
+Máquina de lavar;Eletrolux;Loja 3;12/4/2022;1;3712
+Celular;Apple;Loja 1;30/12/2022;9;6088
+Celular;Samsumg;Loja 2;11/5/2022;4;6190
+Smart TV;LG;Loja 1;17/7/2022;7;6508
+Máquina de lavar;Eletrolux;Loja 3;26/11/2022;7;5573
+Smart TV;Phillips;Loja 2;9/6/2022;5;4012
+Notebook;Asus;Loja 1;21/3/2022;3;2503
+Notebook;Asus;Loja 1;5/4/2022;1;2341
+Notebook;Asus;Loja 3;15/9/2022;4;2349
+Celular;Samsumg;Loja 1;10/2/2022;3;5532
+Notebook;Lenovo;Loja 3;15/7/2022;8;2064
+Máquina de lavar;Eletrolux;Loja 3;22/2/2022;7;3414
+Máquina de lavar;Brastemp;Loja 1;30/4/2022;7;4526
+Notebook;Asus;Loja 1;15/1/2022;3;2165
+Smart TV;Phillips;Loja 3;11/4/2022;8;3746
+Smart TV;Phillips;Loja 2;9/9/2022;5;4119
+Smart TV;LG;Loja 3;18/4/2022;10;4293
+Celular;Apple;Loja 1;16/3/2022;9;3511
+Máquina de lavar;Brastemp;Loja 3;5/10/2022;9;3223
+Celular;Samsumg;Loja 3;4/5/2022;9;6617
+Máquina de lavar;Brastemp;Loja 1;9/6/2022;8;5141
+Celular;Apple;Loja 1;21/7/2022;4;6106
+Máquina de lavar;Brastemp;Loja 3;3/9/2022;3;4438
+Máquina de lavar;Eletrolux;Loja 1;12/10/2022;1;2867
+Celular;Apple;Loja 3;21/7/2022;10;4299
+Smart TV;LG;Loja 1;25/7/2022;10;4014
+Celular;Apple;Loja 2;30/4/2022;6;5548
+Máquina de lavar;Eletrolux;Loja 1;29/6/2022;9;3429
+Smart TV;Phillips;Loja 3;2/8/2022;9;5849
+Celular;Apple;Loja 3;20/11/2022;1;5671
+Notebook;Asus;Loja 1;6/7/2022;8;2015
+Smart TV;LG;Loja 3;19/11/2022;2;3382
+Notebook;Lenovo;Loja 1;12/11/2022;4;2552
+Celular;Apple;Loja 3;26/3/2022;8;3640
+Celular;Samsumg;Loja 3;15/11/2022;10;2336
+Notebook;Asus;Loja 1;26/4/2022;3;2295
+Smart TV;LG;Loja 2;6/2/2022;4;6909
+Smart TV;LG;Loja 2;1/2/2022;6;5264
+Máquina de lavar;Brastemp;Loja 2;12/10/2022;4;3681
+Notebook;Asus;Loja 1;16/8/2022;4;2403
+Smart TV;LG;Loja 2;12/9/2022;6;6234
+Notebook;Asus;Loja 3;11/12/2022;2;1780
+Notebook;Asus;Loja 3;7/1/2022;7;2238
+Notebook;Lenovo;Loja 1;17/1/2022;8;2204
+Smart TV;LG;Loja 2;13/7/2022;5;3160
+Notebook;Lenovo;Loja 2;26/3/2022;5;2066
+Máquina de lavar;Eletrolux;Loja 3;10/3/2022;5;5261
+Celular;Samsumg;Loja 1;7/7/2022;5;6980
+Smart TV;Phillips;Loja 2;19/5/2022;10;7032
+Máquina de lavar;Eletrolux;Loja 1;9/5/2022;9;5221
+Máquina de lavar;Eletrolux;Loja 1;21/10/2022;2;5252
+Celular;Apple;Loja 1;20/11/2022;8;5166
+Smart TV;LG;Loja 1;18/2/2022;8;6654
+Notebook;Asus;Loja 2;10/2/2022;4;2398
+Notebook;Asus;Loja 1;22/12/2022;3;1907
+Smart TV;LG;Loja 1;21/8/2022;9;7524
+Máquina de lavar;Brastemp;Loja 3;2/3/2022;4;2572
+Notebook;Asus;Loja 1;25/10/2022;1;2401
+Máquina de lavar;Brastemp;Loja 1;16/1/2022;9;5507
+Celular;Samsumg;Loja 1;27/5/2022;5;2166
+Smart TV;LG;Loja 2;21/11/2022;9;7479
+Celular;Apple;Loja 3;18/8/2022;4;2721
+Celular;Samsumg;Loja 3;29/8/2022;5;3738
+Smart TV;Phillips;Loja 3;14/7/2022;3;3919
+Celular;Samsumg;Loja 3;30/1/2022;4;2196
+Máquina de lavar;Eletrolux;Loja 1;6/10/2022;8;2931
+Notebook;Asus;Loja 2;10/12/2022;6;2106
+Máquina de lavar;Brastemp;Loja 1;15/8/2022;3;3028
+Celular;Samsumg;Loja 2;9/6/2022;9;2311
+Notebook;Asus;Loja 3;14/5/2022;4;1824
+Máquina de lavar;Brastemp;Loja 2;9/9/2022;8;4868
+Celular;Apple;Loja 1;1/1/2022;10;5871
+Celular;Samsumg;Loja 1;4/10/2022;6;4273
+Máquina de lavar;Eletrolux;Loja 2;8/12/2022;1;4588
+Celular;Apple;Loja 1;10/3/2022;10;6151
+Celular;Apple;Loja 2;13/3/2022;4;4461
+Notebook;Asus;Loja 1;12/5/2022;1;2320
+Smart TV;Phillips;Loja 2;23/1/2022;8;5023
+Smart TV;LG;Loja 2;22/10/2022;2;7823
+Notebook;Asus;Loja 3;30/5/2022;1;2143
+Smart TV;LG;Loja 2;8/12/2022;4;4669
+Notebook;Asus;Loja 2;25/9/2022;5;2063
+Máquina de lavar;Eletrolux;Loja 3;19/3/2022;3;2080
+Máquina de lavar;Brastemp;Loja 2;9/10/2022;7;4182
+Celular;Apple;Loja 3;14/12/2022;7;3325
+Máquina de lavar;Eletrolux;Loja 1;25/6/2022;3;5342
+Máquina de lavar;Eletrolux;Loja 3;18/10/2022;3;3422
+Máquina de lavar;Brastemp;Loja 1;1/9/2022;8;3981
+Máquina de lavar;Brastemp;Loja 2;18/6/2022;5;3116
+Smart TV;LG;Loja 3;24/12/2022;9;3603
+Celular;Samsumg;Loja 2;29/6/2022;2;6933
+Smart TV;Phillips;Loja 3;22/3/2022;8;3556
+Notebook;Asus;Loja 1;20/2/2022;3;1878
+Celular;Samsumg;Loja 1;10/3/2022;9;3758
+Máquina de lavar;Eletrolux;Loja 2;3/6/2022;9;5923
+Máquina de lavar;Brastemp;Loja 1;24/1/2022;10;3071
+Smart TV;Phillips;Loja 3;3/2/2022;6;7623
+Celular;Samsumg;Loja 1;16/7/2022;2;3641
+Notebook;Lenovo;Loja 1;21/6/2022;9;2523
+Celular;Apple;Loja 2;28/11/2022;2;5723
+Smart TV;LG;Loja 2;19/9/2022;5;4819
+Máquina de lavar;Brastemp;Loja 3;12/1/2022;8;3196
+Celular;Apple;Loja 1;6/10/2022;1;5784
+Celular;Samsumg;Loja 1;3/4/2022;10;5756
+Celular;Apple;Loja 1;16/9/2022;8;6442
+Smart TV;Phillips;Loja 3;7/6/2022;6;7000
+Máquina de lavar;Brastemp;Loja 1;24/1/2022;10;4690
+Smart TV;LG;Loja 1;7/10/2022;6;5532
+Smart TV;Phillips;Loja 2;28/7/2022;7;5955
+Smart TV;LG;Loja 2;1/10/2022;9;7369
+Smart TV;LG;Loja 2;21/11/2022;7;7604
+Máquina de lavar;Eletrolux;Loja 2;29/10/2022;4;5858
+Celular;Apple;Loja 1;28/10/2022;1;2781
+Celular;Apple;Loja 2;30/10/2022;7;4626
+Smart TV;LG;Loja 1;1/9/2022;8;3035
+Notebook;Lenovo;Loja 1;20/10/2022;10;2122
+Máquina de lavar;Eletrolux;Loja 1;26/2/2022;6;2212
+Máquina de lavar;Eletrolux;Loja 2;26/7/2022;1;2046
+Máquina de lavar;Brastemp;Loja 3;15/10/2022;8;3891
+Máquina de lavar;Eletrolux;Loja 3;12/3/2022;5;2456
+Smart TV;LG;Loja 2;16/11/2022;5;5361
+Smart TV;LG;Loja 2;14/9/2022;6;6682
+Celular;Samsumg;Loja 1;23/3/2022;4;5201
+Smart TV;LG;Loja 2;12/10/2022;4;5528
+Notebook;Asus;Loja 1;5/9/2022;2;2001
+Máquina de lavar;Eletrolux;Loja 1;30/1/2022;3;3283
+Máquina de lavar;Eletrolux;Loja 1;18/5/2022;7;3040
+Notebook;Asus;Loja 1;1/7/2022;4;1712
+Máquina de lavar;Brastemp;Loja 2;7/5/2022;10;5872
+Smart TV;Phillips;Loja 3;5/9/2022;8;7129
+Máquina de lavar;Eletrolux;Loja 3;13/4/2022;9;2157
+Máquina de lavar;Eletrolux;Loja 3;3/7/2022;8;3697
+Celular;Apple;Loja 3;27/7/2022;5;4129
+Notebook;Lenovo;Loja 2;28/2/2022;3;2346
+Máquina de lavar;Brastemp;Loja 3;5/12/2022;9;3711
+Máquina de lavar;Brastemp;Loja 1;10/3/2022;3;4544
+Notebook;Lenovo;Loja 3;2/5/2022;2;1738
+Celular;Apple;Loja 2;8/8/2022;8;6674
+Notebook;Lenovo;Loja 3;30/2/2022;5;1886
+Celular;Apple;Loja 3;30/9/2022;9;3663
+Celular;Samsumg;Loja 3;26/7/2022;6;6887
+Máquina de lavar;Brastemp;Loja 2;23/5/2022;8;2876
+Smart TV;Phillips;Loja 1;29/12/2022;6;5599
+Máquina de lavar;Brastemp;Loja 3;23/10/2022;9;3633
+Celular;Samsumg;Loja 2;19/9/2022;4;6228
+Smart TV;LG;Loja 1;26/5/2022;6;4366
+Máquina de lavar;Brastemp;Loja 3;5/7/2022;3;2968
+Máquina de lavar;Eletrolux;Loja 3;6/11/2022;4;4866
+Máquina de lavar;Eletrolux;Loja 3;19/7/2022;9;3286
+Celular;Samsumg;Loja 1;13/3/2022;10;3060
+Notebook;Lenovo;Loja 3;4/11/2022;7;1784
+Máquina de lavar;Eletrolux;Loja 3;17/10/2022;7;4503
+Celular;Samsumg;Loja 1;25/12/2022;1;4969
+Smart TV;Phillips;Loja 1;22/6/2022;10;6273
+Notebook;Asus;Loja 3;23/11/2022;1;1871
+Notebook;Asus;Loja 3;30/3/2022;9;1763
+Notebook;Lenovo;Loja 2;12/11/2022;6;2335
+Notebook;Lenovo;Loja 2;19/1/2022;6;1994
+Smart TV;LG;Loja 3;8/10/2022;3;5376
+Smart TV;Phillips;Loja 3;1/9/2022;3;6610
+Máquina de lavar;Eletrolux;Loja 2;29/6/2022;4;2100
+Smart TV;Phillips;Loja 2;13/1/2022;10;5714
+Máquina de lavar;Brastemp;Loja 3;17/5/2022;4;5182
+Máquina de lavar;Eletrolux;Loja 2;15/11/2022;9;3474
+Celular;Apple;Loja 2;19/7/2022;3;6635
+Smart TV;LG;Loja 2;29/12/2022;1;4079
+Notebook;Lenovo;Loja 2;11/6/2022;5;2567
+Máquina de lavar;Brastemp;Loja 3;22/4/2022;3;3409
+Notebook;Lenovo;Loja 1;11/7/2022;3;2009
+Celular;Samsumg;Loja 1;23/11/2022;5;4623
+Smart TV;LG;Loja 3;26/1/2022;1;3979
+Smart TV;Phillips;Loja 2;5/11/2022;8;7816
+Celular;Apple;Loja 2;20/6/2022;9;5868
+Celular;Apple;Loja 3;6/11/2022;3;3524
+Smart TV;LG;Loja 3;4/3/2022;7;6012
+Smart TV;LG;Loja 3;12/8/2022;8;7070
+Smart TV;LG;Loja 3;29/4/2022;10;3335
+Smart TV;Phillips;Loja 2;28/8/2022;9;7207
+Celular;Apple;Loja 2;8/6/2022;3;3095
+Notebook;Asus;Loja 3;26/5/2022;3;2400
+Celular;Apple;Loja 3;7/8/2022;6;3251
+Celular;Samsumg;Loja 1;13/2/2022;5;4386
+Smart TV;Phillips;Loja 1;29/7/2022;3;5461
+Máquina de lavar;Brastemp;Loja 1;10/7/2022;4;5613
+Celular;Apple;Loja 3;22/4/2022;7;4604
+Máquina de lavar;Eletrolux;Loja 3;10/12/2022;2;5182
+Celular;Samsumg;Loja 1;25/12/2022;10;4600
+Smart TV;LG;Loja 2;9/4/2022;7;6870
+Máquina de lavar;Eletrolux;Loja 1;30/11/2022;1;4857
+Máquina de lavar;Brastemp;Loja 3;14/2/2022;5;2720
+Celular;Apple;Loja 1;17/8/2022;2;5553
+Smart TV;LG;Loja 2;3/10/2022;3;6701
+Smart TV;Phillips;Loja 2;15/7/2022;8;5039
+Smart TV;LG;Loja 2;3/10/2022;4;6208
+Máquina de lavar;Eletrolux;Loja 3;2/3/2022;6;2450
+Smart TV;Phillips;Loja 1;30/12/2022;8;6102
+Máquina de lavar;Brastemp;Loja 1;24/9/2022;5;5544
+Celular;Samsumg;Loja 2;24/12/2022;2;2697
+Celular;Apple;Loja 1;8/1/2022;6;5857
+Celular;Samsumg;Loja 2;15/2/2022;3;5403
+Máquina de lavar;Brastemp;Loja 3;29/7/2022;9;5663
+Máquina de lavar;Eletrolux;Loja 3;19/8/2022;8;5262
+Máquina de lavar;Brastemp;Loja 3;9/7/2022;2;3694
+Máquina de lavar;Eletrolux;Loja 1;2/12/2022;10;5082
+Smart TV;LG;Loja 1;21/2/2022;2;5939
+Celular;Samsumg;Loja 2;2/4/2022;10;6518
+Celular;Apple;Loja 1;12/11/2022;5;4791
+Máquina de lavar;Eletrolux;Loja 2;2/2/2022;2;2351
+Celular;Apple;Loja 2;12/10/2022;1;4722
+Notebook;Asus;Loja 2;9/12/2022;4;1864
+Celular;Samsumg;Loja 3;2/7/2022;2;2186
+Notebook;Lenovo;Loja 1;12/12/2022;5;1913
+Notebook;Asus;Loja 2;13/11/2022;8;1767
+Máquina de lavar;Eletrolux;Loja 3;15/3/2022;6;4732
+Máquina de lavar;Brastemp;Loja 1;5/9/2022;8;5272
+Celular;Samsumg;Loja 1;26/2/2022;6;2562
+Smart TV;Phillips;Loja 3;24/6/2022;5;6533
+Máquina de lavar;Brastemp;Loja 1;27/8/2022;5;3755
+Celular;Apple;Loja 2;11/8/2022;7;2861
+Notebook;Lenovo;Loja 3;9/4/2022;10;1951
+Notebook;Lenovo;Loja 2;11/9/2022;1;2057
+Smart TV;Phillips;Loja 2;24/6/2022;4;7269
+Máquina de lavar;Brastemp;Loja 3;8/5/2022;2;3921
+Smart TV;LG;Loja 3;28/1/2022;8;4754
+Máquina de lavar;Eletrolux;Loja 2;11/6/2022;4;4070
+Celular;Samsumg;Loja 3;14/6/2022;4;3331
+Notebook;Asus;Loja 2;14/10/2022;1;2458
+Smart TV;LG;Loja 2;5/10/2022;8;5098
+Celular;Samsumg;Loja 2;17/6/2022;10;6990
+Notebook;Asus;Loja 2;25/5/2022;7;1964
+Celular;Apple;Loja 2;28/10/2022;3;4760
+Máquina de lavar;Brastemp;Loja 2;14/4/2022;5;4314
+Smart TV;Phillips;Loja 1;7/11/2022;4;3770
+Máquina de lavar;Brastemp;Loja 2;8/6/2022;3;3314
+Máquina de lavar;Eletrolux;Loja 3;13/4/2022;10;3516
+Smart TV;Phillips;Loja 3;16/7/2022;10;5952
+Máquina de lavar;Eletrolux;Loja 3;22/6/2022;8;2997
+Celular;Apple;Loja 2;15/5/2022;3;4234
+Smart TV;Phillips;Loja 1;2/11/2022;1;3174
+Máquina de lavar;Brastemp;Loja 1;7/7/2022;2;2807
+Máquina de lavar;Eletrolux;Loja 3;15/10/2022;1;3875
+Notebook;Lenovo;Loja 2;16/10/2022;10;1791
+Notebook;Asus;Loja 3;20/9/2022;8;1816
+Notebook;Asus;Loja 2;18/11/2022;3;2253
+Notebook;Asus;Loja 2;6/5/2022;1;1778
+Celular;Apple;Loja 1;29/4/2022;10;6991
+Celular;Apple;Loja 1;23/4/2022;1;6347
+Notebook;Asus;Loja 3;15/11/2022;7;2321
+Máquina de lavar;Brastemp;Loja 1;27/10/2022;9;4105
+Notebook;Lenovo;Loja 1;1/8/2022;5;2390
+Notebook;Lenovo;Loja 2;23/12/2022;1;2125
+Notebook;Lenovo;Loja 3;21/7/2022;3;2191
+Notebook;Lenovo;Loja 1;12/6/2022;10;2488
+Smart TV;LG;Loja 1;30/4/2022;9;4649
+Máquina de lavar;Eletrolux;Loja 3;22/7/2022;6;3977
+Máquina de lavar;Eletrolux;Loja 1;1/10/2022;2;4432
+Notebook;Lenovo;Loja 1;15/11/2022;5;1712
+Celular;Samsumg;Loja 1;26/8/2022;2;6010
+Smart TV;LG;Loja 2;30/9/2022;9;6510
+Smart TV;LG;Loja 3;17/8/2022;8;4461
+Smart TV;LG;Loja 3;16/8/2022;1;6319
+Notebook;Asus;Loja 1;17/11/2022;2;2444
+Notebook;Lenovo;Loja 3;22/12/2022;7;2413
+Smart TV;Phillips;Loja 2;22/11/2022;7;5908
+Smart TV;LG;Loja 3;14/2/2022;3;3636
+Notebook;Asus;Loja 2;20/3/2022;1;2220
+Máquina de lavar;Brastemp;Loja 2;24/6/2022;3;5114
+Smart TV;LG;Loja 1;27/11/2022;5;3326
+Notebook;Lenovo;Loja 1;15/8/2022;10;1914
+Notebook;Asus;Loja 3;13/5/2022;7;1834
+Notebook;Lenovo;Loja 3;20/1/2022;10;1763
+Celular;Apple;Loja 1;11/4/2022;5;2176
+Notebook;Asus;Loja 3;6/10/2022;10;2359
+Máquina de lavar;Eletrolux;Loja 1;2/4/2022;1;2387
+Máquina de lavar;Brastemp;Loja 1;1/6/2022;8;3957
+Máquina de lavar;Eletrolux;Loja 3;14/7/2022;1;4892
+Smart TV;Phillips;Loja 3;11/12/2022;7;6848
+Máquina de lavar;Eletrolux;Loja 1;4/9/2022;2;2115
+Notebook;Asus;Loja 1;12/10/2022;2;2143
+Notebook;Asus;Loja 3;15/8/2022;2;1917
+Celular;Samsumg;Loja 2;18/6/2022;2;3562
+Notebook;Lenovo;Loja 1;19/6/2022;2;2209
+Smart TV;LG;Loja 1;9/1/2022;6;3380
+Notebook;Asus;Loja 2;1/12/2022;8;1998
+Máquina de lavar;Eletrolux;Loja 3;5/2/2022;3;5543
+Máquina de lavar;Brastemp;Loja 1;30/7/2022;6;3533
+Notebook;Asus;Loja 1;10/10/2022;4;2530
+Smart TV;LG;Loja 2;13/4/2022;10;3332
+Notebook;Lenovo;Loja 1;11/8/2022;6;2374
+Smart TV;LG;Loja 2;20/3/2022;1;7089
+Celular;Apple;Loja 1;22/7/2022;3;4703
+Smart TV;Phillips;Loja 2;11/3/2022;4;7356
+Notebook;Asus;Loja 3;26/10/2022;8;1941
+Smart TV;LG;Loja 3;10/2/2022;4;5214
+Celular;Samsumg;Loja 3;9/2/2022;5;5044
+Celular;Apple;Loja 2;24/4/2022;1;6116
+Celular;Apple;Loja 2;5/11/2022;1;6810
+Máquina de lavar;Brastemp;Loja 2;25/10/2022;10;5074
+Máquina de lavar;Eletrolux;Loja 2;18/10/2022;2;2257
+Notebook;Asus;Loja 2;27/6/2022;7;2446
+Celular;Samsumg;Loja 1;2/2/2022;4;2872
+Smart TV;Phillips;Loja 3;29/9/2022;4;7168
+Celular;Apple;Loja 1;13/7/2022;5;5525
+Smart TV;Phillips;Loja 2;16/4/2022;5;4462
+Celular;Samsumg;Loja 3;13/11/2022;9;3547
+Smart TV;LG;Loja 3;10/1/2022;2;6295
+Smart TV;Phillips;Loja 1;24/12/2022;6;6258
+Smart TV;Phillips;Loja 2;6/5/2022;3;7434
+Smart TV;Phillips;Loja 2;2/3/2022;7;7118
+Celular;Samsumg;Loja 3;29/4/2022;8;2793
+Smart TV;Phillips;Loja 1;7/10/2022;4;4826
+Máquina de lavar;Brastemp;Loja 1;26/5/2022;6;2239
+Smart TV;Phillips;Loja 2;23/9/2022;3;3251
+Máquina de lavar;Brastemp;Loja 1;3/7/2022;2;2496
+Smart TV;LG;Loja 2;2/8/2022;7;3662
+Celular;Apple;Loja 2;11/10/2022;9;2154
+Notebook;Lenovo;Loja 2;26/11/2022;4;1938
+Celular;Apple;Loja 1;18/5/2022;10;6193
+Máquina de lavar;Eletrolux;Loja 1;11/8/2022;6;2339
+Máquina de lavar;Eletrolux;Loja 3;29/6/2022;9;2874
+Celular;Apple;Loja 2;22/3/2022;8;2918
+Celular;Apple;Loja 2;23/12/2022;6;5967
+Celular;Samsumg;Loja 2;14/2/2022;3;2885
+Máquina de lavar;Eletrolux;Loja 1;15/1/2022;7;5529
+Celular;Apple;Loja 3;6/10/2022;3;5977
+Celular;Apple;Loja 3;9/9/2022;3;6054
+Notebook;Asus;Loja 2;22/8/2022;6;2041
+Smart TV;Phillips;Loja 1;25/8/2022;8;3358
+Notebook;Lenovo;Loja 2;9/5/2022;5;2276
+Notebook;Lenovo;Loja 2;19/12/2022;9;1827
+Smart TV;LG;Loja 3;21/11/2022;6;7115
+Notebook;Asus;Loja 1;4/10/2022;3;1947
+Máquina de lavar;Brastemp;Loja 1;2/1/2022;5;5021
+Notebook;Asus;Loja 1;1/2/2022;8;2318
+Máquina de lavar;Brastemp;Loja 2;12/12/2022;4;2371
+Máquina de lavar;Eletrolux;Loja 3;20/4/2022;10;4413
+Smart TV;Phillips;Loja 1;2/4/2022;7;4595
+Notebook;Asus;Loja 3;25/8/2022;3;2174
+Celular;Samsumg;Loja 3;24/5/2022;3;3431
+Máquina de lavar;Eletrolux;Loja 3;20/8/2022;2;4765
+Máquina de lavar;Eletrolux;Loja 3;23/10/2022;10;2505
+Notebook;Asus;Loja 1;8/1/2022;8;2100
+Smart TV;Phillips;Loja 1;17/10/2022;3;7371
+Notebook;Asus;Loja 2;7/2/2022;9;1926
+Smart TV;LG;Loja 3;8/6/2022;10;7334
+Smart TV;Phillips;Loja 3;25/9/2022;6;5691
+Smart TV;LG;Loja 2;13/9/2022;1;3053
+Celular;Apple;Loja 1;20/12/2022;6;6334
+Celular;Apple;Loja 2;5/7/2022;9;3185
+Smart TV;LG;Loja 1;26/12/2022;4;7010
+Smart TV;Phillips;Loja 1;4/10/2022;7;7087
+Notebook;Lenovo;Loja 1;27/3/2022;10;1744
+Notebook;Asus;Loja 3;15/6/2022;6;2341
+Notebook;Lenovo;Loja 3;9/1/2022;4;2189
+Celular;Apple;Loja 2;29/8/2022;1;2390
+Notebook;Lenovo;Loja 3;29/1/2022;10;2186
+Smart TV;LG;Loja 2;20/9/2022;4;3973
+Máquina de lavar;Eletrolux;Loja 1;6/9/2022;6;5319
+Smart TV;LG;Loja 2;26/12/2022;4;4328
+Máquina de lavar;Brastemp;Loja 3;2/11/2022;9;3922
+Celular;Samsumg;Loja 1;5/12/2022;7;2301
+Notebook;Lenovo;Loja 2;12/5/2022;5;2109
+Máquina de lavar;Eletrolux;Loja 3;22/4/2022;3;5160
+Máquina de lavar;Eletrolux;Loja 1;20/4/2022;3;4382
+Smart TV;Phillips;Loja 1;21/3/2022;10;6159
+Smart TV;Phillips;Loja 3;13/5/2022;6;4276
+Celular;Apple;Loja 2;24/5/2022;5;4705
+Smart TV;LG;Loja 1;10/5/2022;1;6744
+Celular;Samsumg;Loja 3;14/12/2022;5;5901
+Máquina de lavar;Eletrolux;Loja 3;17/1/2022;4;4049
+Máquina de lavar;Eletrolux;Loja 3;9/4/2022;1;3797
+Celular;Apple;Loja 1;2/5/2022;8;2857
+Notebook;Asus;Loja 3;4/9/2022;8;1894
+Notebook;Asus;Loja 2;12/10/2022;1;2005
+Máquina de lavar;Brastemp;Loja 3;11/7/2022;8;4213
+Notebook;Lenovo;Loja 2;10/7/2022;8;2508
+Notebook;Lenovo;Loja 1;19/4/2022;5;1874
+Smart TV;Phillips;Loja 3;27/11/2022;7;5927
+Máquina de lavar;Brastemp;Loja 3;16/5/2022;1;5460
+Notebook;Asus;Loja 3;10/1/2022;3;2065
+Smart TV;LG;Loja 3;4/12/2022;2;4837
+Celular;Apple;Loja 3;21/12/2022;1;3908
+Notebook;Asus;Loja 2;18/9/2022;7;1708
+Celular;Samsumg;Loja 2;13/11/2022;4;6536
+Máquina de lavar;Brastemp;Loja 3;18/7/2022;5;4902
+Notebook;Asus;Loja 2;18/4/2022;6;2344
+Smart TV;LG;Loja 3;2/7/2022;1;3992
+Máquina de lavar;Eletrolux;Loja 3;26/10/2022;10;4316
+Notebook;Asus;Loja 3;21/12/2022;8;1799
+Celular;Apple;Loja 3;5/6/2022;8;6681
+Notebook;Asus;Loja 2;21/2/2022;6;2178
+Notebook;Lenovo;Loja 2;26/6/2022;2;2035
+Máquina de lavar;Brastemp;Loja 3;11/7/2022;2;4594
+Celular;Samsumg;Loja 2;8/5/2022;7;3236
+Máquina de lavar;Brastemp;Loja 3;21/2/2022;3;4965
+Celular;Samsumg;Loja 3;28/10/2022;7;6235
+Notebook;Lenovo;Loja 2;27/3/2022;8;2142
+Smart TV;LG;Loja 3;27/9/2022;1;6611
+Celular;Apple;Loja 1;4/7/2022;3;4169
+Máquina de lavar;Brastemp;Loja 1;13/10/2022;1;5941
+Máquina de lavar;Eletrolux;Loja 3;8/9/2022;10;3357
+Smart TV;Phillips;Loja 1;13/11/2022;10;7982
+Celular;Apple;Loja 3;28/6/2022;3;6064
+Smart TV;Phillips;Loja 2;11/1/2022;6;4136
+Notebook;Asus;Loja 1;5/8/2022;7;2061
+Smart TV;Phillips;Loja 1;23/12/2022;1;7903
+Smart TV;Phillips;Loja 1;11/4/2022;2;4003
+Celular;Samsumg;Loja 2;7/3/2022;5;3974
+Celular;Apple;Loja 2;13/4/2022;4;2923
+Smart TV;Phillips;Loja 3;10/4/2022;3;5123
+Máquina de lavar;Eletrolux;Loja 2;11/11/2022;3;5807
+Máquina de lavar;Brastemp;Loja 1;5/12/2022;8;2630
+Notebook;Lenovo;Loja 3;15/6/2022;4;2078
+Celular;Apple;Loja 3;23/1/2022;3;6838
+Notebook;Lenovo;Loja 2;19/9/2022;9;2149
+Celular;Samsumg;Loja 2;6/8/2022;1;4535
+Máquina de lavar;Eletrolux;Loja 2;19/1/2022;2;5131
+Smart TV;Phillips;Loja 3;16/7/2022;3;3502
+Celular;Apple;Loja 1;13/7/2022;2;3995
+Máquina de lavar;Brastemp;Loja 2;9/2/2022;10;5660
+Smart TV;LG;Loja 3;4/11/2022;9;7697
+Celular;Apple;Loja 2;27/3/2022;5;3146
+Máquina de lavar;Brastemp;Loja 2;7/5/2022;6;4606
+Smart TV;LG;Loja 1;28/3/2022;2;7164
+Smart TV;Phillips;Loja 1;8/7/2022;4;4058
+Notebook;Lenovo;Loja 3;19/8/2022;2;1845
+Smart TV;LG;Loja 3;17/9/2022;10;4305
+Notebook;Lenovo;Loja 1;6/4/2022;1;2123
+Máquina de lavar;Brastemp;Loja 1;2/9/2022;8;3465
+Máquina de lavar;Brastemp;Loja 2;1/10/2022;4;2935
+Smart TV;LG;Loja 3;16/2/2022;6;4819
+Notebook;Lenovo;Loja 1;12/11/2022;7;1800
+Máquina de lavar;Eletrolux;Loja 2;30/10/2022;4;4741
+Smart TV;LG;Loja 3;26/3/2022;1;4220
+Celular;Samsumg;Loja 2;5/10/2022;4;4933
+Notebook;Asus;Loja 3;25/7/2022;1;2064
+Smart TV;Phillips;Loja 3;13/8/2022;3;7037
+Smart TV;Phillips;Loja 3;21/12/2022;10;3181
+Máquina de lavar;Eletrolux;Loja 3;25/11/2022;2;5762
+Máquina de lavar;Brastemp;Loja 2;30/11/2022;3;3014
+Smart TV;Phillips;Loja 3;3/7/2022;1;5942
+Smart TV;Phillips;Loja 3;22/4/2022;3;7245
+Celular;Apple;Loja 2;23/6/2022;8;6719
+Notebook;Asus;Loja 2;24/4/2022;8;2231
+Máquina de lavar;Eletrolux;Loja 2;15/7/2022;4;5655
+Notebook;Lenovo;Loja 1;1/3/2022;10;2342
+Notebook;Lenovo;Loja 2;25/9/2022;8;2065
+Notebook;Asus;Loja 3;22/12/2022;10;2503
+Smart TV;LG;Loja 3;19/12/2022;9;3990
+Celular;Apple;Loja 2;11/10/2022;5;2261
+Smart TV;Phillips;Loja 2;23/8/2022;7;3733
+Smart TV;LG;Loja 1;3/7/2022;6;6430
+Celular;Samsumg;Loja 2;3/9/2022;5;6780
+Celular;Samsumg;Loja 3;8/3/2022;9;4765
+Celular;Samsumg;Loja 2;16/2/2022;10;6150
+Celular;Apple;Loja 3;18/12/2022;6;5785
+Máquina de lavar;Brastemp;Loja 1;19/1/2022;4;5154
+Smart TV;LG;Loja 1;4/11/2022;5;4337
+Notebook;Lenovo;Loja 2;13/4/2022;5;1782
+Celular;Samsumg;Loja 3;15/1/2022;6;6809
+Celular;Apple;Loja 2;2/11/2022;5;3678
+Máquina de lavar;Brastemp;Loja 1;10/8/2022;3;5618
+Máquina de lavar;Eletrolux;Loja 1;24/11/2022;6;4106
+Celular;Apple;Loja 1;11/6/2022;7;3417
+Notebook;Asus;Loja 3;17/1/2022;3;2583
+Celular;Samsumg;Loja 2;25/12/2022;9;5420
+Máquina de lavar;Brastemp;Loja 3;12/5/2022;9;5524
+Smart TV;LG;Loja 2;18/7/2022;7;5202
+Notebook;Lenovo;Loja 1;22/12/2022;8;2140
+Máquina de lavar;Brastemp;Loja 2;10/11/2022;7;5088
+Notebook;Lenovo;Loja 3;19/7/2022;8;2052
+Máquina de lavar;Eletrolux;Loja 3;15/10/2022;5;2820
+Máquina de lavar;Brastemp;Loja 2;18/2/2022;1;2584
+Celular;Apple;Loja 3;4/8/2022;8;3488
+Smart TV;Phillips;Loja 3;6/2/2022;9;4861
+Celular;Apple;Loja 2;2/3/2022;8;5891
+Smart TV;LG;Loja 1;10/7/2022;1;3278
+Máquina de lavar;Eletrolux;Loja 1;12/8/2022;7;2264
+Notebook;Asus;Loja 2;14/9/2022;2;2362
+Smart TV;LG;Loja 1;23/12/2022;8;3158
+Celular;Apple;Loja 1;28/11/2022;4;5976
+Notebook;Lenovo;Loja 2;1/5/2022;6;2211
+Notebook;Asus;Loja 2;8/1/2022;9;2577
+Celular;Apple;Loja 1;28/4/2022;8;3086
+Notebook;Asus;Loja 3;9/11/2022;6;2134
+Smart TV;Phillips;Loja 2;9/12/2022;8;4694
+Celular;Samsumg;Loja 2;18/9/2022;10;5780
+Notebook;Lenovo;Loja 3;16/5/2022;8;1988
+Smart TV;Phillips;Loja 3;7/11/2022;8;4137
+Smart TV;LG;Loja 2;24/1/2022;3;3643
+Máquina de lavar;Eletrolux;Loja 3;24/5/2022;8;2398
+Máquina de lavar;Brastemp;Loja 3;1/4/2022;1;4831
+Smart TV;LG;Loja 2;17/5/2022;8;3631
+Máquina de lavar;Eletrolux;Loja 3;25/1/2022;6;3592
+Celular;Apple;Loja 1;24/9/2022;8;6473
+Smart TV;Phillips;Loja 1;8/1/2022;6;4763
+Celular;Samsumg;Loja 2;11/5/2022;9;3821
+Smart TV;Phillips;Loja 3;24/8/2022;8;7129
+Máquina de lavar;Brastemp;Loja 1;16/8/2022;9;3567
+Notebook;Lenovo;Loja 3;2/10/2022;1;2565
+Máquina de lavar;Brastemp;Loja 3;27/3/2022;1;3765
+Notebook;Asus;Loja 2;19/6/2022;5;2526
+Celular;Samsumg;Loja 3;15/7/2022;8;2530
+Notebook;Asus;Loja 3;6/7/2022;9;2530
+Máquina de lavar;Eletrolux;Loja 1;20/4/2022;6;4407
+Notebook;Asus;Loja 3;5/8/2022;5;2036
+Celular;Apple;Loja 2;2/1/2022;5;4931
+Celular;Samsumg;Loja 1;24/4/2022;5;3990
+Notebook;Lenovo;Loja 2;23/9/2022;3;1778
+Notebook;Lenovo;Loja 1;12/7/2022;9;2035
+Máquina de lavar;Eletrolux;Loja 1;9/4/2022;2;4683
+Máquina de lavar;Eletrolux;Loja 1;29/7/2022;8;2076
+Máquina de lavar;Eletrolux;Loja 2;16/6/2022;6;4548
+Celular;Samsumg;Loja 1;28/11/2022;5;6746
+Smart TV;LG;Loja 3;24/9/2022;6;4425
+Smart TV;Phillips;Loja 1;4/9/2022;10;7484
+Máquina de lavar;Eletrolux;Loja 3;5/6/2022;6;4321
+Máquina de lavar;Brastemp;Loja 3;28/12/2022;3;2456
+Celular;Samsumg;Loja 1;18/5/2022;7;6471
+Celular;Apple;Loja 3;7/7/2022;7;4148
+Máquina de lavar;Brastemp;Loja 3;6/5/2022;8;5622
+Celular;Samsumg;Loja 3;13/10/2022;3;4488
+Notebook;Asus;Loja 3;23/2/2022;3;2205
+Celular;Apple;Loja 1;21/4/2022;8;3675
+Celular;Apple;Loja 2;27/2/2022;9;6965
+Notebook;Lenovo;Loja 2;21/1/2022;3;2047
+Notebook;Asus;Loja 3;5/12/2022;7;2012
+Máquina de lavar;Eletrolux;Loja 1;7/11/2022;4;3817
+Máquina de lavar;Brastemp;Loja 1;13/2/2022;4;3177
+Notebook;Lenovo;Loja 1;12/9/2022;2;1988
+Notebook;Lenovo;Loja 3;23/5/2022;4;1847
+Celular;Apple;Loja 3;8/1/2022;8;6061
+Notebook;Asus;Loja 3;26/2/2022;7;2555
+Smart TV;Phillips;Loja 3;15/5/2022;3;7861
+Celular;Apple;Loja 1;30/2/2022;3;4621
+Celular;Apple;Loja 1;3/2/2022;4;5626
+Smart TV;Phillips;Loja 3;7/6/2022;1;6376
+Celular;Samsumg;Loja 2;21/11/2022;3;6234
+Celular;Apple;Loja 2;2/9/2022;1;2359
+Máquina de lavar;Brastemp;Loja 3;29/5/2022;9;3101
+Notebook;Asus;Loja 1;4/3/2022;3;1905
+Notebook;Asus;Loja 2;15/4/2022;10;2423
+Celular;Apple;Loja 3;15/9/2022;1;2088
+Celular;Apple;Loja 2;25/5/2022;9;4596
+Notebook;Lenovo;Loja 3;7/9/2022;10;2532
+Notebook;Asus;Loja 3;8/5/2022;9;1808
+Celular;Apple;Loja 1;5/3/2022;4;4252
+Máquina de lavar;Eletrolux;Loja 2;16/5/2022;6;2882
+Smart TV;LG;Loja 2;22/4/2022;10;3729
+Celular;Apple;Loja 2;27/7/2022;5;3197
+Notebook;Lenovo;Loja 3;3/12/2022;1;2424
+Máquina de lavar;Brastemp;Loja 2;12/12/2022;8;3661
+Celular;Apple;Loja 3;10/5/2022;10;5376
+Máquina de lavar;Brastemp;Loja 1;6/6/2022;9;3980
+Máquina de lavar;Eletrolux;Loja 1;3/7/2022;3;4340
+Celular;Samsumg;Loja 2;28/7/2022;2;3938
+Máquina de lavar;Eletrolux;Loja 2;24/7/2022;9;3975
+Notebook;Lenovo;Loja 1;5/1/2022;5;2339
+Máquina de lavar;Brastemp;Loja 2;3/4/2022;7;3795
+Notebook;Asus;Loja 2;30/2/2022;4;2071
+Celular;Apple;Loja 2;30/11/2022;7;6609
+Máquina de lavar;Eletrolux;Loja 1;27/8/2022;8;2971
+Celular;Apple;Loja 2;1/6/2022;3;5153
+Máquina de lavar;Brastemp;Loja 3;5/1/2022;10;3799
+Celular;Samsumg;Loja 1;8/10/2022;2;2323
+Máquina de lavar;Brastemp;Loja 3;2/3/2022;7;3779
+Celular;Samsumg;Loja 3;6/11/2022;10;4479
+Notebook;Asus;Loja 3;1/7/2022;6;2524
+Máquina de lavar;Brastemp;Loja 1;28/7/2022;3;5899
+Celular;Samsumg;Loja 2;28/6/2022;9;4067
+Smart TV;Phillips;Loja 1;29/5/2022;3;3724
+Notebook;Lenovo;Loja 3;29/11/2022;1;1943
+Smart TV;Phillips;Loja 1;30/9/2022;10;7877
+Máquina de lavar;Brastemp;Loja 2;22/3/2022;1;5724
+Smart TV;Phillips;Loja 2;22/5/2022;2;7868
+Celular;Samsumg;Loja 1;10/7/2022;3;6334
+Notebook;Asus;Loja 1;29/9/2022;5;1977
+Máquina de lavar;Brastemp;Loja 2;12/10/2022;1;3645
+Máquina de lavar;Brastemp;Loja 1;2/12/2022;3;4911
+Notebook;Lenovo;Loja 2;10/2/2022;1;1853
+Celular;Apple;Loja 3;15/1/2022;10;3199
+Notebook;Lenovo;Loja 1;25/12/2022;3;2115
+Celular;Apple;Loja 2;9/12/2022;6;3865
+Máquina de lavar;Eletrolux;Loja 3;22/10/2022;4;3878
+Máquina de lavar;Brastemp;Loja 2;26/6/2022;8;4342
+Notebook;Lenovo;Loja 3;20/6/2022;8;2082
+Smart TV;Phillips;Loja 2;19/1/2022;4;5433
+Celular;Samsumg;Loja 2;9/7/2022;6;2407
+Smart TV;LG;Loja 2;24/1/2022;4;5216
+Celular;Samsumg;Loja 2;20/8/2022;10;2470
+Notebook;Lenovo;Loja 3;26/9/2022;6;1740
+Smart TV;Phillips;Loja 3;26/9/2022;1;7274
+Máquina de lavar;Brastemp;Loja 2;4/2/2022;2;4185
+Celular;Apple;Loja 1;23/6/2022;8;6117
+Máquina de lavar;Eletrolux;Loja 3;29/2/2022;1;5843
+Smart TV;Phillips;Loja 1;4/8/2022;4;3696
+Notebook;Asus;Loja 1;17/12/2022;1;2411
+Smart TV;Phillips;Loja 2;3/7/2022;8;4266
+Notebook;Lenovo;Loja 3;22/1/2022;9;2437
+Notebook;Asus;Loja 2;18/9/2022;6;2057
+Máquina de lavar;Brastemp;Loja 2;9/9/2022;1;4936
+Celular;Apple;Loja 3;7/12/2022;4;2492
+Máquina de lavar;Brastemp;Loja 1;17/2/2022;3;2657
+Smart TV;Phillips;Loja 1;3/2/2022;6;3322
+Notebook;Asus;Loja 3;11/5/2022;5;2492
+Smart TV;Phillips;Loja 2;21/2/2022;4;3728
+Smart TV;LG;Loja 1;4/8/2022;7;5693
+Smart TV;LG;Loja 2;18/5/2022;6;3904
+Smart TV;LG;Loja 1;6/12/2022;5;6592
+Smart TV;Phillips;Loja 1;21/6/2022;1;7196
+Notebook;Asus;Loja 1;3/11/2022;6;2402
+Celular;Apple;Loja 3;8/2/2022;9;6586
+Celular;Apple;Loja 1;5/3/2022;2;2695
+Smart TV;Phillips;Loja 3;26/4/2022;10;3706
+Celular;Apple;Loja 1;17/7/2022;8;3258
+Smart TV;Phillips;Loja 1;15/9/2022;8;3443
+Celular;Samsumg;Loja 1;20/4/2022;6;6813
+Notebook;Lenovo;Loja 3;7/2/2022;3;1718
+Notebook;Lenovo;Loja 2;18/7/2022;10;2318
+Celular;Samsumg;Loja 2;7/6/2022;9;5137
+Máquina de lavar;Brastemp;Loja 2;18/6/2022;4;5239
+Smart TV;Phillips;Loja 2;6/5/2022;9;7687
+Smart TV;LG;Loja 1;12/1/2022;9;5219
+Máquina de lavar;Brastemp;Loja 2;9/6/2022;7;4493
+Smart TV;Phillips;Loja 3;18/1/2022;5;4964
+Máquina de lavar;Brastemp;Loja 1;28/12/2022;10;5019
+Celular;Apple;Loja 3;18/1/2022;10;3822
+Smart TV;LG;Loja 3;14/4/2022;4;4808
+Celular;Samsumg;Loja 1;21/9/2022;3;6500
+Smart TV;Phillips;Loja 2;23/4/2022;5;6828
+Máquina de lavar;Brastemp;Loja 2;5/5/2022;2;4404
+Máquina de lavar;Brastemp;Loja 3;23/1/2022;4;3346
+Smart TV;Phillips;Loja 3;23/7/2022;1;6524
+Celular;Samsumg;Loja 3;5/10/2022;3;6191
+Celular;Apple;Loja 1;8/7/2022;4;4559
+Smart TV;LG;Loja 3;27/10/2022;8;3775
+Máquina de lavar;Brastemp;Loja 2;3/6/2022;5;4000
+Máquina de lavar;Eletrolux;Loja 2;7/5/2022;8;3961
+Celular;Samsumg;Loja 1;8/8/2022;1;3058
+Celular;Apple;Loja 2;1/6/2022;2;5835
+Máquina de lavar;Brastemp;Loja 1;24/10/2022;7;5443
+Notebook;Lenovo;Loja 3;20/5/2022;2;2536
+Celular;Samsumg;Loja 1;23/7/2022;2;3643
+Smart TV;Phillips;Loja 1;23/4/2022;10;6268
+Celular;Samsumg;Loja 2;7/8/2022;4;3060
+Celular;Samsumg;Loja 3;16/12/2022;10;3901
+Máquina de lavar;Eletrolux;Loja 1;6/3/2022;6;3630
+Celular;Samsumg;Loja 3;5/10/2022;9;5672
+Celular;Samsumg;Loja 3;17/7/2022;2;3702
+Smart TV;Phillips;Loja 1;27/10/2022;1;3648
+Máquina de lavar;Eletrolux;Loja 2;5/12/2022;1;4139
+Máquina de lavar;Brastemp;Loja 3;10/12/2022;4;5139
+Celular;Apple;Loja 1;6/9/2022;5;2483
+Máquina de lavar;Brastemp;Loja 3;12/3/2022;1;3216
+Smart TV;Phillips;Loja 2;13/12/2022;1;6757
+Celular;Samsumg;Loja 1;4/12/2022;9;4117
+Máquina de lavar;Brastemp;Loja 1;11/2/2022;2;3897
+Smart TV;LG;Loja 1;23/4/2022;7;7406
+Notebook;Lenovo;Loja 3;21/6/2022;4;2429
+Celular;Apple;Loja 2;27/12/2022;2;5636
+Smart TV;Phillips;Loja 3;6/3/2022;10;6144
+Notebook;Asus;Loja 3;27/7/2022;5;2025
+Máquina de lavar;Eletrolux;Loja 2;17/8/2022;10;3176
+Celular;Samsumg;Loja 1;12/1/2022;1;3082
+Notebook;Asus;Loja 2;17/1/2022;9;2296
+Máquina de lavar;Brastemp;Loja 1;11/12/2022;7;3151
+Celular;Apple;Loja 2;7/2/2022;3;3832
+Smart TV;LG;Loja 2;25/8/2022;4;3278
+Máquina de lavar;Eletrolux;Loja 1;4/6/2022;1;3987
+Smart TV;Phillips;Loja 1;27/11/2022;2;7179
+Celular;Samsumg;Loja 2;19/1/2022;9;6743
+Máquina de lavar;Brastemp;Loja 1;2/8/2022;6;4930
+Notebook;Lenovo;Loja 2;1/9/2022;3;2398
+Smart TV;LG;Loja 3;26/9/2022;1;6443
+Notebook;Asus;Loja 1;12/1/2022;5;2176
+Máquina de lavar;Brastemp;Loja 1;8/12/2022;3;3382
+Celular;Apple;Loja 1;17/1/2022;3;6528
+Smart TV;Phillips;Loja 2;18/12/2022;9;5102
+Máquina de lavar;Brastemp;Loja 3;14/9/2022;7;3257
+Celular;Apple;Loja 2;7/4/2022;3;5064
+Celular;Apple;Loja 3;3/3/2022;1;4330
+Notebook;Lenovo;Loja 1;14/7/2022;6;2415
+Notebook;Lenovo;Loja 1;28/8/2022;3;2080
+Smart TV;Phillips;Loja 1;20/8/2022;3;7614
+Máquina de lavar;Brastemp;Loja 2;15/4/2022;2;5172
+Smart TV;Phillips;Loja 3;19/9/2022;7;6888
+Máquina de lavar;Brastemp;Loja 3;15/12/2022;8;4198
+Máquina de lavar;Eletrolux;Loja 2;16/12/2022;9;4603
+Celular;Apple;Loja 2;10/12/2022;7;5227
+Smart TV;Phillips;Loja 3;25/6/2022;2;7491
+Celular;Samsumg;Loja 1;30/5/2022;8;6850
+Notebook;Lenovo;Loja 2;21/7/2022;9;2271
+Máquina de lavar;Eletrolux;Loja 1;8/4/2022;4;4097
+Celular;Apple;Loja 1;28/8/2022;3;5540
+Smart TV;LG;Loja 3;6/3/2022;4;5401
+Smart TV;LG;Loja 2;13/2/2022;4;7571
+Máquina de lavar;Brastemp;Loja 3;25/4/2022;2;5199
+Notebook;Asus;Loja 3;26/10/2022;5;2286
+Máquina de lavar;Brastemp;Loja 1;8/9/2022;4;3170
+Celular;Samsumg;Loja 1;9/1/2022;6;5495
+Máquina de lavar;Eletrolux;Loja 3;21/7/2022;5;4747
+Celular;Samsumg;Loja 2;24/4/2022;8;5960
+Máquina de lavar;Eletrolux;Loja 2;29/10/2022;2;3556
+Notebook;Lenovo;Loja 3;28/11/2022;1;2422
+Smart TV;Phillips;Loja 3;25/11/2022;4;4076
+Máquina de lavar;Brastemp;Loja 1;28/7/2022;2;4071
+Smart TV;LG;Loja 1;28/5/2022;2;6349
+Celular;Apple;Loja 2;6/7/2022;9;2786
+Notebook;Asus;Loja 1;18/12/2022;7;2016
+Celular;Samsumg;Loja 2;14/6/2022;6;3191
+Smart TV;LG;Loja 3;16/10/2022;4;5528
+Smart TV;Phillips;Loja 1;10/7/2022;4;5142
+Notebook;Asus;Loja 1;19/8/2022;8;2545
+Celular;Samsumg;Loja 3;17/8/2022;10;5785
+Máquina de lavar;Eletrolux;Loja 3;15/4/2022;8;3532
+Máquina de lavar;Eletrolux;Loja 1;10/7/2022;3;4792
+Máquina de lavar;Brastemp;Loja 2;22/10/2022;6;3704
+Notebook;Lenovo;Loja 1;20/6/2022;9;1974
+Notebook;Asus;Loja 2;2/11/2022;5;2173
+Máquina de lavar;Eletrolux;Loja 1;14/7/2022;3;3971
+Notebook;Asus;Loja 2;10/1/2022;7;1858
+Máquina de lavar;Brastemp;Loja 1;12/5/2022;5;5242
+Máquina de lavar;Brastemp;Loja 1;21/3/2022;5;2404
+Celular;Samsumg;Loja 3;27/5/2022;6;3691
+Smart TV;LG;Loja 2;28/10/2022;5;5564
+Smart TV;LG;Loja 2;27/1/2022;10;6479
+Máquina de lavar;Eletrolux;Loja 2;17/1/2022;8;3759
+Smart TV;Phillips;Loja 3;18/6/2022;2;4254
+Smart TV;LG;Loja 2;26/6/2022;4;5804
+Celular;Apple;Loja 1;20/1/2022;5;5530
+Notebook;Asus;Loja 3;16/9/2022;5;1731
+Smart TV;LG;Loja 3;26/5/2022;2;4052
+Máquina de lavar;Brastemp;Loja 2;26/6/2022;4;4477
+Smart TV;Phillips;Loja 3;11/9/2022;10;3591
+Smart TV;Phillips;Loja 3;30/8/2022;5;3354
+Celular;Apple;Loja 2;12/11/2022;9;2795
+Smart TV;Phillips;Loja 1;30/5/2022;6;6540
+Máquina de lavar;Eletrolux;Loja 2;12/3/2022;1;5498
+Notebook;Lenovo;Loja 2;21/3/2022;2;2133
+Smart TV;Phillips;Loja 1;23/12/2022;7;7539
+Máquina de lavar;Eletrolux;Loja 1;17/3/2022;7;2189
+Smart TV;Phillips;Loja 1;24/7/2022;10;3275
+Notebook;Lenovo;Loja 2;18/1/2022;5;2508
+Máquina de lavar;Brastemp;Loja 2;5/7/2022;4;5690
+Smart TV;LG;Loja 1;9/7/2022;4;5684
+Máquina de lavar;Eletrolux;Loja 3;2/3/2022;9;5419
+Máquina de lavar;Brastemp;Loja 2;3/1/2022;8;5601
+Smart TV;LG;Loja 1;12/1/2022;2;5688
+Celular;Apple;Loja 2;29/1/2022;7;2261
+Smart TV;Phillips;Loja 2;11/12/2022;2;7442
+Máquina de lavar;Brastemp;Loja 1;6/5/2022;2;2905
+Notebook;Asus;Loja 1;2/6/2022;5;2030
+Máquina de lavar;Eletrolux;Loja 1;11/5/2022;4;2457
+Celular;Samsumg;Loja 2;29/6/2022;8;6522
+Notebook;Lenovo;Loja 1;22/9/2022;9;1951
+Notebook;Asus;Loja 3;23/11/2022;8;1780
+Notebook;Lenovo;Loja 2;23/6/2022;4;2370
+Smart TV;Phillips;Loja 2;29/4/2022;3;6089
+Smart TV;Phillips;Loja 3;24/3/2022;4;7612
+Notebook;Asus;Loja 3;2/12/2022;9;2266
+Smart TV;Phillips;Loja 1;4/3/2022;3;4616
+Celular;Apple;Loja 2;24/10/2022;7;3972
+Smart TV;Phillips;Loja 1;19/1/2022;4;6096
+Celular;Apple;Loja 2;15/6/2022;2;2706
+Notebook;Lenovo;Loja 2;4/12/2022;6;2288
+Máquina de lavar;Eletrolux;Loja 3;13/2/2022;7;3909
+Celular;Apple;Loja 3;26/2/2022;4;5484
+Notebook;Lenovo;Loja 2;1/2/2022;3;2128
+Celular;Samsumg;Loja 1;1/5/2022;3;3161
+Notebook;Asus;Loja 2;3/3/2022;9;2205
+Máquina de lavar;Eletrolux;Loja 1;1/1/2022;4;2281
+Notebook;Lenovo;Loja 1;22/12/2022;1;1715
+Máquina de lavar;Brastemp;Loja 1;16/5/2022;7;5826
+Máquina de lavar;Brastemp;Loja 2;7/10/2022;3;2237
+Notebook;Lenovo;Loja 1;11/3/2022;10;1951
+Máquina de lavar;Brastemp;Loja 1;26/11/2022;8;4757
+Notebook;Lenovo;Loja 3;23/2/2022;5;1914
+Celular;Samsumg;Loja 3;26/1/2022;2;3223
+Notebook;Lenovo;Loja 3;6/8/2022;5;2521
+Máquina de lavar;Eletrolux;Loja 3;27/4/2022;7;2909
+Celular;Samsumg;Loja 1;30/1/2022;7;6865
+Smart TV;Phillips;Loja 3;18/1/2022;1;3957
+Notebook;Asus;Loja 1;3/1/2022;10;2202
+Notebook;Asus;Loja 1;6/3/2022;9;1950
+Celular;Apple;Loja 1;25/3/2022;9;6612
+Notebook;Asus;Loja 2;27/11/2022;5;2418
+Notebook;Asus;Loja 3;21/12/2022;5;1880
+Notebook;Asus;Loja 3;20/10/2022;9;1816
+Máquina de lavar;Brastemp;Loja 3;5/6/2022;9;2910
+Notebook;Lenovo;Loja 1;19/12/2022;9;1779
+Smart TV;Phillips;Loja 2;2/4/2022;2;3856
+Celular;Samsumg;Loja 3;30/2/2022;10;3645
+Máquina de lavar;Eletrolux;Loja 3;6/11/2022;1;2285
+Celular;Samsumg;Loja 3;2/1/2022;5;2809
+Smart TV;LG;Loja 3;21/2/2022;6;8000
+Máquina de lavar;Brastemp;Loja 1;2/2/2022;5;2885
+Celular;Apple;Loja 2;20/8/2022;4;2055
+Máquina de lavar;Eletrolux;Loja 3;30/2/2022;6;5576
+Notebook;Lenovo;Loja 1;9/7/2022;7;1974
+Celular;Samsumg;Loja 1;10/5/2022;8;2666
+Celular;Apple;Loja 3;21/7/2022;2;2215
+Máquina de lavar;Brastemp;Loja 2;30/8/2022;10;5946
+Smart TV;LG;Loja 3;21/2/2022;8;7948
+Máquina de lavar;Brastemp;Loja 2;9/10/2022;6;2190
+Notebook;Asus;Loja 3;25/12/2022;4;2328
+Notebook;Asus;Loja 2;3/12/2022;1;2465
+Máquina de lavar;Eletrolux;Loja 1;1/11/2022;1;4611
+Notebook;Lenovo;Loja 1;3/9/2022;10;1916
+Celular;Samsumg;Loja 3;11/12/2022;6;4237
+Máquina de lavar;Eletrolux;Loja 3;16/11/2022;4;3354
+Notebook;Lenovo;Loja 2;4/1/2022;9;1837
+Celular;Samsumg;Loja 3;18/10/2022;2;5518
+Notebook;Lenovo;Loja 3;19/11/2022;3;1744
+Celular;Apple;Loja 2;25/4/2022;3;4410
+Smart TV;LG;Loja 1;27/9/2022;7;7603
+Smart TV;Phillips;Loja 3;15/6/2022;5;7779
+Smart TV;Phillips;Loja 1;17/9/2022;3;6322
+Smart TV;Phillips;Loja 3;8/5/2022;7;4261
+Celular;Apple;Loja 3;28/2/2022;8;6037
+Notebook;Asus;Loja 1;6/6/2022;3;2094
+Smart TV;Phillips;Loja 2;30/4/2022;6;6672
+Celular;Samsumg;Loja 3;25/2/2022;7;3821
+Celular;Samsumg;Loja 3;8/10/2022;2;4934
+Smart TV;Phillips;Loja 2;7/11/2022;4;7432
+Máquina de lavar;Eletrolux;Loja 3;8/12/2022;2;5482
+Notebook;Lenovo;Loja 3;3/12/2022;4;2475
+Máquina de lavar;Brastemp;Loja 3;2/1/2022;7;5534
+Smart TV;LG;Loja 2;23/8/2022;9;6052
+Smart TV;Phillips;Loja 1;4/9/2022;7;4409
+Celular;Samsumg;Loja 1;7/9/2022;1;4224
+Smart TV;Phillips;Loja 3;16/3/2022;5;7905
+Notebook;Lenovo;Loja 2;14/8/2022;10;1999
+Máquina de lavar;Eletrolux;Loja 3;6/4/2022;4;4037
+Notebook;Lenovo;Loja 1;20/11/2022;6;2030
+Celular;Apple;Loja 3;2/8/2022;9;2005
+Smart TV;LG;Loja 1;26/7/2022;3;5659
+Smart TV;Phillips;Loja 2;8/1/2022;5;3082
+Smart TV;Phillips;Loja 1;14/2/2022;7;4929
+Smart TV;LG;Loja 1;25/4/2022;10;4801
+Máquina de lavar;Eletrolux;Loja 3;5/3/2022;6;4533
+Smart TV;LG;Loja 2;9/10/2022;5;7338
+Máquina de lavar;Brastemp;Loja 2;17/3/2022;8;5123
+Celular;Samsumg;Loja 2;29/1/2022;6;4657
+Celular;Apple;Loja 2;18/9/2022;4;3224
+Celular;Apple;Loja 1;23/2/2022;1;4284
+Smart TV;Phillips;Loja 1;17/3/2022;10;7445
+Smart TV;Phillips;Loja 2;25/9/2022;9;6560
+Celular;Samsumg;Loja 3;13/1/2022;2;2366
+Celular;Apple;Loja 1;4/3/2022;6;3254
+Máquina de lavar;Brastemp;Loja 2;26/10/2022;2;2278
+Celular;Apple;Loja 1;29/7/2022;5;3464
+Notebook;Asus;Loja 3;25/2/2022;10;2095
+Notebook;Asus;Loja 2;7/4/2022;8;1795
+Smart TV;LG;Loja 3;3/5/2022;8;6230
+Máquina de lavar;Brastemp;Loja 3;2/4/2022;1;4160
+Máquina de lavar;Eletrolux;Loja 1;20/4/2022;3;2145
+Notebook;Lenovo;Loja 1;23/12/2022;8;2234
+Notebook;Asus;Loja 2;27/12/2022;7;1875
+Notebook;Lenovo;Loja 2;5/2/2022;4;1702
+Máquina de lavar;Eletrolux;Loja 1;23/5/2022;3;5617
+Notebook;Asus;Loja 2;26/11/2022;7;2431
+Smart TV;Phillips;Loja 1;12/12/2022;5;6478
+Celular;Samsumg;Loja 2;14/12/2022;3;3881
+Notebook;Lenovo;Loja 2;5/3/2022;6;1900
+Smart TV;LG;Loja 2;25/9/2022;10;3366
+Smart TV;LG;Loja 2;6/8/2022;8;5539
+Máquina de lavar;Brastemp;Loja 3;18/11/2022;1;5597
+Celular;Apple;Loja 2;5/5/2022;3;6895
+Notebook;Asus;Loja 1;21/12/2022;6;2335
+Notebook;Lenovo;Loja 2;10/10/2022;4;2554
+Máquina de lavar;Brastemp;Loja 3;13/8/2022;10;3051
+Smart TV;Phillips;Loja 2;1/6/2022;2;6922
+Máquina de lavar;Eletrolux;Loja 3;1/2/2022;1;4422
+Smart TV;Phillips;Loja 1;13/9/2022;3;6541
+Máquina de lavar;Eletrolux;Loja 1;30/12/2022;9;2604
+Smart TV;LG;Loja 3;24/6/2022;9;4474
+Notebook;Lenovo;Loja 2;26/1/2022;3;1854
+Smart TV;Phillips;Loja 2;12/1/2022;1;5366
+Máquina de lavar;Eletrolux;Loja 3;5/1/2022;4;5478
+Notebook;Asus;Loja 2;29/4/2022;8;2592
+Máquina de lavar;Brastemp;Loja 2;21/10/2022;8;3646
+Máquina de lavar;Brastemp;Loja 3;12/10/2022;10;2445
+Máquina de lavar;Brastemp;Loja 3;6/9/2022;6;3150
+Smart TV;LG;Loja 2;6/1/2022;10;4950
+Notebook;Asus;Loja 3;3/8/2022;3;2434
+Celular;Apple;Loja 3;18/7/2022;4;3665
+Celular;Apple;Loja 1;25/1/2022;3;2594
+Celular;Apple;Loja 2;28/1/2022;1;6382
+Smart TV;LG;Loja 1;19/11/2022;4;5810
+Smart TV;Phillips;Loja 2;16/5/2022;5;5043
+Máquina de lavar;Brastemp;Loja 3;3/3/2022;10;5778
+Notebook;Asus;Loja 1;13/3/2022;7;2531
+Celular;Apple;Loja 1;22/6/2022;10;5210
+Máquina de lavar;Brastemp;Loja 3;1/9/2022;2;5715
+Notebook;Lenovo;Loja 3;18/7/2022;5;1872
+Smart TV;LG;Loja 2;17/4/2022;7;7995
+Máquina de lavar;Eletrolux;Loja 2;16/9/2022;6;2713
+Máquina de lavar;Brastemp;Loja 3;22/2/2022;7;3705
+Smart TV;Phillips;Loja 1;18/2/2022;3;4131
+Celular;Apple;Loja 1;30/1/2022;6;6569
+Celular;Apple;Loja 2;28/7/2022;6;2232
+Smart TV;Phillips;Loja 3;28/7/2022;6;5781
+Smart TV;Phillips;Loja 2;26/7/2022;10;4314
+Notebook;Lenovo;Loja 1;12/11/2022;5;2062
+Notebook;Asus;Loja 1;23/3/2022;10;1772
+Notebook;Asus;Loja 2;22/5/2022;2;2144
+Smart TV;LG;Loja 2;6/7/2022;8;4578
+Máquina de lavar;Brastemp;Loja 1;14/1/2022;2;3480
+Máquina de lavar;Eletrolux;Loja 2;17/10/2022;1;4090
+Notebook;Asus;Loja 2;10/11/2022;7;2104
+Celular;Samsumg;Loja 2;17/2/2022;8;5518
+Notebook;Lenovo;Loja 2;29/3/2022;7;2280
+Máquina de lavar;Eletrolux;Loja 2;22/1/2022;7;3518
+Smart TV;Phillips;Loja 1;7/6/2022;6;7449
+Celular;Apple;Loja 3;1/12/2022;9;4412
+Máquina de lavar;Brastemp;Loja 1;30/1/2022;2;3658
+Smart TV;LG;Loja 3;10/3/2022;6;4716
+Smart TV;LG;Loja 1;5/7/2022;10;5061
+Smart TV;LG;Loja 3;4/11/2022;7;3445
+Smart TV;LG;Loja 1;13/2/2022;1;7943
+Smart TV;Phillips;Loja 2;5/3/2022;1;3912
+Máquina de lavar;Eletrolux;Loja 3;10/3/2022;5;2794
+Máquina de lavar;Brastemp;Loja 1;3/9/2022;4;2464
+Notebook;Asus;Loja 3;7/3/2022;8;1730
+Máquina de lavar;Eletrolux;Loja 1;15/5/2022;6;2703
+Smart TV;Phillips;Loja 2;30/9/2022;8;7020
+Celular;Apple;Loja 3;13/9/2022;7;2432
+Smart TV;Phillips;Loja 1;16/6/2022;2;4645
+Smart TV;LG;Loja 3;29/5/2022;9;5299
+Notebook;Asus;Loja 1;6/11/2022;9;2452
+Máquina de lavar;Brastemp;Loja 3;30/7/2022;6;3484
+Máquina de lavar;Brastemp;Loja 2;20/8/2022;2;5079
+Smart TV;LG;Loja 1;28/6/2022;5;4431
+Notebook;Asus;Loja 2;11/7/2022;6;2087
+Máquina de lavar;Eletrolux;Loja 3;23/3/2022;9;3825
+Smart TV;LG;Loja 2;12/3/2022;2;3765
+Notebook;Asus;Loja 2;28/6/2022;3;1764
+Celular;Samsumg;Loja 3;10/9/2022;3;3859
+Notebook;Lenovo;Loja 2;19/9/2022;2;1994
+Celular;Samsumg;Loja 3;26/3/2022;3;3975
+Celular;Samsumg;Loja 2;17/11/2022;2;4415
+Celular;Samsumg;Loja 3;6/11/2022;6;4047
+Notebook;Asus;Loja 1;12/2/2022;6;2012
+Celular;Apple;Loja 3;7/6/2022;8;2876
+Máquina de lavar;Brastemp;Loja 1;9/1/2022;5;5270
+Smart TV;Phillips;Loja 1;12/5/2022;1;6872
+Smart TV;Phillips;Loja 2;21/1/2022;4;3598
+Celular;Samsumg;Loja 1;17/1/2022;1;4900
+Máquina de lavar;Brastemp;Loja 2;10/12/2022;5;2480
+Máquina de lavar;Brastemp;Loja 2;30/8/2022;5;3059
+Smart TV;Phillips;Loja 2;23/9/2022;2;3791
+Smart TV;Phillips;Loja 2;7/1/2022;3;3649
+Máquina de lavar;Eletrolux;Loja 1;12/8/2022;6;3879
+Notebook;Lenovo;Loja 3;6/2/2022;2;2292
+Máquina de lavar;Eletrolux;Loja 2;20/7/2022;1;2452
+Celular;Samsumg;Loja 2;19/11/2022;4;4514
+Máquina de lavar;Brastemp;Loja 2;23/8/2022;5;3833
+Notebook;Asus;Loja 1;15/2/2022;9;1757
+Celular;Apple;Loja 3;18/11/2022;9;6943
+Máquina de lavar;Eletrolux;Loja 3;24/1/2022;6;5253
+Notebook;Lenovo;Loja 2;10/6/2022;1;1908
+Notebook;Asus;Loja 2;1/6/2022;1;2181
+Máquina de lavar;Brastemp;Loja 1;1/8/2022;1;3056
+Smart TV;LG;Loja 1;28/7/2022;8;4804
+Notebook;Lenovo;Loja 1;18/4/2022;3;1772
+Máquina de lavar;Brastemp;Loja 2;11/7/2022;8;3987
+Máquina de lavar;Eletrolux;Loja 1;18/3/2022;1;4466
+Notebook;Lenovo;Loja 3;23/2/2022;9;2052
+Notebook;Asus;Loja 2;12/8/2022;5;1722
+Smart TV;Phillips;Loja 2;24/7/2022;4;3432
+Smart TV;LG;Loja 3;4/5/2022;8;4692
+Celular;Samsumg;Loja 3;5/11/2022;2;6289
+Notebook;Lenovo;Loja 1;30/4/2022;9;2001
+Celular;Apple;Loja 3;20/7/2022;6;4231
+Notebook;Asus;Loja 3;2/6/2022;1;1916
+Smart TV;Phillips;Loja 2;4/12/2022;7;6457
+Smart TV;Phillips;Loja 1;30/10/2022;6;6149
+Máquina de lavar;Eletrolux;Loja 3;29/5/2022;6;3072
+Notebook;Lenovo;Loja 1;18/6/2022;4;1872
+Notebook;Lenovo;Loja 1;25/4/2022;7;2102
+Celular;Samsumg;Loja 1;1/5/2022;5;4800
+Smart TV;LG;Loja 3;2/9/2022;6;7489
+Máquina de lavar;Eletrolux;Loja 1;14/9/2022;6;2450
+Smart TV;LG;Loja 1;30/6/2022;9;6312
+Celular;Samsumg;Loja 2;24/11/2022;8;4446
+Celular;Samsumg;Loja 2;5/8/2022;3;3274
+Smart TV;LG;Loja 1;28/11/2022;7;6172
+Celular;Samsumg;Loja 1;16/12/2022;2;4396
+Smart TV;LG;Loja 2;14/6/2022;6;4342
+Celular;Samsumg;Loja 2;17/10/2022;5;3538
+Notebook;Lenovo;Loja 2;18/3/2022;8;2308
+Celular;Samsumg;Loja 1;23/5/2022;5;4753
+Smart TV;LG;Loja 2;29/9/2022;9;7731
+Smart TV;Phillips;Loja 2;2/10/2022;10;5754
+Máquina de lavar;Eletrolux;Loja 1;26/10/2022;10;3533
+Máquina de lavar;Eletrolux;Loja 1;12/6/2022;3;2069
+Smart TV;Phillips;Loja 1;27/7/2022;8;7995
+Notebook;Lenovo;Loja 3;19/4/2022;7;2152
+Notebook;Lenovo;Loja 2;25/11/2022;3;2185
+Máquina de lavar;Brastemp;Loja 1;15/6/2022;10;5845
+Smart TV;LG;Loja 1;11/4/2022;8;6260
+Smart TV;Phillips;Loja 1;25/3/2022;5;4394
+Máquina de lavar;Eletrolux;Loja 3;4/8/2022;9;3347
+Smart TV;LG;Loja 3;17/7/2022;5;7634
+Máquina de lavar;Eletrolux;Loja 1;19/7/2022;3;5530
+Notebook;Asus;Loja 2;14/6/2022;3;2295
+Notebook;Lenovo;Loja 1;7/8/2022;9;2281
+Notebook;Asus;Loja 3;11/6/2022;1;2041
+Smart TV;LG;Loja 3;26/10/2022;3;3811
+Máquina de lavar;Eletrolux;Loja 1;16/1/2022;1;2322
+Máquina de lavar;Eletrolux;Loja 2;26/4/2022;3;5492
+Smart TV;Phillips;Loja 2;19/11/2022;8;4494
+Celular;Samsumg;Loja 3;22/12/2022;10;4925
+Máquina de lavar;Brastemp;Loja 1;8/5/2022;5;4313
+Máquina de lavar;Brastemp;Loja 3;16/12/2022;2;3131
+Smart TV;LG;Loja 3;16/12/2022;5;3279
+Smart TV;Phillips;Loja 1;4/2/2022;9;4713
+Smart TV;Phillips;Loja 2;10/4/2022;6;6534
+Notebook;Lenovo;Loja 1;18/6/2022;9;2150
+Notebook;Asus;Loja 2;8/4/2022;4;2508
+Celular;Apple;Loja 3;18/3/2022;2;2554
+Smart TV;Phillips;Loja 1;7/2/2022;3;7089
+Notebook;Asus;Loja 1;4/4/2022;6;1850
+Notebook;Lenovo;Loja 3;30/3/2022;4;2280
+Máquina de lavar;Brastemp;Loja 1;4/5/2022;10;3401
+Notebook;Asus;Loja 2;16/8/2022;4;2343
+Máquina de lavar;Eletrolux;Loja 1;28/8/2022;3;2456
+Notebook;Asus;Loja 3;5/9/2022;5;2042
+Notebook;Asus;Loja 3;3/2/2022;5;2481
+Smart TV;Phillips;Loja 3;19/12/2022;7;5642
+Notebook;Lenovo;Loja 2;8/3/2022;7;1782
+Máquina de lavar;Brastemp;Loja 2;8/11/2022;5;3806
+Máquina de lavar;Brastemp;Loja 3;27/7/2022;10;4365
+Notebook;Asus;Loja 1;14/1/2022;4;2202
+Smart TV;LG;Loja 2;19/2/2022;8;5803
+Celular;Apple;Loja 3;21/5/2022;10;4789
+Celular;Samsumg;Loja 2;22/2/2022;10;3391
+Smart TV;LG;Loja 3;1/3/2022;6;3030
+Smart TV;Phillips;Loja 1;24/8/2022;9;4386
+Notebook;Lenovo;Loja 1;6/2/2022;9;2025
+Máquina de lavar;Eletrolux;Loja 2;3/6/2022;2;5180
+Celular;Samsumg;Loja 3;10/10/2022;5;4499
+Smart TV;Phillips;Loja 2;7/2/2022;8;6374
+Notebook;Asus;Loja 2;13/10/2022;9;2166
+Notebook;Lenovo;Loja 1;19/5/2022;3;1787
+Notebook;Lenovo;Loja 3;19/12/2022;3;2515
+Notebook;Asus;Loja 3;5/1/2022;9;2499
+Celular;Samsumg;Loja 3;18/5/2022;8;3595
+Notebook;Asus;Loja 2;7/2/2022;6;2222
+Smart TV;LG;Loja 3;27/7/2022;6;7455
+Smart TV;Phillips;Loja 3;17/10/2022;8;5421
+Notebook;Lenovo;Loja 2;20/9/2022;5;1732
+Máquina de lavar;Brastemp;Loja 2;12/11/2022;9;4532
+Notebook;Lenovo;Loja 3;9/3/2022;9;2204
+Notebook;Lenovo;Loja 1;13/4/2022;9;2131
+Smart TV;Phillips;Loja 1;21/2/2022;9;4950
+Notebook;Asus;Loja 1;21/6/2022;7;2449
+Máquina de lavar;Eletrolux;Loja 1;11/9/2022;10;3977
+Máquina de lavar;Brastemp;Loja 2;27/10/2022;9;5742
+Máquina de lavar;Eletrolux;Loja 2;12/10/2022;9;5781
+Smart TV;Phillips;Loja 2;21/5/2022;9;3129
+Celular;Apple;Loja 1;7/12/2022;7;6879
+Smart TV;Phillips;Loja 1;30/2/2022;8;3287
+Notebook;Lenovo;Loja 3;3/6/2022;7;2515
+Celular;Samsumg;Loja 3;23/5/2022;7;5496
+Notebook;Lenovo;Loja 2;8/8/2022;7;2399
+Máquina de lavar;Brastemp;Loja 1;26/11/2022;4;3418
+Smart TV;LG;Loja 3;21/12/2022;9;6417
+Smart TV;Phillips;Loja 3;14/10/2022;9;7904
+Smart TV;LG;Loja 2;26/11/2022;3;4616
+Máquina de lavar;Brastemp;Loja 1;28/6/2022;8;4454
+Smart TV;Phillips;Loja 1;17/1/2022;3;6608
+Celular;Apple;Loja 3;22/10/2022;6;4904
+Máquina de lavar;Eletrolux;Loja 3;20/4/2022;10;2041
+Máquina de lavar;Eletrolux;Loja 3;12/1/2022;9;4184
+Smart TV;Phillips;Loja 2;25/10/2022;5;6478
+Smart TV;LG;Loja 3;4/9/2022;8;5989
+Máquina de lavar;Eletrolux;Loja 3;10/5/2022;9;2793
+Notebook;Asus;Loja 1;5/11/2022;5;2301
+Smart TV;LG;Loja 3;19/1/2022;2;3518
+Celular;Samsumg;Loja 3;21/5/2022;2;2018
+Celular;Apple;Loja 3;4/3/2022;3;3707
+Notebook;Asus;Loja 1;27/12/2022;5;2289
+Celular;Samsumg;Loja 2;5/1/2022;8;6266
+Smart TV;LG;Loja 2;13/11/2022;6;5407
+Máquina de lavar;Eletrolux;Loja 2;5/11/2022;3;5873
+Máquina de lavar;Brastemp;Loja 3;15/4/2022;8;2923
+Notebook;Asus;Loja 1;8/7/2022;8;2547
+Máquina de lavar;Brastemp;Loja 3;2/8/2022;7;3343
+Máquina de lavar;Eletrolux;Loja 1;13/2/2022;6;2126
+Smart TV;LG;Loja 3;24/4/2022;4;3896
+Máquina de lavar;Brastemp;Loja 3;22/4/2022;5;5600
+Notebook;Asus;Loja 1;30/11/2022;1;1927
+Notebook;Lenovo;Loja 1;7/3/2022;1;2436
+Máquina de lavar;Eletrolux;Loja 1;22/5/2022;8;3567
+Máquina de lavar;Brastemp;Loja 1;20/12/2022;8;5574
+Smart TV;LG;Loja 2;16/9/2022;6;4493
+Notebook;Lenovo;Loja 1;23/4/2022;6;2114
+Máquina de lavar;Eletrolux;Loja 3;7/2/2022;10;2015
+Celular;Apple;Loja 2;16/12/2022;6;6446
+Celular;Samsumg;Loja 3;28/3/2022;8;6010
+Smart TV;Phillips;Loja 1;4/12/2022;1;3743
+Celular;Samsumg;Loja 1;4/2/2022;7;5744
+Notebook;Asus;Loja 3;27/8/2022;1;1998
+Smart TV;LG;Loja 1;4/3/2022;8;6025
+Máquina de lavar;Brastemp;Loja 2;29/12/2022;6;4418
+Máquina de lavar;Eletrolux;Loja 3;20/11/2022;6;2505
+Smart TV;Phillips;Loja 3;27/5/2022;8;3037
+Notebook;Lenovo;Loja 3;4/1/2022;5;2546
+Máquina de lavar;Eletrolux;Loja 2;30/4/2022;4;5657
+Celular;Apple;Loja 2;1/3/2022;9;3195
+Máquina de lavar;Brastemp;Loja 1;10/2/2022;9;2326
+Smart TV;LG;Loja 2;9/9/2022;10;6822
+Smart TV;LG;Loja 1;7/12/2022;10;5950
+Máquina de lavar;Eletrolux;Loja 3;27/10/2022;3;3082
+Smart TV;LG;Loja 3;10/12/2022;8;7488
+Celular;Samsumg;Loja 2;26/7/2022;8;5377
+Notebook;Asus;Loja 3;6/12/2022;10;2220
+Máquina de lavar;Brastemp;Loja 3;13/6/2022;5;3508
+Celular;Apple;Loja 1;8/12/2022;5;2857
+Celular;Apple;Loja 2;21/9/2022;7;4288
+Smart TV;Phillips;Loja 2;27/1/2022;2;4191
+Celular;Samsumg;Loja 2;23/7/2022;2;6188
+Smart TV;LG;Loja 2;24/7/2022;4;6935
+Máquina de lavar;Eletrolux;Loja 2;8/8/2022;7;2293
+Notebook;Asus;Loja 3;22/2/2022;7;1901
+Smart TV;Phillips;Loja 2;1/12/2022;4;6134
+Celular;Apple;Loja 2;18/5/2022;4;3580
+Celular;Apple;Loja 3;2/5/2022;8;4173
+Notebook;Asus;Loja 1;25/2/2022;6;2201
+Máquina de lavar;Eletrolux;Loja 3;27/5/2022;5;2916
+Smart TV;LG;Loja 2;30/2/2022;9;4985
+Notebook;Lenovo;Loja 1;10/12/2022;6;2020
+Máquina de lavar;Brastemp;Loja 2;17/4/2022;9;2741
+Máquina de lavar;Brastemp;Loja 1;15/3/2022;2;4971
+Máquina de lavar;Eletrolux;Loja 1;5/11/2022;4;4726
+Smart TV;Phillips;Loja 3;11/4/2022;5;5931
+Máquina de lavar;Eletrolux;Loja 1;29/2/2022;5;3517
+Celular;Samsumg;Loja 3;29/5/2022;10;4949
+Notebook;Asus;Loja 2;23/7/2022;3;1752
+Notebook;Asus;Loja 2;9/2/2022;7;1806
+Smart TV;Phillips;Loja 2;11/6/2022;1;6082
+Notebook;Asus;Loja 3;10/5/2022;3;1870
+Máquina de lavar;Eletrolux;Loja 3;27/7/2022;4;5144
+Celular;Samsumg;Loja 1;16/7/2022;8;3462
+Smart TV;LG;Loja 2;15/3/2022;1;7117
+Celular;Samsumg;Loja 2;18/7/2022;2;5251
+Máquina de lavar;Eletrolux;Loja 1;26/6/2022;2;5739
+Notebook;Asus;Loja 3;5/7/2022;10;2088
+Notebook;Asus;Loja 2;24/7/2022;7;2183
+Smart TV;Phillips;Loja 1;15/4/2022;2;5274
+Celular;Apple;Loja 3;29/12/2022;10;6419
+Notebook;Asus;Loja 3;19/1/2022;10;1929
+Smart TV;Phillips;Loja 3;18/1/2022;4;4958
+Celular;Apple;Loja 3;13/5/2022;10;6717
+Notebook;Lenovo;Loja 1;26/8/2022;9;2199
+Smart TV;LG;Loja 1;17/10/2022;5;7678
+Notebook;Asus;Loja 2;13/7/2022;5;2583
+Celular;Apple;Loja 3;13/10/2022;8;4467
+Notebook;Lenovo;Loja 1;7/5/2022;6;2433
+Máquina de lavar;Eletrolux;Loja 1;1/9/2022;8;5178
+Máquina de lavar;Brastemp;Loja 2;2/9/2022;5;3328
+Máquina de lavar;Eletrolux;Loja 3;24/11/2022;2;5025
+Notebook;Asus;Loja 1;16/6/2022;5;2545
+Máquina de lavar;Eletrolux;Loja 1;18/11/2022;4;4676
+Celular;Samsumg;Loja 3;1/3/2022;10;4307
+Máquina de lavar;Eletrolux;Loja 2;14/9/2022;10;3075
+Máquina de lavar;Brastemp;Loja 3;2/6/2022;10;2337
+Máquina de lavar;Eletrolux;Loja 2;14/4/2022;8;2083
+Notebook;Lenovo;Loja 3;18/5/2022;7;2310
+Notebook;Asus;Loja 2;25/11/2022;6;2082
+Smart TV;LG;Loja 3;26/3/2022;5;4720
+Celular;Apple;Loja 1;20/10/2022;7;4306
+Celular;Apple;Loja 1;24/4/2022;5;4746
+Celular;Samsumg;Loja 3;24/4/2022;2;3943
+Máquina de lavar;Brastemp;Loja 2;30/2/2022;5;5036
+Notebook;Lenovo;Loja 2;15/11/2022;8;2252
+Máquina de lavar;Eletrolux;Loja 1;28/4/2022;2;5028
+Celular;Samsumg;Loja 2;12/9/2022;9;3640
+Máquina de lavar;Brastemp;Loja 2;8/5/2022;8;3955
+Smart TV;Phillips;Loja 3;20/1/2022;8;3190
+Notebook;Asus;Loja 1;19/3/2022;10;2506
+Notebook;Asus;Loja 3;19/10/2022;5;1970
+Notebook;Lenovo;Loja 1;11/12/2022;8;1777
+Máquina de lavar;Eletrolux;Loja 1;2/1/2022;7;5605
+Celular;Apple;Loja 3;7/6/2022;5;2337
+Máquina de lavar;Brastemp;Loja 2;16/6/2022;10;2495
+Máquina de lavar;Eletrolux;Loja 1;27/3/2022;10;4521
+Notebook;Asus;Loja 3;24/4/2022;5;1767
+Notebook;Asus;Loja 1;15/1/2022;7;2284
+Notebook;Asus;Loja 1;5/6/2022;10;2482
+Máquina de lavar;Eletrolux;Loja 1;2/7/2022;6;2252
+Smart TV;LG;Loja 1;19/5/2022;4;4546
+Notebook;Asus;Loja 2;11/7/2022;1;2009
+Notebook;Asus;Loja 3;23/12/2022;3;2072
+Celular;Samsumg;Loja 3;4/7/2022;7;3736
+Notebook;Asus;Loja 2;23/9/2022;3;1953
+Celular;Samsumg;Loja 1;1/7/2022;9;5520
+Máquina de lavar;Eletrolux;Loja 1;30/5/2022;10;2517
+Celular;Apple;Loja 3;6/5/2022;8;5293
+Celular;Apple;Loja 2;9/8/2022;2;5022
+Notebook;Lenovo;Loja 1;2/7/2022;7;2449
+Máquina de lavar;Eletrolux;Loja 3;13/3/2022;9;5218
+Celular;Apple;Loja 1;14/11/2022;2;2265
+Celular;Apple;Loja 1;21/1/2022;10;4289
+Celular;Samsumg;Loja 2;15/11/2022;8;5169
+Máquina de lavar;Eletrolux;Loja 3;20/9/2022;6;3987
+Celular;Apple;Loja 2;27/12/2022;9;5300
+Notebook;Asus;Loja 2;29/3/2022;9;2024
+Smart TV;LG;Loja 2;29/2/2022;1;5249
+Celular;Apple;Loja 1;20/9/2022;7;3417
+Máquina de lavar;Eletrolux;Loja 3;23/1/2022;8;4657
+Notebook;Lenovo;Loja 1;15/12/2022;5;1845
+Máquina de lavar;Brastemp;Loja 2;16/1/2022;3;4672
+Celular;Apple;Loja 3;30/11/2022;2;5918
+Celular;Apple;Loja 1;19/3/2022;8;2754
+Celular;Apple;Loja 2;24/4/2022;7;2812
+Máquina de lavar;Eletrolux;Loja 1;16/7/2022;6;5128
+Smart TV;Phillips;Loja 2;26/1/2022;8;7940
+Máquina de lavar;Eletrolux;Loja 2;10/11/2022;4;2941
+Máquina de lavar;Brastemp;Loja 3;12/3/2022;1;5760
+Notebook;Lenovo;Loja 1;6/11/2022;2;2556
+Notebook;Lenovo;Loja 2;19/2/2022;10;2048
+Celular;Samsumg;Loja 2;28/12/2022;3;3110
+Máquina de lavar;Eletrolux;Loja 3;3/4/2022;9;4656
+Celular;Samsumg;Loja 1;21/7/2022;10;2237
+Smart TV;Phillips;Loja 3;9/4/2022;9;3183
+Máquina de lavar;Eletrolux;Loja 1;30/6/2022;10;3932
+Máquina de lavar;Brastemp;Loja 3;11/10/2022;2;4207
+Celular;Apple;Loja 1;16/1/2022;5;5235
+Máquina de lavar;Brastemp;Loja 1;1/1/2022;1;3032
+Notebook;Asus;Loja 3;15/10/2022;6;2203
+Smart TV;Phillips;Loja 3;23/8/2022;4;4069
+Celular;Apple;Loja 3;2/11/2022;9;4609
+Celular;Apple;Loja 1;22/12/2022;6;6801
+Celular;Samsumg;Loja 3;17/6/2022;8;6843
+Notebook;Asus;Loja 1;15/7/2022;10;2562
+Celular;Apple;Loja 3;12/1/2022;9;5800
+Máquina de lavar;Eletrolux;Loja 1;1/8/2022;9;4984
+Máquina de lavar;Eletrolux;Loja 2;11/12/2022;7;3307
+Smart TV;Phillips;Loja 2;12/2/2022;6;7088
+Celular;Samsumg;Loja 3;6/9/2022;8;2022
+Celular;Samsumg;Loja 3;23/2/2022;5;3969
+Celular;Samsumg;Loja 3;29/9/2022;3;5341
+Smart TV;LG;Loja 3;29/5/2022;6;5477
+Notebook;Asus;Loja 1;7/7/2022;3;1867
+Smart TV;LG;Loja 2;15/10/2022;7;5459
+Smart TV;LG;Loja 1;14/5/2022;3;4048
+Smart TV;LG;Loja 3;5/9/2022;4;6436
+Smart TV;LG;Loja 2;10/8/2022;8;4212
+Smart TV;Phillips;Loja 1;5/2/2022;4;6082
+Smart TV;Phillips;Loja 2;5/11/2022;1;5591
+Notebook;Asus;Loja 1;9/1/2022;3;1717
+Notebook;Lenovo;Loja 1;11/9/2022;1;1926
+Celular;Samsumg;Loja 1;15/7/2022;6;2442
+Celular;Apple;Loja 3;15/1/2022;7;6812
+Notebook;Lenovo;Loja 3;16/12/2022;3;2500
+Notebook;Lenovo;Loja 2;18/7/2022;3;1830
+Notebook;Asus;Loja 3;10/2/2022;4;2200
+Máquina de lavar;Eletrolux;Loja 3;9/5/2022;9;5032
+Smart TV;LG;Loja 3;29/12/2022;2;7106
+Celular;Samsumg;Loja 2;12/12/2022;6;6500
+Máquina de lavar;Brastemp;Loja 3;24/12/2022;5;5441
+Smart TV;LG;Loja 2;30/3/2022;8;7056
+Smart TV;Phillips;Loja 1;23/11/2022;10;4270
+Notebook;Lenovo;Loja 3;17/8/2022;8;1980
+Notebook;Asus;Loja 3;22/3/2022;3;2455
+Celular;Samsumg;Loja 1;23/3/2022;3;2449
+Máquina de lavar;Brastemp;Loja 3;15/4/2022;8;2588
+Celular;Apple;Loja 1;18/10/2022;4;6291
+Notebook;Asus;Loja 2;9/11/2022;1;1925
+Smart TV;LG;Loja 1;25/3/2022;8;7918
+Celular;Samsumg;Loja 1;20/10/2022;3;4860
+Celular;Samsumg;Loja 1;3/4/2022;8;6772
+Celular;Samsumg;Loja 1;11/11/2022;9;5453
+Máquina de lavar;Eletrolux;Loja 3;27/11/2022;10;4371
+Notebook;Asus;Loja 2;14/6/2022;9;1829
+Celular;Apple;Loja 1;3/10/2022;8;4392
+Smart TV;LG;Loja 2;8/2/2022;3;3381
+Smart TV;LG;Loja 3;26/3/2022;6;7083
+Máquina de lavar;Brastemp;Loja 2;5/12/2022;10;4084
+Smart TV;Phillips;Loja 2;28/12/2022;1;4149
+Smart TV;LG;Loja 2;19/12/2022;4;7142
+Máquina de lavar;Brastemp;Loja 2;2/10/2022;4;5801
+Notebook;Lenovo;Loja 1;22/7/2022;5;2058
+Notebook;Lenovo;Loja 1;2/4/2022;4;1862
+Celular;Apple;Loja 3;15/4/2022;9;2915
+Smart TV;Phillips;Loja 1;25/3/2022;8;4905
+Celular;Samsumg;Loja 3;26/5/2022;9;3125
+Celular;Samsumg;Loja 2;11/4/2022;5;6814
+Smart TV;Phillips;Loja 1;22/1/2022;6;7470
+Smart TV;LG;Loja 1;10/6/2022;8;7378
+Máquina de lavar;Eletrolux;Loja 3;4/4/2022;1;5965
+Máquina de lavar;Eletrolux;Loja 3;27/7/2022;3;4003
+Smart TV;LG;Loja 3;26/3/2022;3;6011
+Celular;Samsumg;Loja 3;1/7/2022;8;3647
+Notebook;Lenovo;Loja 1;2/3/2022;5;2404
+Celular;Apple;Loja 3;16/4/2022;3;2690
+Notebook;Lenovo;Loja 1;18/3/2022;4;2313
+Máquina de lavar;Eletrolux;Loja 1;17/12/2022;5;4496
+Celular;Samsumg;Loja 3;19/11/2022;5;5669
+Notebook;Lenovo;Loja 2;23/5/2022;6;1709
+Celular;Samsumg;Loja 3;30/8/2022;3;4711
+Máquina de lavar;Brastemp;Loja 1;4/9/2022;6;5150
+Máquina de lavar;Eletrolux;Loja 2;30/2/2022;5;5591
+Máquina de lavar;Brastemp;Loja 1;12/12/2022;2;4438
+Smart TV;Phillips;Loja 2;21/12/2022;9;7200
+Notebook;Asus;Loja 1;3/11/2022;4;1936
+Máquina de lavar;Eletrolux;Loja 1;28/7/2022;9;3879
+Máquina de lavar;Eletrolux;Loja 3;11/4/2022;8;3151
+Notebook;Asus;Loja 1;11/9/2022;8;1902
+Máquina de lavar;Eletrolux;Loja 2;8/3/2022;7;3085
+Máquina de lavar;Eletrolux;Loja 1;17/7/2022;3;5751
+Celular;Samsumg;Loja 2;15/9/2022;4;4845
+Máquina de lavar;Brastemp;Loja 2;18/5/2022;6;3834
+Smart TV;LG;Loja 2;3/3/2022;8;6289
+Notebook;Lenovo;Loja 1;26/9/2022;10;2293
+Smart TV;Phillips;Loja 2;11/12/2022;10;5542
+Máquina de lavar;Brastemp;Loja 2;1/9/2022;8;3028
+Celular;Samsumg;Loja 2;13/5/2022;7;3755
+Smart TV;LG;Loja 2;29/9/2022;2;5775
+Celular;Apple;Loja 3;23/5/2022;9;3647
+Notebook;Asus;Loja 2;8/3/2022;7;2520
+Smart TV;Phillips;Loja 1;12/9/2022;6;6205
+Notebook;Lenovo;Loja 3;25/12/2022;10;2261
+Celular;Apple;Loja 1;23/11/2022;9;6829
+Notebook;Lenovo;Loja 3;1/7/2022;8;2093
+Máquina de lavar;Eletrolux;Loja 2;16/5/2022;1;2422
+Notebook;Asus;Loja 3;28/12/2022;4;1865
+Celular;Samsumg;Loja 1;23/8/2022;2;3559
+Notebook;Lenovo;Loja 2;28/6/2022;4;1899
+Máquina de lavar;Eletrolux;Loja 3;6/12/2022;3;4447
+Celular;Samsumg;Loja 3;6/10/2022;9;3800
+Máquina de lavar;Brastemp;Loja 2;3/11/2022;1;5933
+Smart TV;Phillips;Loja 2;3/2/2022;6;7282
+Máquina de lavar;Eletrolux;Loja 1;9/6/2022;6;3267
+Smart TV;LG;Loja 2;9/2/2022;10;6480
+Smart TV;Phillips;Loja 3;21/7/2022;9;3826
+Máquina de lavar;Eletrolux;Loja 2;15/11/2022;9;4764
+Celular;Apple;Loja 3;1/9/2022;9;3206
+Notebook;Asus;Loja 3;5/11/2022;5;2591
+Smart TV;LG;Loja 1;28/3/2022;7;6467
+Máquina de lavar;Brastemp;Loja 1;24/11/2022;10;3637
+Máquina de lavar;Brastemp;Loja 3;20/7/2022;10;3703
+Celular;Apple;Loja 2;16/7/2022;1;5024
+Smart TV;Phillips;Loja 3;4/5/2022;2;3332
+Notebook;Asus;Loja 3;27/8/2022;3;2480
+Notebook;Asus;Loja 2;20/8/2022;8;1836
+Smart TV;LG;Loja 2;1/6/2022;9;5883
+Máquina de lavar;Eletrolux;Loja 3;1/1/2022;10;2145
+Máquina de lavar;Brastemp;Loja 3;19/6/2022;5;3442
+Smart TV;LG;Loja 2;30/11/2022;4;3039
+Máquina de lavar;Brastemp;Loja 3;28/8/2022;4;4150
+Notebook;Asus;Loja 2;4/8/2022;10;2347
+Notebook;Asus;Loja 1;7/6/2022;9;2502
+Celular;Samsumg;Loja 2;17/3/2022;7;3156
+Smart TV;Phillips;Loja 2;9/1/2022;2;6632
+Notebook;Asus;Loja 3;29/5/2022;4;2178
+Máquina de lavar;Eletrolux;Loja 1;30/8/2022;1;2707
+Máquina de lavar;Eletrolux;Loja 3;16/1/2022;8;5732
+Celular;Apple;Loja 2;20/10/2022;6;6267
+Notebook;Asus;Loja 2;6/1/2022;6;2182
+Máquina de lavar;Eletrolux;Loja 2;30/8/2022;3;5017
+Notebook;Lenovo;Loja 1;23/11/2022;5;2008
+Notebook;Asus;Loja 3;28/7/2022;1;2153
+Máquina de lavar;Eletrolux;Loja 2;4/9/2022;6;3369
+Máquina de lavar;Brastemp;Loja 1;23/7/2022;5;5650
+Celular;Samsumg;Loja 2;5/8/2022;9;5799
+Máquina de lavar;Eletrolux;Loja 1;27/4/2022;9;5253
+Notebook;Asus;Loja 1;25/2/2022;2;2351
+Celular;Apple;Loja 2;3/2/2022;9;3883
+Notebook;Lenovo;Loja 3;5/4/2022;6;2057
+Smart TV;LG;Loja 2;26/9/2022;6;7370
+Celular;Apple;Loja 2;25/5/2022;10;2518
+Smart TV;Phillips;Loja 2;27/10/2022;4;4698
+Smart TV;LG;Loja 3;30/1/2022;10;4436
+Notebook;Lenovo;Loja 2;17/6/2022;4;1835
+Notebook;Lenovo;Loja 1;21/1/2022;5;2520
+Celular;Apple;Loja 1;5/7/2022;8;3576
+Smart TV;Phillips;Loja 3;26/10/2022;2;4847
+Celular;Samsumg;Loja 3;6/12/2022;5;3804
+Smart TV;Phillips;Loja 2;5/6/2022;4;3795
+Smart TV;LG;Loja 3;29/10/2022;1;7481
+Smart TV;Phillips;Loja 2;12/3/2022;1;3772
+Notebook;Lenovo;Loja 1;25/7/2022;8;2531
+Smart TV;Phillips;Loja 1;13/1/2022;8;3339
+Smart TV;Phillips;Loja 1;4/5/2022;8;5362
+Celular;Apple;Loja 3;8/6/2022;3;2858
+Celular;Samsumg;Loja 2;22/5/2022;1;6126
+Celular;Samsumg;Loja 3;10/3/2022;10;2583
+Máquina de lavar;Eletrolux;Loja 2;5/10/2022;3;2983
+Celular;Apple;Loja 3;30/1/2022;4;4422
+Smart TV;LG;Loja 1;24/2/2022;1;3032
+Máquina de lavar;Eletrolux;Loja 2;12/5/2022;5;3167
+Celular;Apple;Loja 2;20/4/2022;7;4475
+Celular;Samsumg;Loja 1;8/2/2022;2;3209
+Smart TV;LG;Loja 2;11/4/2022;4;6999
+Celular;Apple;Loja 3;30/5/2022;10;5640
+Máquina de lavar;Brastemp;Loja 1;11/11/2022;4;4784
+Celular;Samsumg;Loja 2;28/2/2022;10;3590
+Celular;Samsumg;Loja 1;5/3/2022;10;4755
+Smart TV;Phillips;Loja 1;18/3/2022;1;6978
+Notebook;Lenovo;Loja 3;6/11/2022;6;2519
+Smart TV;LG;Loja 1;13/9/2022;1;4347
+Smart TV;LG;Loja 2;10/9/2022;2;7916
+Máquina de lavar;Brastemp;Loja 1;4/7/2022;3;2802
+Máquina de lavar;Brastemp;Loja 1;23/1/2022;5;5829
+Smart TV;LG;Loja 2;7/4/2022;5;3489
+Máquina de lavar;Eletrolux;Loja 2;5/10/2022;1;2620
+Máquina de lavar;Eletrolux;Loja 1;8/8/2022;1;5436
+Notebook;Asus;Loja 3;3/12/2022;4;2339
+Celular;Apple;Loja 3;19/8/2022;9;5772
+Smart TV;LG;Loja 1;27/9/2022;10;6857
+Máquina de lavar;Brastemp;Loja 2;15/7/2022;6;3857
+Celular;Samsumg;Loja 1;12/11/2022;2;2699
+Smart TV;Phillips;Loja 1;12/8/2022;2;6430
+Smart TV;LG;Loja 2;26/10/2022;2;7928
+Máquina de lavar;Brastemp;Loja 2;1/2/2022;8;3798
+Smart TV;Phillips;Loja 3;11/11/2022;9;6365
+Smart TV;Phillips;Loja 3;17/7/2022;9;6795
+Smart TV;LG;Loja 1;5/5/2022;3;3100
+Smart TV;LG;Loja 2;20/7/2022;10;3650
+Celular;Apple;Loja 3;11/8/2022;8;5368
+Notebook;Asus;Loja 2;29/6/2022;6;2256
+Smart TV;Phillips;Loja 1;10/7/2022;5;3671
+Máquina de lavar;Brastemp;Loja 2;6/10/2022;4;2806
+Máquina de lavar;Brastemp;Loja 3;28/11/2022;10;3386
+Celular;Apple;Loja 2;22/7/2022;3;5754
+Máquina de lavar;Eletrolux;Loja 2;29/3/2022;10;3439
+Smart TV;Phillips;Loja 2;28/10/2022;8;5553
+Smart TV;LG;Loja 3;10/3/2022;7;7894
+Máquina de lavar;Brastemp;Loja 3;10/8/2022;5;5391
+Máquina de lavar;Eletrolux;Loja 3;25/3/2022;6;3698
+Máquina de lavar;Eletrolux;Loja 2;5/11/2022;5;5822
+Celular;Apple;Loja 1;12/6/2022;9;5724
+Smart TV;Phillips;Loja 3;6/8/2022;1;7787
+Smart TV;LG;Loja 2;14/12/2022;9;6015
+Máquina de lavar;Eletrolux;Loja 3;16/1/2022;7;3010
+Notebook;Lenovo;Loja 2;12/6/2022;1;2428
+Celular;Samsumg;Loja 3;26/5/2022;7;5746
+Smart TV;Phillips;Loja 1;11/1/2022;1;6027
+Celular;Apple;Loja 1;20/5/2022;7;5029
+Celular;Apple;Loja 3;1/11/2022;8;6977
+Celular;Samsumg;Loja 1;4/8/2022;9;5616
+Smart TV;Phillips;Loja 2;4/10/2022;8;6067
+Smart TV;Phillips;Loja 3;24/9/2022;9;7913
+Smart TV;LG;Loja 3;14/6/2022;10;7773
+Celular;Samsumg;Loja 2;30/10/2022;7;5434
+Celular;Samsumg;Loja 1;29/3/2022;2;6260
+Máquina de lavar;Eletrolux;Loja 2;11/8/2022;6;3968
+Máquina de lavar;Brastemp;Loja 3;10/10/2022;2;5976
+Celular;Apple;Loja 1;10/12/2022;1;6420
+Notebook;Asus;Loja 1;13/3/2022;8;1861
+Máquina de lavar;Eletrolux;Loja 1;13/11/2022;2;3347
+Máquina de lavar;Eletrolux;Loja 3;27/6/2022;4;4293
+Máquina de lavar;Brastemp;Loja 1;1/5/2022;8;2758
+Máquina de lavar;Brastemp;Loja 1;1/8/2022;2;3745
+Notebook;Lenovo;Loja 3;8/8/2022;5;2219
+Notebook;Asus;Loja 3;22/3/2022;5;2244
+Máquina de lavar;Brastemp;Loja 2;16/11/2022;7;4179
+Celular;Samsumg;Loja 2;12/1/2022;3;3037
+Máquina de lavar;Brastemp;Loja 2;10/10/2022;4;3889
+Máquina de lavar;Brastemp;Loja 3;9/3/2022;5;2793
+Notebook;Lenovo;Loja 3;24/8/2022;2;2500
+Máquina de lavar;Brastemp;Loja 1;29/1/2022;4;2889
+Smart TV;LG;Loja 3;22/1/2022;8;5992
+Notebook;Asus;Loja 3;20/7/2022;5;2211
+Notebook;Asus;Loja 2;15/12/2022;2;2044
+Máquina de lavar;Eletrolux;Loja 1;23/9/2022;5;5875
+Notebook;Lenovo;Loja 2;26/6/2022;2;1811
+Celular;Samsumg;Loja 1;3/6/2022;6;6083
+Celular;Apple;Loja 3;17/11/2022;6;5261
+Notebook;Asus;Loja 2;26/8/2022;4;2464
+Notebook;Asus;Loja 1;21/5/2022;8;2002
+Smart TV;Phillips;Loja 1;9/12/2022;5;3863
+Smart TV;LG;Loja 1;25/6/2022;10;4342
+Notebook;Asus;Loja 1;27/10/2022;8;2254
+Smart TV;Phillips;Loja 1;15/12/2022;3;5954
+Smart TV;Phillips;Loja 3;24/3/2022;10;3959
+Smart TV;Phillips;Loja 1;20/3/2022;5;6606
+Máquina de lavar;Brastemp;Loja 1;6/8/2022;7;2687
+Máquina de lavar;Brastemp;Loja 2;29/6/2022;8;5026
+Celular;Samsumg;Loja 1;12/3/2022;7;2505
+Celular;Samsumg;Loja 3;21/11/2022;7;3010
+Notebook;Lenovo;Loja 1;24/6/2022;5;1918
+Celular;Samsumg;Loja 1;19/11/2022;3;6376
+Notebook;Asus;Loja 3;28/6/2022;5;2070
+Smart TV;LG;Loja 2;12/8/2022;6;4816
+Celular;Apple;Loja 1;2/8/2022;1;5339
+Celular;Samsumg;Loja 1;28/5/2022;3;5166
+Notebook;Lenovo;Loja 3;11/4/2022;8;2570
+Notebook;Lenovo;Loja 3;14/12/2022;7;2114
+Notebook;Asus;Loja 3;2/1/2022;5;2446
+Notebook;Lenovo;Loja 2;12/11/2022;5;1808
+Máquina de lavar;Eletrolux;Loja 2;6/12/2022;7;5407
+Notebook;Lenovo;Loja 2;27/1/2022;4;2347
+Notebook;Asus;Loja 2;28/6/2022;3;2565
+Notebook;Lenovo;Loja 1;5/3/2022;9;2045
+Máquina de lavar;Brastemp;Loja 3;1/11/2022;4;3422
+Celular;Samsumg;Loja 1;12/1/2022;5;2857
+Notebook;Asus;Loja 3;14/3/2022;7;2124
+Notebook;Asus;Loja 3;16/7/2022;5;1900
+Celular;Samsumg;Loja 2;17/12/2022;1;2484
+Máquina de lavar;Eletrolux;Loja 1;7/10/2022;8;5990
+Notebook;Lenovo;Loja 1;6/6/2022;6;2574
+Smart TV;Phillips;Loja 1;11/7/2022;2;4713
+Notebook;Lenovo;Loja 1;29/4/2022;2;2525
+Celular;Samsumg;Loja 1;28/8/2022;8;4244
+Máquina de lavar;Brastemp;Loja 1;27/5/2022;5;5405
+Celular;Apple;Loja 3;24/10/2022;9;6836
+Notebook;Asus;Loja 3;21/7/2022;3;2533
+Smart TV;Phillips;Loja 3;9/1/2022;7;4327
+Máquina de lavar;Brastemp;Loja 1;25/7/2022;8;3811
+Celular;Apple;Loja 2;30/2/2022;3;3499
+Smart TV;Phillips;Loja 1;10/6/2022;1;5680
+Máquina de lavar;Brastemp;Loja 2;24/3/2022;10;4277
+Notebook;Asus;Loja 1;12/5/2022;9;1987
+Notebook;Asus;Loja 2;16/10/2022;7;2249
+Smart TV;LG;Loja 3;16/1/2022;9;5991
+Máquina de lavar;Brastemp;Loja 1;6/12/2022;5;3376
+Celular;Apple;Loja 1;22/6/2022;8;4948
+Máquina de lavar;Eletrolux;Loja 3;17/9/2022;8;3723
+Máquina de lavar;Brastemp;Loja 3;4/1/2022;4;4749
+Notebook;Asus;Loja 2;21/11/2022;4;2188
+Máquina de lavar;Brastemp;Loja 1;30/5/2022;10;2164
+Smart TV;LG;Loja 3;11/1/2022;2;7523
+Máquina de lavar;Eletrolux;Loja 3;30/11/2022;9;4254
+Celular;Apple;Loja 3;8/12/2022;8;4986
+Smart TV;Phillips;Loja 1;28/7/2022;9;5794
+Smart TV;LG;Loja 1;21/7/2022;5;3289
+Notebook;Asus;Loja 2;30/11/2022;9;2499
+Celular;Apple;Loja 3;20/6/2022;6;5020
+Celular;Apple;Loja 1;5/6/2022;8;6263
+Smart TV;LG;Loja 3;8/8/2022;8;7442
+Máquina de lavar;Brastemp;Loja 2;16/12/2022;6;4339
+Celular;Samsumg;Loja 2;16/11/2022;10;2781
+Smart TV;LG;Loja 2;4/2/2022;6;3742
+Máquina de lavar;Brastemp;Loja 1;7/1/2022;7;2269
+Smart TV;Phillips;Loja 3;25/5/2022;6;5771
+Celular;Apple;Loja 1;7/5/2022;4;4985
+Celular;Samsumg;Loja 2;22/8/2022;8;4709
+Smart TV;Phillips;Loja 1;29/5/2022;9;3765
+Máquina de lavar;Eletrolux;Loja 3;5/2/2022;7;4443
+Smart TV;LG;Loja 2;23/9/2022;2;3499
+Celular;Apple;Loja 3;27/11/2022;5;3771
+Notebook;Asus;Loja 1;3/6/2022;3;2574
+Smart TV;LG;Loja 3;27/10/2022;10;3425
+Celular;Samsumg;Loja 1;4/12/2022;5;4381
+Notebook;Lenovo;Loja 1;28/10/2022;6;1899
+Celular;Samsumg;Loja 1;9/2/2022;4;5077
+Máquina de lavar;Eletrolux;Loja 3;15/1/2022;2;2079
+Máquina de lavar;Eletrolux;Loja 3;5/6/2022;9;4190
+Máquina de lavar;Eletrolux;Loja 1;15/6/2022;1;5249
+Notebook;Asus;Loja 1;5/7/2022;2;2580
+Celular;Samsumg;Loja 1;5/9/2022;1;6008
+Smart TV;LG;Loja 3;25/6/2022;3;5191
+Notebook;Asus;Loja 2;24/7/2022;10;1965
+Máquina de lavar;Eletrolux;Loja 3;20/4/2022;2;5385
+Smart TV;LG;Loja 1;18/12/2022;2;7003
+Notebook;Lenovo;Loja 3;14/2/2022;6;2227
+Máquina de lavar;Eletrolux;Loja 1;4/1/2022;6;4771
+Celular;Apple;Loja 3;3/9/2022;3;5373
+Notebook;Lenovo;Loja 3;12/2/2022;2;2277
+Celular;Apple;Loja 3;24/3/2022;7;3559
+Celular;Apple;Loja 2;19/8/2022;1;6263
+Notebook;Asus;Loja 3;10/1/2022;9;1707
+Smart TV;LG;Loja 3;27/10/2022;4;3030
+Máquina de lavar;Eletrolux;Loja 1;20/12/2022;10;2309
+Celular;Samsumg;Loja 1;3/2/2022;2;4755
+Máquina de lavar;Brastemp;Loja 3;3/10/2022;7;4835
+Máquina de lavar;Brastemp;Loja 3;27/12/2022;3;4220
+Smart TV;LG;Loja 3;9/4/2022;3;3835
+Notebook;Lenovo;Loja 3;29/11/2022;7;2473
+Notebook;Asus;Loja 2;23/7/2022;6;2021
+Smart TV;Phillips;Loja 2;1/5/2022;5;6870
+Notebook;Asus;Loja 1;19/4/2022;7;1764
+Máquina de lavar;Brastemp;Loja 1;5/12/2022;1;5470
+Máquina de lavar;Eletrolux;Loja 3;30/9/2022;2;3432
+Notebook;Lenovo;Loja 3;8/3/2022;7;2194
+Máquina de lavar;Brastemp;Loja 2;30/11/2022;9;5511
+Smart TV;Phillips;Loja 1;14/3/2022;6;4930
+Notebook;Asus;Loja 2;4/4/2022;6;2538
+Celular;Apple;Loja 1;23/7/2022;3;5794
+Máquina de lavar;Eletrolux;Loja 1;21/6/2022;8;5145
+Notebook;Asus;Loja 2;17/4/2022;4;2487
+Máquina de lavar;Brastemp;Loja 2;11/5/2022;2;3703
+Celular;Apple;Loja 2;9/2/2022;9;5469
+Celular;Apple;Loja 1;4/11/2022;10;6206
+Notebook;Asus;Loja 3;2/3/2022;3;2201
+Celular;Samsumg;Loja 1;16/12/2022;4;2548
+Notebook;Asus;Loja 1;9/6/2022;2;2473
+Notebook;Asus;Loja 3;11/1/2022;9;2360
+Celular;Samsumg;Loja 2;30/5/2022;10;6534
+Celular;Apple;Loja 2;22/2/2022;4;5886
+Notebook;Lenovo;Loja 1;5/4/2022;7;2245
+Smart TV;Phillips;Loja 2;4/8/2022;3;7782
+Notebook;Lenovo;Loja 1;29/2/2022;9;2340
+Celular;Apple;Loja 2;10/3/2022;5;3596
+Notebook;Asus;Loja 1;7/10/2022;10;2408
+Máquina de lavar;Brastemp;Loja 2;7/10/2022;3;4514
+Celular;Samsumg;Loja 1;1/2/2022;4;4602
+Máquina de lavar;Brastemp;Loja 3;11/10/2022;4;2736
+Smart TV;LG;Loja 1;11/6/2022;2;6015
+Notebook;Asus;Loja 2;23/4/2022;2;2373
+Smart TV;Phillips;Loja 1;4/5/2022;2;7816
+Máquina de lavar;Brastemp;Loja 1;22/11/2022;4;5479
+Máquina de lavar;Eletrolux;Loja 1;17/10/2022;4;3729
+Notebook;Asus;Loja 2;5/6/2022;4;2544
+Notebook;Asus;Loja 3;28/2/2022;2;2402
+Celular;Samsumg;Loja 1;10/6/2022;9;5488
+Máquina de lavar;Brastemp;Loja 2;15/10/2022;7;4859
+Celular;Samsumg;Loja 3;11/4/2022;10;4064
+Máquina de lavar;Eletrolux;Loja 1;22/1/2022;5;5252
+Notebook;Asus;Loja 3;21/8/2022;10;1940
+Máquina de lavar;Eletrolux;Loja 2;22/7/2022;1;5923
+Máquina de lavar;Brastemp;Loja 2;16/3/2022;1;5666
+Smart TV;Phillips;Loja 1;15/3/2022;1;6240
+Notebook;Asus;Loja 3;18/7/2022;1;2462
+Celular;Apple;Loja 1;2/12/2022;1;4839
+Celular;Apple;Loja 1;18/10/2022;1;6282
+Notebook;Asus;Loja 2;24/9/2022;4;2500
+Máquina de lavar;Brastemp;Loja 3;23/12/2022;7;5870
+Notebook;Lenovo;Loja 2;23/6/2022;1;1801
+Celular;Samsumg;Loja 2;9/8/2022;1;4829
+Smart TV;LG;Loja 2;2/4/2022;1;3557
+Máquina de lavar;Brastemp;Loja 1;30/11/2022;10;3736
+Celular;Apple;Loja 2;23/5/2022;7;2332
+Smart TV;Phillips;Loja 3;28/8/2022;8;4154
+Máquina de lavar;Brastemp;Loja 3;23/9/2022;7;4146
+Máquina de lavar;Eletrolux;Loja 2;10/2/2022;10;5281
+Smart TV;LG;Loja 3;11/12/2022;3;6636
+Smart TV;Phillips;Loja 1;23/7/2022;8;7906
+Máquina de lavar;Brastemp;Loja 1;27/1/2022;5;2977
+Smart TV;LG;Loja 2;30/2/2022;7;6117
+Notebook;Asus;Loja 1;21/12/2022;8;1829
+Notebook;Asus;Loja 3;29/2/2022;9;1857
+Celular;Samsumg;Loja 3;9/3/2022;9;2339
+Smart TV;Phillips;Loja 1;16/2/2022;1;5463
+Smart TV;Phillips;Loja 1;25/11/2022;4;5089
+Máquina de lavar;Brastemp;Loja 1;23/8/2022;6;5309
+Celular;Samsumg;Loja 2;29/7/2022;8;3960
+Celular;Apple;Loja 1;18/8/2022;8;4381
+Celular;Apple;Loja 1;11/1/2022;8;3094
+Smart TV;LG;Loja 2;3/10/2022;1;5259
+Celular;Apple;Loja 1;14/10/2022;6;3818
+Máquina de lavar;Eletrolux;Loja 2;18/10/2022;6;4551
+Notebook;Asus;Loja 2;25/11/2022;10;1801
+Celular;Samsumg;Loja 1;23/2/2022;8;3322
+Máquina de lavar;Eletrolux;Loja 1;4/2/2022;2;2054
+Celular;Samsumg;Loja 2;30/11/2022;3;6477
+Máquina de lavar;Brastemp;Loja 2;30/11/2022;4;3621
+Máquina de lavar;Brastemp;Loja 3;14/2/2022;4;4502
+Notebook;Lenovo;Loja 1;27/10/2022;2;2186
+Máquina de lavar;Brastemp;Loja 3;18/4/2022;7;4841
+Celular;Samsumg;Loja 2;15/11/2022;1;6672
+Celular;Samsumg;Loja 3;5/5/2022;4;6388
+Smart TV;LG;Loja 2;24/2/2022;3;5458
+Celular;Apple;Loja 1;18/2/2022;1;4785
+Máquina de lavar;Eletrolux;Loja 2;29/6/2022;6;2614
+Celular;Samsumg;Loja 1;25/3/2022;7;6465
+Notebook;Lenovo;Loja 2;23/12/2022;10;2590
+Smart TV;LG;Loja 1;9/2/2022;1;5848
+Máquina de lavar;Brastemp;Loja 2;25/7/2022;1;5224
+Máquina de lavar;Brastemp;Loja 1;12/12/2022;5;3986
+Smart TV;Phillips;Loja 1;21/8/2022;6;6823
+Notebook;Lenovo;Loja 3;24/4/2022;6;1825
+Smart TV;Phillips;Loja 1;30/2/2022;6;4787
+Notebook;Lenovo;Loja 3;4/8/2022;6;1755
+Celular;Samsumg;Loja 1;24/9/2022;3;4587
+Notebook;Asus;Loja 2;4/12/2022;4;2530
+Celular;Apple;Loja 2;4/9/2022;1;3033
+Celular;Apple;Loja 1;4/3/2022;5;3316
+Máquina de lavar;Eletrolux;Loja 3;25/2/2022;8;2541
+Smart TV;Phillips;Loja 1;11/3/2022;4;6926
+Celular;Samsumg;Loja 1;22/2/2022;1;3304
+Máquina de lavar;Brastemp;Loja 3;6/7/2022;7;3932
+Notebook;Lenovo;Loja 3;23/10/2022;2;1807
+Máquina de lavar;Eletrolux;Loja 1;7/4/2022;1;4886
+Smart TV;LG;Loja 1;9/9/2022;3;4233
+Smart TV;LG;Loja 3;28/10/2022;6;4338
+Celular;Apple;Loja 1;16/11/2022;3;4495
+Celular;Samsumg;Loja 1;17/7/2022;3;6233
+Celular;Samsumg;Loja 2;7/3/2022;9;6630
+Celular;Apple;Loja 2;14/9/2022;4;4095
+Celular;Samsumg;Loja 1;10/8/2022;1;3392
+Celular;Samsumg;Loja 2;5/7/2022;7;3887
+Smart TV;Phillips;Loja 1;10/5/2022;7;7261
+Máquina de lavar;Eletrolux;Loja 3;2/9/2022;6;4028
+Máquina de lavar;Eletrolux;Loja 3;17/1/2022;8;5595
+Máquina de lavar;Eletrolux;Loja 1;27/6/2022;1;5123
+Smart TV;LG;Loja 1;14/12/2022;7;3127
+Notebook;Lenovo;Loja 2;2/8/2022;6;1717
+Celular;Apple;Loja 2;15/3/2022;9;6223
+Máquina de lavar;Brastemp;Loja 1;16/4/2022;7;2559
+Notebook;Asus;Loja 3;21/7/2022;10;2417
+Smart TV;Phillips;Loja 1;7/10/2022;3;5768
+Máquina de lavar;Brastemp;Loja 2;9/6/2022;2;5052
+Notebook;Asus;Loja 3;28/9/2022;9;2494
+Máquina de lavar;Eletrolux;Loja 1;28/9/2022;4;3999
+Celular;Apple;Loja 2;12/7/2022;6;6332
+Máquina de lavar;Brastemp;Loja 3;5/9/2022;2;3369
+Máquina de lavar;Eletrolux;Loja 1;19/1/2022;6;4742
+Máquina de lavar;Eletrolux;Loja 1;30/3/2022;5;4468
+Smart TV;Phillips;Loja 1;24/4/2022;1;3332
+Smart TV;Phillips;Loja 3;16/10/2022;8;6285
+Notebook;Asus;Loja 2;20/3/2022;9;1844
+Celular;Apple;Loja 3;3/4/2022;9;3999
+Notebook;Lenovo;Loja 1;27/6/2022;10;2279
+Celular;Samsumg;Loja 1;29/7/2022;8;4815
+Smart TV;Phillips;Loja 1;6/4/2022;4;5116
+Smart TV;LG;Loja 3;23/9/2022;9;3921
+Celular;Samsumg;Loja 2;15/10/2022;8;5693
+Smart TV;LG;Loja 2;7/3/2022;4;6520
+Smart TV;Phillips;Loja 1;28/9/2022;9;5976
+Celular;Samsumg;Loja 1;3/11/2022;9;2139
+Smart TV;Phillips;Loja 2;2/8/2022;5;7926
+Máquina de lavar;Eletrolux;Loja 3;8/4/2022;2;3705
+Notebook;Asus;Loja 1;4/10/2022;2;1971
+Máquina de lavar;Eletrolux;Loja 1;5/2/2022;10;2950
+Notebook;Lenovo;Loja 2;29/12/2022;10;1962
+Máquina de lavar;Eletrolux;Loja 1;4/12/2022;7;2148
+Notebook;Asus;Loja 1;19/10/2022;1;2462
+Máquina de lavar;Brastemp;Loja 1;3/5/2022;7;3345
+Smart TV;LG;Loja 3;26/5/2022;3;3989
+Notebook;Lenovo;Loja 3;17/11/2022;8;2228
+Notebook;Asus;Loja 2;25/6/2022;9;2016
+Smart TV;Phillips;Loja 3;15/4/2022;9;4149
+Celular;Samsumg;Loja 3;26/3/2022;3;4728
+Smart TV;Phillips;Loja 3;28/1/2022;8;5938
+Máquina de lavar;Brastemp;Loja 3;29/12/2022;6;5017
+Celular;Samsumg;Loja 1;16/11/2022;10;5877
+O faturamento foi de R$45,006,168
