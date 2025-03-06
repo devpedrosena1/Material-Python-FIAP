@@ -1,0 +1,11 @@
+{
+    "Titulo": "Harry Potter e a Pedra Filosofal",
+    "Autor": "J. K. Rowlling",
+    "Ano": 1997,
+    "Original": "Harry Potter and Phillosopher's Stone",
+    "Generos": [
+        "Ficcao",
+        "Infantil",
+        "Drama"
+    ]
+}

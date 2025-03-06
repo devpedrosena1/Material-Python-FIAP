@@ -1,0 +1,14 @@
+[
+    {
+        "Nome": "Sao Paulo",
+        "divisao": "Serie A",
+        "Estadio": "Morumbi",
+        "Fundacao": 1930
+    },
+    {
+        "Nome": "Corinthians",
+        "divisao": "Serie A",
+        "Estadio": "Neo Quimica Arena",
+        "Fundacao": 1910
+    }
+]
