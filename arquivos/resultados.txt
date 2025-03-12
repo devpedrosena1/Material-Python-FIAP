@@ -1,20 +1,30 @@
-Palmeiras 1X5 Botafogo
-Palmeiras 1X3 Flamengo
-Palmeiras 4X3 Corinthians
-Palmeiras 5X0 Santos
-Botafogo 4X0 Flamengo
-Botafogo 1X1 Corinthians
-Botafogo 5X4 Santos
-Flamengo 2X2 Corinthians
-Flamengo 2X0 Santos
-Corinthians 0X0 Santos
-Botafogo 0X5 Palmeiras
-Flamengo 5X5 Palmeiras
-Corinthians 2X1 Palmeiras
-Santos 0X3 Palmeiras
-Flamengo 0X4 Botafogo
-Corinthians 1X5 Botafogo
-Santos 3X2 Botafogo
-Corinthians 1X2 Flamengo
-Santos 4X2 Flamengo
-Santos 3X1 Corinthians
+São Paulo 4 X 4 Palmeiras
+São Paulo 0 X 0 Botafogo
+São Paulo 0 X 1 Flamengo
+São Paulo 5 X 5 Corinthians
+São Paulo 5 X 3 Santos
+Palmeiras 4 X 5 Botafogo
+Palmeiras 2 X 5 Flamengo
+Palmeiras 3 X 3 Corinthians
+Palmeiras 1 X 1 Santos
+Botafogo 5 X 2 Flamengo
+Botafogo 5 X 4 Corinthians
+Botafogo 1 X 5 Santos
+Flamengo 5 X 2 Corinthians
+Flamengo 0 X 1 Santos
+Corinthians 5 X 3 Santos
+Palmeiras 5 X 3 São Paulo
+Botafogo 5 X 2 São Paulo
+Flamengo 5 X 2 São Paulo
+Corinthians 5 X 5 São Paulo
+Santos 3 X 0 São Paulo
+Botafogo 4 X 2 Palmeiras
+Flamengo 3 X 4 Palmeiras
+Corinthians 0 X 5 Palmeiras
+Santos 1 X 5 Palmeiras
+Flamengo 3 X 5 Botafogo
+Corinthians 1 X 0 Botafogo
+Santos 2 X 3 Botafogo
+Corinthians 4 X 5 Flamengo
+Santos 2 X 0 Flamengo
+Santos 4 X 5 Corinthians
