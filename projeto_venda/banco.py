@@ -47,6 +47,21 @@ if __name__ == "__main__":
         "documento": "234.828.902-00"
     }
 
-    insere_cliente(cliente)
+    venda = {
+        "data": "20-09-2023",
+        "valor": 130,
+        "id_cliente": 2
+    }
+
+    item_venda = {
+        "produto": "Fone Bluetooth",
+        "quantidade": 1,
+        "valor": 130,
+        "id_venda": 1
+    }
+
+    #insere_cliente(cliente)
+    insere_venda(venda)
 
     print(cliente)
+    print(venda)
