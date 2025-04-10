@@ -35,7 +35,6 @@ def insere_time(time: dict):
 
 ## def inserir_partida
 
-
 if __name__ == "__main__":
     time = entrada_valores()
     insere_time(time)
