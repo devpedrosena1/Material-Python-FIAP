@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>CEP: <input type="text" id="cep"><input type="button" id="botao" value="Buscar"></p>
+    <p>Logradouro: <input type="text" id="logradouro"></p>
+    <p>
+        Cidade: <input type="text" id="cidade">
+        Bairro: <input type="text" id="bairro">
+    </p>
+
+    <script>
+        botao = document.getElementById('botao')
+        botao.addEventListener('click', function(){
+            cep = document.getElementById('cep')
+            // console.log(cep.value)
+            // alert(cep.value)
+            link = "https://viacep.com.br/ws/" + cep.value + "/json"
+            fetch(link)
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data)
+                    log = document.getElementById("logradouro")
+                    log.value = data.logradouro
+
+                    bai = document.getElementById("bairro")
+                    bai.value = data.bairro
+
+                    cid = document.getElementById("cidade")
+                    cid.value = data.localidade
+                })
+        })
+    </script>
+</body>
+</html>
