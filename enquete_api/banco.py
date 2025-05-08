@@ -1,7 +1,7 @@
 import oracledb
 
 def get_conexao():
-    return oracledb.connect(user="rm561178", password="200905", 
+    return oracledb.connect(user="rm560442", password="fiap25", 
                             dsn="oracle.fiap.com.br/orcl")
 
 def recupera_perguntas(enquete_id: int) -> list:
